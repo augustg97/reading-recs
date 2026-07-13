@@ -1,7 +1,9 @@
 // Read Something Together — pick data
 // Each pick must offer something to BOTH August and Julia (see ../selection-criteria.md).
 // lean: 'a' = leans August, 'j' = leans Julia, 'b' = squarely both.
-// Quotes are kept to a single short line or omitted.
+// accent: per-pick theme color. art: original minimal SVG (stroke uses var(--accent)).
+// excerpt: VERIFIED short snippet (the piece's opening line(s) or the publisher's own
+// teaser), max ~40 words — never longer, never invented.
 
 const PICKS = [
   {
@@ -15,8 +17,10 @@ const PICKS = [
     kind: "fiction",
     lean: "b",
     added: "2026-07-12",
-    note: "The ur-text of cerebral weird fiction: a conspiracy of scholars invents an encyclopedia of a fictional world, and the invented world starts colonizing the real one. Julia gets the strangest, most elegant story ever built out of footnotes and mirrors. August gets something eerier — a 1940 case study of how a sufficiently coherent information system doesn't describe reality, it replaces it. Read it and then think about training data.",
-    quote: ""
+    accent: "#58C9B9",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><polygon points="45,18 75,18 90,44 75,70 45,70 30,44" stroke="var(--accent)" stroke-width="2.5"/><polygon points="60,50 90,50 105,76 90,102 60,102 45,76" stroke="var(--accent)" stroke-width="2.5" stroke-dasharray="5 5" opacity=".55"/></svg>',
+    excerpt: "I owe the discovery of Uqbar to the conjunction of a mirror and an encyclopedia.",
+    note: "The ur-text of cerebral weird fiction: a conspiracy of scholars invents an encyclopedia of a fictional world, and the invented world starts colonizing the real one. Julia gets the strangest, most elegant story ever built out of footnotes and mirrors. August gets something eerier — a 1940 case study of how a sufficiently coherent information system doesn't describe reality, it replaces it. Read it and then think about training data."
   },
   {
     n: 2,
@@ -29,8 +33,10 @@ const PICKS = [
     kind: "journalism",
     lean: "j",
     added: "2026-07-12",
-    note: "The most celebrated magazine profile ever written — and Sinatra never gave Talese an interview. For Julia: this is the piece that invented modern long-form journalism, assembled entirely from the edges of a subject. For August: it's a cold-eyed study of power, entourage, and image management — a Succession episode set in 1965, complete with the terrified courtiers.",
-    quote: "Sinatra with a cold is Picasso without paint, Ferrari without fuel — only worse."
+    accent: "#E5A54F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M20 15 L78 95" stroke="var(--accent)" stroke-width="2" opacity=".4"/><path d="M20 15 L98 75" stroke="var(--accent)" stroke-width="2" opacity=".4"/><path d="M20 15 L58 105" stroke="var(--accent)" stroke-width="2" opacity=".4"/><circle cx="78" cy="92" r="13" stroke="var(--accent)" stroke-width="2.5"/><path d="M58 86 Q78 76 98 86" stroke="var(--accent)" stroke-width="2.5"/></svg>',
+    excerpt: "Sinatra with a cold is Picasso without paint, Ferrari without fuel — only worse.",
+    note: "The most celebrated magazine profile ever written — and Sinatra never gave Talese an interview. For Julia: this is the piece that invented modern long-form journalism, assembled entirely from the edges of a subject. For August: it's a cold-eyed study of power, entourage, and image management — a Succession episode set in 1965, complete with the terrified courtiers."
   },
   {
     n: 3,
@@ -43,8 +49,10 @@ const PICKS = [
     kind: "profile",
     lean: "j",
     added: "2026-07-12",
-    note: "A profile of Derek Parfit, the analytic philosopher who spent his life on personal identity and what we owe the future, written with novelistic strangeness. Julia: this is your tradition's greatest eccentric, rendered as an unforgettable character. August: Parfit's view — that identity over time is just psychological continuity, and matters less than we think — is the Severance problem stated formally. What do you owe your innie?",
-    quote: ""
+    accent: "#A78BFA",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="47" cy="60" r="28" stroke="var(--accent)" stroke-width="2.5"/><circle cx="73" cy="60" r="28" stroke="var(--accent)" stroke-width="2.5" stroke-dasharray="4 5" opacity=".65"/><path d="M60 38 v44" stroke="var(--accent)" stroke-width="1.5" opacity=".35"/></svg>',
+    excerpt: "What makes me the same person throughout my life, and a different person from you? And what is the importance of these facts?",
+    note: "A profile of Derek Parfit, the analytic philosopher who spent his life on personal identity and what we owe the future, written with novelistic strangeness. Julia: this is your tradition's greatest eccentric, rendered as an unforgettable character. August: Parfit's view — that identity over time is just psychological continuity, and matters less than we think — is the Severance problem stated formally. What do you owe your innie?"
   },
   {
     n: 4,
@@ -57,8 +65,10 @@ const PICKS = [
     kind: "essay",
     lean: "b",
     added: "2026-07-12",
-    note: "An anthropologist asks why capitalism, which is supposed to hate waste, generates millions of jobs that even the people doing them believe are pointless. Short, furious, and very funny. This is the Lumon Industries thesis statement — sociology of work for August, corporate absurdism Julia can bill 0.3 hours to reading.",
-    quote: "It's as if someone were out there making up pointless jobs just for the sake of keeping us all working."
+    accent: "#E8635A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="2.2" opacity=".5"><rect x="22" y="22" width="20" height="20"/><rect x="50" y="22" width="20" height="20"/><rect x="78" y="22" width="20" height="20"/><rect x="22" y="50" width="20" height="20"/><rect x="78" y="50" width="20" height="20"/><rect x="22" y="78" width="20" height="20"/><rect x="50" y="78" width="20" height="20"/><rect x="78" y="78" width="20" height="20"/></g><rect x="50" y="50" width="20" height="20" stroke="var(--accent)" stroke-width="2.5" transform="rotate(18 60 60)"/></svg>',
+    excerpt: "In the year 1930, John Maynard Keynes predicted that, by century's end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a 15-hour work week.",
+    note: "An anthropologist asks why capitalism, which is supposed to hate waste, generates millions of jobs that even the people doing them believe are pointless. Short, furious, and very funny. This is the Lumon Industries thesis statement — sociology of work for August, corporate absurdism Julia can bill 0.3 hours to reading."
   },
   {
     n: 5,
@@ -71,8 +81,10 @@ const PICKS = [
     kind: "essay",
     lean: "a",
     added: "2026-07-12",
-    note: "A sprawling weird think piece that starts as a close reading of Ginsberg's 'Howl' and becomes a demonology of coordination failure — why systems reliably produce outcomes nobody in them wants. August: this essay quietly underwrites half of modern AI-policy discourse; you've been in meetings that are secretly about it. Julia: it's structured like scriptural exegesis and reads like analytic philosophy having a nervous breakdown, in the best way.",
-    quote: "The opposite of a trap is a garden."
+    accent: "#E2622B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><polygon points="20,25 100,25 60,95" stroke="var(--accent)" stroke-width="2.5"/><polygon points="35,35 85,35 60,78" stroke="var(--accent)" stroke-width="2.2" opacity=".65"/><polygon points="48,45 72,45 60,64" stroke="var(--accent)" stroke-width="2" opacity=".4"/></svg>',
+    excerpt: "The opposite of a trap is a garden.",
+    note: "A sprawling weird think piece that starts as a close reading of Ginsberg's 'Howl' and becomes a demonology of coordination failure — why systems reliably produce outcomes nobody in them wants. August: this essay quietly underwrites half of modern AI-policy discourse; you've been in meetings that are secretly about it. Julia: it's structured like scriptural exegesis and reads like analytic philosophy having a nervous breakdown, in the best way."
   },
   {
     n: 6,
@@ -85,8 +97,10 @@ const PICKS = [
     kind: "essay",
     lean: "b",
     added: "2026-07-12",
-    note: "An Oxford analytic philosopher reviews two books about octopuses and produces the best essay ever written on what it's like to be a mind utterly unlike ours. Julia gets rigorous philosophy of mind in gorgeous prose; August gets first-contact-grade science writing about the only alien intelligence we've actually met. The title alone earns its place.",
-    quote: ""
+    accent: "#F08BAD",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="2.5"><circle cx="60" cy="60" r="6"/><circle cx="78" cy="52" r="7.5"/><circle cx="82" cy="72" r="9"/><circle cx="66" cy="88" r="10.5"/><circle cx="42" cy="82" r="12"/><circle cx="32" cy="58" r="13.5"/><circle cx="44" cy="32" r="15"/></g></svg>',
+    excerpt: "In 1815, 15 years before he made his most famous print, The Great Wave, Hokusai published three volumes of erotic art.",
+    note: "An Oxford analytic philosopher reviews two books about octopuses and produces the best essay ever written on what it's like to be a mind utterly unlike ours. Julia gets rigorous philosophy of mind in gorgeous prose; August gets first-contact-grade science writing about the only alien intelligence we've actually met. The title alone earns its place."
   },
   {
     n: 7,
@@ -99,8 +113,10 @@ const PICKS = [
     kind: "fiction",
     lean: "b",
     added: "2026-07-12",
-    note: "In a corporate research facility, prisoners test emotion-altering drugs administered by cheerful technicians speaking flawless HR. Unsettling, hilarious, and then quietly shattering — Severance before Severance existed, with Ex Machina's ethics-of-the-lab dread. Saunders is the great American writer of institutional language used to launder cruelty; you will both recognize the dialect.",
-    quote: ""
+    accent: "#A8D86A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M25 78 A35 35 0 0 1 95 78" stroke="var(--accent)" stroke-width="2.5"/><path d="M25 78 H95" stroke="var(--accent)" stroke-width="2.5"/><path d="M60 20 v20" stroke="var(--accent)" stroke-width="2"/><path d="M60 46 C54 55 54 62 60 64 C66 62 66 55 60 46 Z" stroke="var(--accent)" stroke-width="2.2"/></svg>',
+    excerpt: "I was sad that love could feel so real and the next minute be gone, and all because of something Abnesti was doing.",
+    note: "In a corporate research facility, prisoners test emotion-altering drugs administered by cheerful technicians speaking flawless HR. Unsettling, hilarious, and then quietly shattering — Severance before Severance existed, with Ex Machina's ethics-of-the-lab dread. Saunders is the great American writer of institutional language used to launder cruelty; you will both recognize the dialect."
   },
   {
     n: 8,
@@ -113,8 +129,10 @@ const PICKS = [
     kind: "profile",
     lean: "a",
     added: "2026-07-12",
-    note: "Jeff Dean and Sanjay Ghemawat, who write code together at one keyboard and quietly rebuilt Google's foundations several times over. August: the best mainstream account of what world-class engineering actually feels like from inside. Julia: it's secretly a tender double profile about a decades-long friendship — the rare tech story where the humans are the interesting part.",
-    quote: ""
+    accent: "#6B9BFF",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M45 25 q-12 0 -12 14 v8 q0 10 -9 13 q9 3 9 13 v8 q0 14 12 14" stroke="var(--accent)" stroke-width="2.5"/><path d="M75 25 q12 0 12 14 v8 q0 10 9 13 q-9 3 -9 13 v8 q0 14 -12 14" stroke="var(--accent)" stroke-width="2.5"/><circle cx="60" cy="60" r="3.5" fill="var(--accent)"/></svg>',
+    excerpt: "One day in March of 2000, six of Google's best engineers gathered in a makeshift war room.",
+    note: "Jeff Dean and Sanjay Ghemawat, who write code together at one keyboard and quietly rebuilt Google's foundations several times over. August: the best mainstream account of what world-class engineering actually feels like from inside. Julia: it's secretly a tender double profile about a decades-long friendship — the rare tech story where the humans are the interesting part."
   },
   {
     n: 9,
@@ -127,8 +145,10 @@ const PICKS = [
     kind: "essay",
     lean: "j",
     added: "2026-07-12",
-    note: "Lockwood reports from inside 'the portal' — the internet — in fragments that are half prose-poem, half fever dream, and funnier than either has any right to be. Julia: this is the weird think piece perfected, unsettling in the way good weird fiction is. August: no one has better captured the texture of the communal machine-mind we all now partly live in — futurism by immersion rather than prediction.",
-    quote: ""
+    accent: "#E36BD3",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="1.5" opacity=".45"><path d="M30 40 L58 30 L88 44 L74 72 L40 78 Z"/><path d="M58 30 L74 72 M30 40 L74 72 M88 44 L40 78 M74 72 L96 86"/></g><g fill="var(--accent)"><circle cx="30" cy="40" r="4"/><circle cx="58" cy="30" r="5"/><circle cx="88" cy="44" r="4"/><circle cx="74" cy="72" r="5"/><circle cx="40" cy="78" r="4"/><circle cx="96" cy="86" r="3.5"/></g></svg>',
+    excerpt: "She opened the portal, and the mind met her more than halfway. Inside, it was tropical and snowing…",
+    note: "Lockwood reports from inside 'the portal' — the internet — in fragments that are half prose-poem, half fever dream, and funnier than either has any right to be. Julia: this is the weird think piece perfected, unsettling in the way good weird fiction is. August: no one has better captured the texture of the communal machine-mind we all now partly live in — futurism by immersion rather than prediction."
   },
   {
     n: 10,
@@ -141,8 +161,10 @@ const PICKS = [
     kind: "fiction",
     lean: "b",
     added: "2026-07-12",
-    note: "A scientist in a universe of air-driven mechanical beings performs an auto-dissection of his own brain and discovers what powers thought — and what must eventually happen to it. Philosophy of mind as jewel-box fable: Julia gets a thought experiment worthy of the analytic canon, August gets the finest working sci-fi writer at his absolute peak. Quietly devastating and strangely consoling at once.",
-    quote: "Contemplate the marvel that is existence, and rejoice that you are able to do so."
+    accent: "#96C4E8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="60" cy="60" r="8" stroke="var(--accent)" stroke-width="2.5"/><g stroke="var(--accent)" stroke-width="2" opacity=".75"><path d="M60 40 v-12"/><path d="M60 80 v12"/><path d="M40 60 h-12"/><path d="M80 60 h12"/><path d="M46 46 l-9 -9"/><path d="M74 46 l9 -9"/><path d="M46 74 l-9 9"/><path d="M74 74 l9 9"/></g><g stroke="var(--accent)" stroke-width="1.5" opacity=".3"><path d="M60 20 v-8"/><path d="M60 100 v8"/><path d="M20 60 h-8"/><path d="M100 60 h8"/></g></svg>',
+    excerpt: "It has long been said that air (which others call argon) is the source of life. This is not in fact the case…",
+    note: "A scientist in a universe of air-driven mechanical beings performs an auto-dissection of his own brain and discovers what powers thought — and what must eventually happen to it. Philosophy of mind as jewel-box fable: Julia gets a thought experiment worthy of the analytic canon, August gets the finest working sci-fi writer at his absolute peak. Quietly devastating and strangely consoling at once."
   },
   {
     n: 11,
@@ -155,8 +177,10 @@ const PICKS = [
     kind: "fiction",
     lean: "b",
     added: "2026-07-12",
-    note: "A Wikipedia article from a future where the first successfully scanned human brain has become a widely-forked piece of software with 'workload attitude problems.' Two thousand words of encyclopedic deadpan that add up to the most quietly horrifying AI story ever written — Severance's innie problem taken to its logical end. You will both think about this one for weeks; August may also think about it at work.",
-    quote: ""
+    accent: "#5FE0A8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="2.5"><rect x="14" y="46" width="22" height="28"/><rect x="42" y="46" width="22" height="28" opacity=".6"/><rect x="70" y="46" width="22" height="28" opacity=".35"/><rect x="98" y="46" width="10" height="28" opacity=".15"/></g><path d="M20 54 h10 M20 60 h10 M20 66 h6" stroke="var(--accent)" stroke-width="1.5"/></svg>',
+    excerpt: "MMAcevedo (Mnemonic Map/Acevedo), also known as Miguel, is the earliest executable image of a human brain.",
+    note: "A Wikipedia article from a future where the first successfully scanned human brain has become a widely-forked piece of software with 'workload attitude problems.' Two thousand words of encyclopedic deadpan that add up to the most quietly horrifying AI story ever written — Severance's innie problem taken to its logical end. You will both think about this one for weeks; August may also think about it at work."
   },
   {
     n: 12,
@@ -169,7 +193,9 @@ const PICKS = [
     kind: "journalism",
     lean: "a",
     added: "2026-07-12",
-    note: "What happens when the AI buildout lands in your town, told chorus-style by the neighbors: the noise, the water, the tax deals, the meetings where nobody's questions get answered. August: the material politics of compute, uncomfortably close to the day job. Julia: oral-history long-form with the mounting dread of a good horror story — except the monster is a substation. Fresh from June 2026.",
-    quote: ""
+    accent: "#CDBE58",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="2.5"><rect x="52" y="30" width="48" height="16"/><rect x="52" y="52" width="48" height="16"/><rect x="52" y="74" width="48" height="16"/></g><g fill="var(--accent)"><circle cx="92" cy="38" r="2.5"/><circle cx="92" cy="60" r="2.5"/><circle cx="92" cy="82" r="2.5"/></g><path d="M16 90 v-14 l10 -9 l10 9 v14 z" stroke="var(--accent)" stroke-width="2.2"/><path d="M36 82 h16 M46 60 h6 M46 60 v22" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/></svg>',
+    excerpt: "We've gathered stories from all across the country detailing what happens when Big Tech's latest monstrosities come to town.",
+    note: "What happens when the AI buildout lands in your town, told chorus-style by the neighbors: the noise, the water, the tax deals, the meetings where nobody's questions get answered. August: the material politics of compute, uncomfortably close to the day job. Julia: oral-history long-form with the mounting dread of a good horror story — except the monster is a substation. Fresh from June 2026."
   }
 ];

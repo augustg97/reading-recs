@@ -25,6 +25,11 @@
     background:var(--bg);color:var(--ink);font-family:var(--sans);
     min-height:100vh;min-height:100dvh;overflow-x:hidden;
   }
+  #glow{
+    position:fixed;inset:0;pointer-events:none;z-index:0;
+    background:radial-gradient(640px 420px at 50% -80px, var(--glow, transparent), transparent 70%);
+    transition:background .5s ease;
+  }
   a{color:var(--ink)}
   button{background:none;border:none;color:var(--ink);cursor:pointer;font-family:var(--sans)}
 
@@ -55,6 +60,8 @@
     animation:fadein .35s ease;
   }
   @keyframes fadein{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  .art{width:104px;height:104px;margin:0 0 22px -8px}
+  .art svg{width:100%;height:100%;display:block}
   .kicker{
     font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);
     display:flex;align-items:center;gap:10px;flex-wrap:wrap;
@@ -72,18 +79,22 @@
   .note{
     font-family:var(--serif);font-size:18px;line-height:1.72;color:var(--ink);
   }
-  blockquote{
-    font-family:var(--serif);font-style:italic;font-size:17px;line-height:1.6;
-    color:var(--muted);border-left:2px solid var(--faint);
-    padding-left:18px;margin:26px 0 0;
+  .preview{margin:30px 0 0;border-left:2px solid var(--accent);padding-left:20px}
+  .fromlabel{
+    font-size:10px;letter-spacing:.26em;text-transform:uppercase;
+    color:var(--accent);font-weight:600;display:block;margin-bottom:10px;
   }
-  .actions{display:flex;align-items:center;gap:14px;margin-top:34px;flex-wrap:wrap}
+  .excerpt{
+    font-family:var(--serif);font-style:italic;font-size:19px;line-height:1.65;
+    color:var(--ink);opacity:.92;
+  }
+  .actions{display:flex;align-items:center;gap:14px;margin-top:30px;flex-wrap:wrap}
   .readbtn{
     display:inline-block;font-size:12px;letter-spacing:.18em;text-transform:uppercase;
-    font-weight:600;color:var(--ink);text-decoration:none;
-    border:1px solid var(--ink);padding:13px 22px;transition:all .15s;
+    font-weight:600;color:var(--accent);text-decoration:none;
+    border:1px solid var(--accent);padding:13px 22px;transition:all .15s;
   }
-  .readbtn:hover{background:var(--ink);color:var(--bg)}
+  .readbtn:hover{background:var(--accent);color:var(--bg)}
   .minor{
     font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);
     padding:10px 4px;transition:color .15s;
@@ -165,6 +176,8 @@
 </head>
 <body>
 
+<div id="glow"></div>
+
 <header>
   <button class="hbtn" id="menuBtn" aria-label="All picks">Index</button>
   <div class="wordmark" id="homeBtn">Read Something <span>Together</span></div>
@@ -241,19 +254,29 @@
     return d.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"});
   }
 
+  function hexToRgba(hex,a){
+    const m=hex.replace("#","");
+    const r=parseInt(m.slice(0,2),16),g=parseInt(m.slice(2,4),16),b=parseInt(m.slice(4,6),16);
+    return `rgba(${r},${g},${b},${a})`;
+  }
+
   function render(){
     const n=currentN(), p=byN.get(n), isRead=readSet().has(n);
     const i=picks.findIndex(x=>x.n===n);
 
+    document.documentElement.style.setProperty("--accent", p.accent||"#EDECE7");
+    document.documentElement.style.setProperty("--glow", hexToRgba(p.accent||"#EDECE7", .13));
+
     main.innerHTML=`
+      ${p.art?`<div class="art">${p.art}</div>`:""}
       <div class="kicker">No. ${p.n} &nbsp;&middot;&nbsp; added ${fmtDate(p.added)} &nbsp;&middot;&nbsp; ${leanDots(p.lean)}</div>
       <h1 class="title">${p.title}</h1>
       <div class="byline">By <b>${p.author}</b> &middot; ${p.venue} &middot; ${p.year} &middot; ${p.kind} &middot; ~${p.mins} min</div>
       <div class="rule"></div>
       <p class="note">${p.note}</p>
-      ${p.quote?`<blockquote>&ldquo;${p.quote}&rdquo;</blockquote>`:""}
+      ${p.excerpt?`<div class="preview"><span class="fromlabel">From the piece</span><p class="excerpt">&ldquo;${p.excerpt}&rdquo;</p></div>`:""}
       <div class="actions">
-        <a class="readbtn" href="${p.url}" target="_blank" rel="noopener">Read the piece &nearr;</a>
+        <a class="readbtn" href="${p.url}" target="_blank" rel="noopener">Continue reading &nearr;</a>
         <button class="minor ${isRead?'done':''}" id="readToggle">${isRead?'&#10003; Read':'Mark read'}</button>
         <button class="minor" id="copyBtn">Copy link</button>
       </div>`;
@@ -288,7 +311,7 @@
     drawerList.innerHTML=picks.slice().reverse().map(p=>`
       <button class="dr-item ${p.n===currentN()?'current':''}" data-n="${p.n}">
         <span class="t">${p.title}</span>
-        <span class="m">No. ${p.n} &middot; ${p.author} &middot; ${p.year}
+        <span class="m"><span style="color:${p.accent||'inherit'}">No. ${p.n}</span> &middot; ${p.author} &middot; ${p.year}
           ${p.lean==='a'?'<span class="dot a"></span>':p.lean==='j'?'<span class="dot j"></span>':'<span class="dot a"></span><span class="dot j"></span>'}
           ${s.has(p.n)?'<span class="readmark">&#10003;</span>':''}
         </span>
