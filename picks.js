@@ -197,5 +197,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="2.5"><rect x="52" y="30" width="48" height="16"/><rect x="52" y="52" width="48" height="16"/><rect x="52" y="74" width="48" height="16"/></g><g fill="var(--accent)"><circle cx="92" cy="38" r="2.5"/><circle cx="92" cy="60" r="2.5"/><circle cx="92" cy="82" r="2.5"/></g><path d="M16 90 v-14 l10 -9 l10 9 v14 z" stroke="var(--accent)" stroke-width="2.2"/><path d="M36 82 h16 M46 60 h6 M46 60 v22" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/></svg>',
     excerpt: "We've gathered stories from all across the country detailing what happens when Big Tech's latest monstrosities come to town.",
     note: "What happens when the AI buildout lands in a town, told chorus-style by the neighbors: the noise, the water, the tax deals, the meetings where nobody's questions get answered. The material politics of compute rendered as oral-history journalism, with the mounting dread of a good horror story — except the monster is a substation. Fresh from June 2026."
+  },
+  {
+    n: 13,
+    title: "Could a Large Language Model Be Conscious?",
+    author: "David J. Chalmers",
+    venue: "Boston Review",
+    year: 2023,
+    url: "https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/",
+    mins: 32,
+    kind: "essay",
+    lean: "b",
+    added: "2026-07-12",
+    accent: "#5BD4E8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M60 24 A36 36 0 0 0 60 96" stroke="var(--accent)" stroke-width="2.5"/><path d="M60 34 A26 26 0 0 0 60 86" stroke="var(--accent)" stroke-width="2" opacity=".55"/><path d="M60 24 H88 V96 H60" stroke="var(--accent)" stroke-width="2.5"/><path d="M60 48 H88 M60 72 H88 M74 24 V96" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/><path d="M60 20 V100" stroke="var(--accent)" stroke-width="2.5"/></svg>',
+    excerpt: "Within the next decade, we may well have systems that are serious candidates for consciousness.",
+    note: "The philosopher who named the hard problem of consciousness turns the full apparatus of analytic philosophy of mind on GPT-era language models: what evidence would count, which theories even apply, and a sober probability estimate in place of a hot take. Rigorous enough for a seminar, readable on a commute — the Ex Machina question, asked for real this time."
+  },
+  {
+    n: 14,
+    title: "A Study in Emerald",
+    author: "Neil Gaiman",
+    venue: "Shadows Over Baker Street",
+    year: 2003,
+    url: "https://www.neilgaiman.com/mediafiles/exclusive/shortstories/emerald.pdf",
+    mins: 35,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-07-12",
+    accent: "#3FBF7F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="52" cy="44" r="24" stroke="var(--accent)" stroke-width="2.5"/><circle cx="52" cy="44" r="17" stroke="var(--accent)" stroke-width="1.5" opacity=".4"/><path d="M69 61 Q80 72 82 84 Q83 96 72 100 Q64 102 62 94" stroke="var(--accent)" stroke-width="2.5"/><g fill="var(--accent)" opacity=".7"><circle cx="78" cy="76" r="2"/><circle cx="80" cy="86" r="2"/><circle cx="74" cy="95" r="2"/></g></svg>',
+    excerpt: "It is the immensity, I believe.",
+    note: "A Sherlock Holmes story set in a world where the Great Old Ones won seven hundred years ago and the royal family is no longer human. A detective story, a quiet horror story, and a sly feat of worldbuilding that rewards knowing both canons — mythic-dark weird at its most purely enjoyable, with a twist that rearranges every page before it. Won the Hugo in 2004; the author's own site hosts this beautifully typeset edition."
+  },
+  {
+    n: 15,
+    title: "The 2028 Global Intelligence Crisis",
+    author: "Citrini",
+    venue: "Citrini Research",
+    year: 2026,
+    url: "https://www.citriniresearch.com/p/2028gic",
+    mins: 45,
+    kind: "scenario",
+    lean: "a",
+    added: "2026-07-12",
+    accent: "#C13A4E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18 34 L38 50 L32 26 L56 58 L50 40 L74 74" stroke="var(--accent)" stroke-width="2.5"/><path d="M74 74 L96 100" stroke="var(--accent)" stroke-width="2" stroke-dasharray="4 5" opacity=".6"/><path d="M18 100 H102" stroke="var(--accent)" stroke-width="1.5" opacity=".35"/><circle cx="74" cy="74" r="3" fill="var(--accent)"/></svg>',
+    excerpt: "The unemployment rate printed 10.2% this morning, a 0.3% upside surprise.",
+    note: "A financial research shop writes future history: what 2028 looks like if AI works too well, too fast — labor markets, politics, and portfolios buckling in a scenario told from inside the crash. Forecasting with real rigor that reads like hard science fiction from the trading desk, in the same genre as AI 2027 but priced to the tick. It provoked a bullish rebuttal (Bloch's 'The 2028 Global Intelligence Boom') that answers it point for point — this is the original provocation."
   }
 ];
