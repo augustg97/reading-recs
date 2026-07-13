@@ -101,6 +101,15 @@
   }
   .minor:hover{color:var(--ink)}
   .minor.done{color:var(--aug)}
+  .votes{display:inline-flex;gap:2px;margin-left:4px;border-left:1px solid var(--faint);padding-left:14px}
+  .votebtn{
+    font-size:17px;line-height:1;color:var(--muted);padding:8px 9px;
+    transition:color .15s,transform .15s;
+  }
+  .votebtn:hover{color:var(--ink);transform:translateY(-1px)}
+  .votebtn.dn:hover{transform:translateY(1px)}
+  .votebtn.on{color:var(--accent)}
+  .dr-item .vmark{font-size:12px}
 
   /* ---------- chevrons ---------- */
   .chev{
@@ -212,6 +221,7 @@
     <span class="dot a" style="display:inline-block"></span><span class="dot j" style="display:inline-block;margin-left:3px"></span>&nbsp; squarely for both
   </p>
   <p class="legend">Navigate with the arrows, your keyboard, or a swipe. "Mark read" remembers on this device.</p>
+  <p class="legend">The &#8593; and &#8595; arrows on each pick talk back to the curator: &#8593; means <em>more like this</em>, &#8595; means <em>less</em>. Future picks tilt accordingly. A pick with no votes is simply assumed unread &mdash; silence never counts against it.</p>
 </aside>
 
 <script src="picks.js"></script>
@@ -235,6 +245,31 @@
     const s=readSet();
     s.has(n)?s.delete(n):s.add(n);
     try{ localStorage.setItem(READ_KEY, JSON.stringify([...s])); }catch(e){}
+  }
+
+  // --- votes: local state + best-effort sync to shared counters ---
+  const VOTE_NS="rst-augustg97-7c31", VOTE_KEY="rst-votes";
+  function votesObj(){
+    try{ return JSON.parse(localStorage.getItem(VOTE_KEY)||"{}"); }
+    catch(e){ return {}; }
+  }
+  function myVote(n){ return votesObj()[n]||0; }
+  function bump(key,op){
+    try{ fetch(`https://api.counterapi.dev/v1/${VOTE_NS}/${key}/${op}`).catch(()=>{}); }catch(e){}
+  }
+  function setVote(n,dir){
+    const v=votesObj(), cur=v[n]||0;
+    if(cur===dir){
+      delete v[n];
+      bump(dir>0?`p${n}u`:`p${n}d`,"down");
+    }else{
+      if(cur===1) bump(`p${n}u`,"down");
+      if(cur===-1) bump(`p${n}d`,"down");
+      v[n]=dir;
+      bump(dir>0?`p${n}u`:`p${n}d`,"up");
+    }
+    try{ localStorage.setItem(VOTE_KEY, JSON.stringify(v)); }catch(e){}
+    render(); buildDrawer();
   }
 
   function currentN(){
@@ -279,7 +314,14 @@
         <a class="readbtn" href="${p.url}" target="_blank" rel="noopener">Continue reading &nearr;</a>
         <button class="minor ${isRead?'done':''}" id="readToggle">${isRead?'&#10003; Read':'Mark read'}</button>
         <button class="minor" id="copyBtn">Copy link</button>
+        <span class="votes">
+          <button class="votebtn ${myVote(n)===1?'on':''}" id="upBtn" title="Really liked it &mdash; more like this" aria-label="Upvote">&#8593;</button>
+          <button class="votebtn dn ${myVote(n)===-1?'on':''}" id="dnBtn" title="Not for us &mdash; less like this" aria-label="Downvote">&#8595;</button>
+        </span>
       </div>`;
+
+    $("upBtn").onclick=()=>setVote(n,1);
+    $("dnBtn").onclick=()=>setVote(n,-1);
 
     $("readToggle").onclick=()=>{ toggleRead(n); render(); buildDrawer(); };
     $("copyBtn").onclick=async ()=>{
@@ -314,6 +356,7 @@
         <span class="m"><span style="color:${p.accent||'inherit'}">No. ${p.n}</span> &middot; ${p.author} &middot; ${p.year}
           ${p.lean==='a'?'<span class="dot a"></span>':p.lean==='j'?'<span class="dot j"></span>':'<span class="dot a"></span><span class="dot j"></span>'}
           ${s.has(p.n)?'<span class="readmark">&#10003;</span>':''}
+          ${myVote(p.n)===1?`<span class="vmark" style="color:${p.accent||'inherit'}">&#8593;</span>`:myVote(p.n)===-1?'<span class="vmark" style="opacity:.6">&#8595;</span>':''}
         </span>
       </button>`).join("");
     drawerList.querySelectorAll(".dr-item").forEach(el=>{
