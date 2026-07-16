@@ -245,5 +245,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18 34 L38 50 L32 26 L56 58 L50 40 L74 74" stroke="var(--accent)" stroke-width="2.5"/><path d="M74 74 L96 100" stroke="var(--accent)" stroke-width="2" stroke-dasharray="4 5" opacity=".6"/><path d="M18 100 H102" stroke="var(--accent)" stroke-width="1.5" opacity=".35"/><circle cx="74" cy="74" r="3" fill="var(--accent)"/></svg>',
     excerpt: "The unemployment rate printed 10.2% this morning, a 0.3% upside surprise.",
     note: "A financial research shop writes future history: what 2028 looks like if AI works too well, too fast — labor markets, politics, and portfolios buckling in a scenario told from inside the crash. Forecasting with real rigor that reads like hard science fiction from the trading desk, in the same genre as AI 2027 but priced to the tick. It provoked a bullish rebuttal (Bloch's 'The 2028 Global Intelligence Boom') that answers it point for point — this is the original provocation."
+  },
+  {
+    n: 16,
+    title: "FAQ: The “Snake Fight” Portion of Your Thesis Defense",
+    author: "Luke Burns",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2010,
+    url: "https://www.mcsweeneys.net/articles/faq-the-snake-fight-portion-of-your-thesis-defense",
+    mins: 4,
+    kind: "humor",
+    lean: "j",
+    added: "2026-07-16",
+    accent: "#B9C845",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="20" y="26" width="36" height="46" stroke="var(--accent)" stroke-width="2.5"/><path d="M27 36 h22 M27 44 h22 M27 52 h15" stroke="var(--accent)" stroke-width="1.5" opacity=".5"/><path d="M90 18 q-20 10 0 22 q20 12 0 24 q-16 10 -5 24" stroke="var(--accent)" stroke-width="2.5"/><path d="M85 88 l-7 9 M85 88 l1 11" stroke="var(--accent)" stroke-width="2" opacity=".75"/></svg>',
+    excerpt: "Q: Do I have to kill the snake? A: University guidelines state that you have to “defeat” the snake.",
+    note: "An official FAQ patiently answering questions about the portion of the doctoral defense in which the candidate fights a snake. Every reply holds perfect administrative deadpan — the better the thesis, the smaller the snake — and the form never once breaks. A McSweeney's hall-of-famer, four minutes long, and among the truest documents of institutional logic ever to feature a reptile."
+  },
+  {
+    n: 17,
+    title: "Agnes Callard’s Marriage of the Minds",
+    author: "Rachel Aviv",
+    venue: "The New Yorker",
+    year: 2023,
+    url: "https://www.newyorker.com/magazine/2023/03/13/agnes-callard-profile-marriage-philosophy",
+    mins: 50,
+    kind: "profile",
+    lean: "b",
+    added: "2026-07-16",
+    accent: "#C973B9",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="45" cy="48" r="22" stroke="var(--accent)" stroke-width="2.5"/><circle cx="75" cy="48" r="22" stroke="var(--accent)" stroke-width="2.5"/><circle cx="60" cy="76" r="22" stroke="var(--accent)" stroke-width="2.2" stroke-dasharray="4 5" opacity=".65"/><circle cx="60" cy="57" r="2.5" fill="var(--accent)"/></svg>',
+    excerpt: "Arnold Brooks, a graduate student at the University of Chicago, came to Agnes Callard’s office hours every week to talk about Aristotle.",
+    note: "Rachel Aviv profiles Agnes Callard, the University of Chicago philosopher who fell for a graduate student, divorced, remarried, and kept everyone — ex-husband included — under one roof, then insisted the arrangement be examined as rigorously as any syllogism. A portrait of someone who refuses the boundary between doing philosophy and living it, rendered with Aviv's eerie calm. Strange and tender in the same register as the Parfit profile, and a natural companion to it: another mind trying to reason its way through love, identity, and what one person can be to another."
+  },
+  {
+    n: 18,
+    title: "Machines of Loving Grace",
+    author: "Dario Amodei",
+    venue: "darioamodei.com",
+    year: 2024,
+    url: "https://darioamodei.com/essay/machines-of-loving-grace",
+    mins: 60,
+    kind: "essay",
+    lean: "a",
+    added: "2026-07-16",
+    accent: "#F2A65A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M36 78 a24 24 0 0 1 48 0" stroke="var(--accent)" stroke-width="2.5"/><path d="M16 78 h88" stroke="var(--accent)" stroke-width="2.5"/><g stroke="var(--accent)" stroke-width="2" opacity=".7"><path d="M60 40 v-12"/><path d="M38 48 l-9 -9"/><path d="M82 48 l9 -9"/><path d="M28 66 l-11 -5"/><path d="M92 66 l11 -5"/></g><path d="M24 92 h16 l8 -8 h16 l8 8 h24" stroke="var(--accent)" stroke-width="1.5" opacity=".4"/></svg>',
+    excerpt: "I think and talk a lot about the risks of powerful AI.",
+    note: "Anthropic's CEO sets aside the risks he spends most of his time on and writes the upside case: a concrete sketch of what the first years after powerful AI could mean for biology, neuroscience, poverty, governance, and the meaning of work, if everything goes right. Underneath the forecast sits an old-fashioned essay about human flourishing, with a title borrowed from a Richard Brautigan poem. Consider the source — the author has an evident interest in the machines turning out lovely — then notice how specific and quietly moving the argument is anyway."
   }
 ];
