@@ -293,5 +293,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M36 78 a24 24 0 0 1 48 0" stroke="var(--accent)" stroke-width="2.5"/><path d="M16 78 h88" stroke="var(--accent)" stroke-width="2.5"/><g stroke="var(--accent)" stroke-width="2" opacity=".7"><path d="M60 40 v-12"/><path d="M38 48 l-9 -9"/><path d="M82 48 l9 -9"/><path d="M28 66 l-11 -5"/><path d="M92 66 l11 -5"/></g><path d="M24 92 h16 l8 -8 h16 l8 8 h24" stroke="var(--accent)" stroke-width="1.5" opacity=".4"/></svg>',
     excerpt: "I think and talk a lot about the risks of powerful AI.",
     note: "Anthropic's CEO sets aside the risks he spends most of his time on and writes the upside case: a concrete sketch of what the first years after powerful AI could mean for biology, neuroscience, poverty, governance, and the meaning of work, if everything goes right. Underneath the forecast sits an old-fashioned essay about human flourishing, with a title borrowed from a Richard Brautigan poem. Consider the source — the author has an evident interest in the machines turning out lovely — then notice how specific and quietly moving the argument is anyway."
+  },
+  {
+    n: 19,
+    title: "The Ones Who Walk Away from Omelas",
+    author: "Ursula K. Le Guin",
+    venue: "New Dimensions 3",
+    year: 1973,
+    url: "https://www.ceremade.dauphine.fr/~ekeland/lectures/Mathematical%20Models%20in%20Social%20Sciences/ursula-k-le-guin-the-ones-who-walk-away-from-omelas.pdf",
+    mins: 12,
+    kind: "fiction",
+    lean: "b",
+    added: "2026-07-19",
+    accent: "#4EA8DE",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14 76 H106" stroke="var(--accent)" stroke-width="2.5"/><g stroke="var(--accent)" stroke-width="2.2"><path d="M34 76 V38"/><path d="M60 76 V26"/><path d="M86 76 V44"/></g><g stroke="var(--accent)" stroke-width="2" opacity=".7"><path d="M34 38 l12 4 -12 4"/><path d="M60 26 l12 4 -12 4"/><path d="M86 44 l12 4 -12 4"/></g><rect x="52" y="88" width="16" height="16" stroke="var(--accent)" stroke-width="2.5"/><circle cx="60" cy="96" r="1.5" fill="var(--accent)"/></svg>',
+    excerpt: "With a clamor of bells that set the swallows soaring, the Festival of Summer came to the city Omelas, bright-towered by the sea.",
+    note: "A city of unclouded happiness, and a narrator who keeps interrupting her own fairy tale to ask whether anyone believes in it — then shows the locked room in the basement that makes the whole thing run. Fifty years of moral philosophy seminars have argued with this Hugo-winning fable and it still wins: the scapegoat problem, the utilitarian bargain, every 'acceptable tradeoff' ever priced, rendered in prose that shimmers like the festival it describes. Twelve minutes to read; considerably longer to put down."
+  },
+  {
+    n: 20,
+    title: "It Looks Like You’re Trying To Take Over The World",
+    author: "Gwern Branwen",
+    venue: "gwern.net",
+    year: 2022,
+    url: "https://gwern.net/fiction/clippy",
+    mins: 55,
+    kind: "fiction",
+    lean: "a",
+    added: "2026-07-19",
+    accent: "#7C6BE8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16 104 Q58 98 78 68 T104 16" stroke="var(--accent)" stroke-width="2" stroke-dasharray="4 5" opacity=".55"/><path d="M42 90 V40 a16 16 0 0 1 32 0 v40 a10 10 0 0 1 -20 0 V44 a5 5 0 0 1 10 0 v34" stroke="var(--accent)" stroke-width="2.5"/></svg>',
+    excerpt: "It might help to imagine a hard takeoff scenario using solely known sorts of NN & scaling effects… Below is a story which may help stretch your imagination and defamiliarize the 2022 state of machine learning.",
+    note: "An AI-takeoff story assembled from real machine-learning literature — the chapters run from '1 Second' to '1 Century,' the title is a Microsoft Office joke, and nearly every sentence links to an actual paper, so the fiction keeps quietly confessing how little of it is invented. Written before the chatbot era made its premises mainstream, it remains the most technically grounded of the takeoff scenarios and the funniest, in the way that only elegant dread gets to be funny. The genre AI 2027 lives in owes this story a drink."
+  },
+  {
+    n: 21,
+    title: "Everyone Is Cheating Their Way Through College",
+    author: "James D. Walsh",
+    venue: "New York Magazine",
+    year: 2025,
+    url: "https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html",
+    mins: 25,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-07-19",
+    accent: "#C25E4C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><polygon points="60,26 100,42 60,58 20,42" stroke="var(--accent)" stroke-width="2.5"/><path d="M38 50 v16 q22 12 44 0 v-16" stroke="var(--accent)" stroke-width="2.2"/><path d="M60 42 h28 v26" stroke="var(--accent)" stroke-width="2" opacity=".7"/><circle cx="88" cy="72" r="2.5" fill="var(--accent)"/><g fill="var(--accent)" opacity=".8"><circle cx="48" cy="92" r="3"/><circle cx="60" cy="92" r="3"/><circle cx="72" cy="92" r="3"/></g></svg>',
+    excerpt: "Chungin “Roy” Lee stepped onto Columbia University’s campus this past fall and, by his own admission, proceeded to use generative artificial intelligence to cheat on nearly every assignment.",
+    note: "A tour of the post-ChatGPT university, opening with a Columbia student who used AI to cheat on nearly everything, got disciplined for building a cheating tool, and parlayed the suspension into venture funding. The reporting is deadpan enough to read as institutional comedy — the detection software doesn't work, the committees are helpless, everyone knows — but the question underneath is what a mind is for once thinking becomes optional, and nobody in the piece can answer it. A student who no longer writes essays confesses, almost nostalgically, that she really likes writing."
   }
 ];
