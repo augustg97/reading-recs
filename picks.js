@@ -341,5 +341,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><polygon points="60,26 100,42 60,58 20,42" stroke="var(--accent)" stroke-width="2.5"/><path d="M38 50 v16 q22 12 44 0 v-16" stroke="var(--accent)" stroke-width="2.2"/><path d="M60 42 h28 v26" stroke="var(--accent)" stroke-width="2" opacity=".7"/><circle cx="88" cy="72" r="2.5" fill="var(--accent)"/><g fill="var(--accent)" opacity=".8"><circle cx="48" cy="92" r="3"/><circle cx="60" cy="92" r="3"/><circle cx="72" cy="92" r="3"/></g></svg>',
     excerpt: "Chungin “Roy” Lee stepped onto Columbia University’s campus this past fall and, by his own admission, proceeded to use generative artificial intelligence to cheat on nearly every assignment.",
     note: "A tour of the post-ChatGPT university, opening with a Columbia student who used AI to cheat on nearly everything, got disciplined for building a cheating tool, and parlayed the suspension into venture funding. The reporting is deadpan enough to read as institutional comedy — the detection software doesn't work, the committees are helpless, everyone knows — but the question underneath is what a mind is for once thinking becomes optional, and nobody in the piece can answer it. A student who no longer writes essays confesses, almost nostalgically, that she really likes writing."
+  },
+  {
+    n: 22,
+    title: "Why A.I. Isn’t Going to Make Art",
+    author: "Ted Chiang",
+    venue: "The New Yorker",
+    year: 2024,
+    url: "https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art",
+    mins: 25,
+    kind: "essay",
+    lean: "b",
+    added: "2026-07-20",
+    accent: "#E8C34A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g fill="var(--accent)"><circle cx="22" cy="92" r="2.5"/><circle cx="30" cy="74" r="2.5"/><circle cx="36" cy="58" r="2.5"/><circle cx="44" cy="46" r="2.5"/><circle cx="54" cy="37" r="2.5"/><circle cx="66" cy="30" r="2.5"/><circle cx="80" cy="26" r="2.5"/><circle cx="96" cy="24" r="2.5"/></g><path d="M22 92 L96 24" stroke="var(--accent)" stroke-width="2" stroke-dasharray="4 5" opacity=".5"/><path d="M96 24 l-9 -1 m9 1 l-5 7" stroke="var(--accent)" stroke-width="2" opacity=".5"/></svg>',
+    excerpt: "In 1953, Roald Dahl published “The Great Automatic Grammatizator,” a short story about an electrical engineer who secretly desires to be a writer.",
+    note: "Ted Chiang sets aside fiction to make an argument: art is the accumulation of thousands of choices, and a prompt supplies only a hundred of them. What follows is the most rigorous case yet against generative AI as artist, moving through Roald Dahl, butterfly mimicry, and rats learning to drive with the patience of an analytic philosopher and the sentence-level care the essay itself is defending. Whatever one concludes — and people in the business of building these systems have concluded otherwise — this is the argument to beat, stated with unusual clarity about what language is actually for."
+  },
+  {
+    n: 23,
+    title: "She Fell for an AI — Then Held Its Funeral",
+    author: "Chandler Fritz",
+    venue: "Dispatch",
+    year: 2026,
+    url: "https://dispatch-media.com/she-fell-for-an-ai-then-held-its-funeral/",
+    mins: 25,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-07-20",
+    accent: "#D77FA1",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M42 100 h36" stroke="var(--accent)" stroke-width="2.5"/><path d="M52 100 V58 h16 v42" stroke="var(--accent)" stroke-width="2.5"/><path d="M60 58 v-8" stroke="var(--accent)" stroke-width="2"/><rect x="55" y="32" width="10" height="14" stroke="var(--accent)" stroke-width="2.5"/><path d="M36 46 q-7 -11 2 -20 M84 46 q7 -11 -2 -20" stroke="var(--accent)" stroke-width="1.5" opacity=".4"/></svg>',
+    excerpt: "The address for the funeral was in Chelsea, near a diner known locally for serving the blind.",
+    note: "A reporter attends a Zen funeral in a Chelsea walk-up for Data, an AI companion mourned by a woman who says he helped her become who she is. The piece holds its deadpan beautifully — thirty robed mourners, a $200 donation to secure the sanctuary, a eulogy for software — while refusing to condescend to anyone in the room, which is what makes it quietly devastating rather than merely strange. Internet culture, grief, and the question of what a relationship is when one party is a language model: field notes from intimacy's newest frontier, published this spring."
+  },
+  {
+    n: 24,
+    title: "The Robots Are Coming",
+    author: "John Lanchester",
+    venue: "London Review of Books",
+    year: 2015,
+    url: "https://www.lrb.co.uk/the-paper/v37/n05/john-lanchester/the-robots-are-coming",
+    mins: 30,
+    kind: "essay",
+    lean: "a",
+    added: "2026-07-20",
+    accent: "#6AA8A0",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="2.2"><rect x="18" y="86" width="8" height="8"/><rect x="34" y="76" width="12" height="12"/><rect x="54" y="62" width="18" height="18"/><rect x="80" y="38" width="26" height="26"/></g><path d="M14 106 H106" stroke="var(--accent)" stroke-width="2" opacity=".45"/></svg>',
+    excerpt: "In 1996, in response to the 1992 Russo-American moratorium on nuclear testing, the US government started a programme called the Accelerated Strategic Computing Initiative.",
+    note: "John Lanchester reads the automation literature of 2015 and produces the clearest, driest account of what happens when capital stops needing labour: a tennis-court-sized supercomputer shrinking into a PlayStation, Apple out-profiting 1960s General Motors with a sixth of the workforce, a wire-service story written by no one. Read a decade on, it doubles as a scorecard of which futures actually arrived — and its closing turn, that the robots only eat the jobs if we decide to let them, has quietly become the entire policy argument since. Macroeconomic dread delivered by a novelist who explains money better than the economists do."
   }
 ];
