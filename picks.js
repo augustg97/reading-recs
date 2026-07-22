@@ -389,5 +389,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="2.2"><rect x="18" y="86" width="8" height="8"/><rect x="34" y="76" width="12" height="12"/><rect x="54" y="62" width="18" height="18"/><rect x="80" y="38" width="26" height="26"/></g><path d="M14 106 H106" stroke="var(--accent)" stroke-width="2" opacity=".45"/></svg>',
     excerpt: "In 1996, in response to the 1992 Russo-American moratorium on nuclear testing, the US government started a programme called the Accelerated Strategic Computing Initiative.",
     note: "John Lanchester reads the automation literature of 2015 and produces the clearest, driest account of what happens when capital stops needing labour: a tennis-court-sized supercomputer shrinking into a PlayStation, Apple out-profiting 1960s General Motors with a sixth of the workforce, a wire-service story written by no one. Read a decade on, it doubles as a scorecard of which futures actually arrived — and its closing turn, that the robots only eat the jobs if we decide to let them, has quietly become the entire policy argument since. Macroeconomic dread delivered by a novelist who explains money better than the economists do."
+  },
+  {
+    n: 25,
+    title: "Uncanny Valley",
+    author: "Anna Wiener",
+    venue: "n+1",
+    year: 2016,
+    url: "https://www.nplusonemag.com/issue-25/on-the-fringe/uncanny-valley/",
+    mins: 35,
+    kind: "memoir",
+    lean: "b",
+    added: "2026-07-22",
+    accent: "#CC7A52",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22 18 V100 H104" stroke="var(--accent)" stroke-width="1.5" opacity=".35"/><path d="M22 90 C40 62 52 42 60 38 C68 35 70 58 76 68 C81 76 86 44 100 26" stroke="var(--accent)" stroke-width="2.5"/><circle cx="76" cy="68" r="3.5" stroke="var(--accent)" stroke-width="2"/><path d="M60 38 v62 M100 26 v74" stroke="var(--accent)" stroke-width="1.5" stroke-dasharray="3 5" opacity=".3"/></svg>',
+    excerpt: "Morale is down. We are making plenty of money, but the office is teeming with salespeople: well-groomed social animals with good posture and dress shoes, men who chuckle and smooth their hair back when they can’t connect to our VPN.",
+    note: "The 2016 essay that became the bestselling book: a refugee from New York publishing takes a support job at a San Francisco data startup and files a present-tense report from inside the bubble — the KPIs, the RipStiks, the trail-mix weight gain, the meetings that open by asking whether she's 'down for the cause.' No company is ever named, which quietly turns one startup into all of them. It's the definitive inside account of work swallowing identity — sociology conducted from the ergonomic chair, funny the way Severance is funny — and demand for it famously crashed n+1's website. A decade later it reads less like a period piece than a diagnosis that has kept coming true."
+  },
+  {
+    n: 26,
+    title: "Client Feedback on the Creation of the Earth",
+    author: "Mike Lacher",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2015,
+    url: "https://www.mcsweeneys.net/articles/client-feedback-on-the-creation-of-the-earth",
+    mins: 4,
+    kind: "humor",
+    lean: "j",
+    added: "2026-07-22",
+    accent: "#5B8DEF",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="48" cy="66" r="26" stroke="var(--accent)" stroke-width="2.5"/><path d="M26 58 q22 -10 44 0 M26 74 q22 10 44 0" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/><circle cx="58" cy="58" r="26" stroke="var(--accent)" stroke-width="2" stroke-dasharray="4 5" opacity=".4"/><path d="M72 44 L86 32" stroke="var(--accent)" stroke-width="1.5" opacity=".6"/><path d="M86 26 h18 M86 32 h18 M86 38 h11" stroke="var(--accent)" stroke-width="2"/></svg>',
+    excerpt: "Appreciate the work on the sea and ground, but right now, there’s way too much sea. The ground is getting lost in it.",
+    note: "An account manager sends God notes on the first draft of creation: the two great lights need rethinking, the winged birds require clarification, and could mankind be removed in an alt version — hoping to sync EOD Sunday. The register never once breaks from true client-services patois, slide references and all, and the joke deepens on every read: ten bullet points containing every institution that has ever laundered a demand through the word 'feedback.' Four minutes long, eleven years old, and a perfect companion to the snake-fight FAQ in the small canon of flawless McSweeney's forms."
+  },
+  {
+    n: 27,
+    title: "Shifty: Adam Curtis on Politics, Power and the Mind",
+    author: "Sean Burns",
+    venue: "Frieze",
+    year: 2025,
+    url: "https://www.frieze.com/article/adam-curtis-interview-2025",
+    mins: 14,
+    kind: "interview",
+    lean: "a",
+    added: "2026-07-22",
+    accent: "#4FA36B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="22" y="34" width="76" height="52" rx="5" stroke="var(--accent)" stroke-width="2.5"/><path d="M28 44 h64 M28 52 h64 M28 76 h64" stroke="var(--accent)" stroke-width="1.5" opacity=".3"/><polygon points="66,54 66,68 54,61" stroke="var(--accent)" stroke-width="2.2"/><polygon points="82,54 82,68 70,61" stroke="var(--accent)" stroke-width="2.2"/><path d="M50 96 h20" stroke="var(--accent)" stroke-width="2" opacity=".5"/></svg>',
+    excerpt: "The filmmaker on his new BBC series, the enigma of AI, and the need to imagine a genuinely new future",
+    note: "On the eve of Shifty, his five-part BBC series about how 1980s Britain rewired both its economy and its citizens' inner lives, the great collagist of the archive lays out what he thinks actually happened: power drained out of politics into finance, the new individualism ate the foundations of democracy, and a nation was left endlessly replaying its own past. He is sharpest on AI, which he declines to predict — 'a blank screen onto which we project our dark fears or techno-optimistic fantasies' — a machine that haunts us with our own memories, mashed up and played back as an avalanche of phantasms. Elegant dread from its foremost living practitioner, with the melancholy doing the work the voiceover used to do."
   }
 ];
