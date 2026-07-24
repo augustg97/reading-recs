@@ -437,5 +437,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="22" y="34" width="76" height="52" rx="5" stroke="var(--accent)" stroke-width="2.5"/><path d="M28 44 h64 M28 52 h64 M28 76 h64" stroke="var(--accent)" stroke-width="1.5" opacity=".3"/><polygon points="66,54 66,68 54,61" stroke="var(--accent)" stroke-width="2.2"/><polygon points="82,54 82,68 70,61" stroke="var(--accent)" stroke-width="2.2"/><path d="M50 96 h20" stroke="var(--accent)" stroke-width="2" opacity=".5"/></svg>',
     excerpt: "The filmmaker on his new BBC series, the enigma of AI, and the need to imagine a genuinely new future",
     note: "On the eve of Shifty, his five-part BBC series about how 1980s Britain rewired both its economy and its citizens' inner lives, the great collagist of the archive lays out what he thinks actually happened: power drained out of politics into finance, the new individualism ate the foundations of democracy, and a nation was left endlessly replaying its own past. He is sharpest on AI, which he declines to predict — 'a blank screen onto which we project our dark fears or techno-optimistic fantasies' — a machine that haunts us with our own memories, mashed up and played back as an avalanche of phantasms. Elegant dread from its foremost living practitioner, with the melancholy doing the work the voiceover used to do."
+  },
+  {
+    n: 28,
+    title: "Where Am I?",
+    author: "Daniel Dennett",
+    venue: "Brainstorms",
+    year: 1978,
+    url: "https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/",
+    mins: 35,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-07-24",
+    accent: "#8B7BE8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="20" y="56" width="38" height="44" rx="6" stroke="var(--accent)" stroke-width="2.5"/><path d="M26 56 v-6 h26 v6" stroke="var(--accent)" stroke-width="1.5" opacity=".4"/><circle cx="39" cy="78" r="11" stroke="var(--accent)" stroke-width="2.5"/><path d="M39 67 q-5 5 0 11 q5 5 0 11" stroke="var(--accent)" stroke-width="1.5" opacity=".5"/><circle cx="88" cy="34" r="11" stroke="var(--accent)" stroke-width="2.5" stroke-dasharray="4 5"/><path d="M88 23 v-9" stroke="var(--accent)" stroke-width="2"/><circle cx="88" cy="11" r="2" fill="var(--accent)"/><g stroke="var(--accent)" stroke-width="2" opacity=".55"><path d="M56 62 a26 26 0 0 1 12 -14"/><path d="M62 70 a38 38 0 0 1 18 -21"/></g></svg>',
+    excerpt: "Now that I’ve won my suit under the Freedom of Information Act, I am at liberty to reveal for the first time a curious episode in my life…",
+    note: "The Pentagon needs a warhead retrieved from beneath Tulsa; the radiation harms only brain tissue; the solution is to remove the philosopher's brain to a vat in Houston and let him run his body by radio. What begins as government-lab absurdism becomes the canonical thought experiment about where a person actually is — Dennett wrote it to be performed aloud as a colloquium talk, and the ending still drops like a trapdoor. Often called the funniest paper in analytic philosophy, it is also among the deepest: personal identity, telepresence, and the spare-brain problem, worked out decades before any of it became an engineering roadmap. The MIT Press Reader hosts it complete, with the story of Dennett inventing it in the car on the way to Vassar."
+  },
+  {
+    n: 29,
+    title: "How Elizabeth Loftus Changed the Meaning of Memory",
+    author: "Rachel Aviv",
+    venue: "The New Yorker",
+    year: 2021,
+    url: "https://www.newyorker.com/magazine/2021/04/05/how-elizabeth-loftus-changed-the-meaning-of-memory",
+    mins: 45,
+    kind: "profile",
+    lean: "j",
+    added: "2026-07-24",
+    accent: "#BE4A5E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="14" y="32" width="42" height="56" stroke="var(--accent)" stroke-width="2.5"/><polygon points="20,80 34,58 48,80" stroke="var(--accent)" stroke-width="2.2"/><circle cx="46" cy="44" r="4" stroke="var(--accent)" stroke-width="2"/><rect x="64" y="32" width="42" height="56" stroke="var(--accent)" stroke-width="2.2" stroke-dasharray="5 5" opacity=".75"/><polygon points="72,80 90,52 100,80" stroke="var(--accent)" stroke-width="2" stroke-dasharray="4 4" opacity=".65"/><circle cx="72" cy="44" r="4" stroke="var(--accent)" stroke-width="1.5" opacity=".5"/></svg>',
+    excerpt: "The psychologist taught us that what we remember is not fixed, but her work testifying for defendants like Harvey Weinstein collides with our traumatized moment.",
+    note: "Elizabeth Loftus demonstrated in the lab that memory is reconstruction rather than recording — that a vivid, tearful, sincerely held recollection can be wholly false, and can even be planted. Then she spent decades in courtrooms saying so as an expert for defendants up to and including Harvey Weinstein, and this profile refuses to make that comfortable: the science is sound, the uses are queasy, and Aviv keeps both true at once. The quietest move comes late, when the piece reaches Loftus's own family story and the scientist of false memory meets a past she cannot verify. Unsettling in the same register as the Parfit and Callard profiles — what a self is made of, examined at the least convenient distance."
+  },
+  {
+    n: 30,
+    title: "AI Economics for Dummies",
+    author: "Andrew Singleton",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+    mins: 5,
+    kind: "humor",
+    lean: "b",
+    added: "2026-07-24",
+    accent: "#3FBDD8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18 16 V102 H104" stroke="var(--accent)" stroke-width="1.5" opacity=".35"/><path d="M18 94 C32 88 42 78 50 66 C56 57 66 56 68 64 C70 72 60 74 58 66 C56 56 66 44 76 37 L94 24" stroke="var(--accent)" stroke-width="2.5"/><path d="M94 24 l-9 0 m9 0 l-4 8" stroke="var(--accent)" stroke-width="2" opacity=".6"/><g stroke="var(--accent)" stroke-width="1.5" opacity=".5"><path d="M55 82 v6"/><path d="M62 80 v7"/><path d="M69 78 v7"/></g></svg>',
+    excerpt: "As AI companies get ready to go public and we get a deeper look at their inner workings, it’s only natural to have questions about their finances, like “Do they make money?” and “How?”",
+    note: "Word problems in the patient voice of a grade-school arithmetic workbook, each one explaining how AI companies make money: Alex and his $2 billion grape, Jenny's crematorium burning the investment a propane company just made in it. The arithmetic escalates into Forbes-cover theology and ritual sacrifice at Goldman Sachs while the register never once leaves the primer — the snake-fight FAQ's institutional deadpan, aimed at a trillion-dollar target. Published in June 2026 and still on the site's trending list six weeks later, for the least comfortable of reasons: strip out the mules and the holy war, and the numbers are barely satire. The site's own tags include 'Anthropic,' which is either an accusation or a compliment."
   }
 ];
