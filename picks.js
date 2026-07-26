@@ -485,5 +485,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18 16 V102 H104" stroke="var(--accent)" stroke-width="1.5" opacity=".35"/><path d="M18 94 C32 88 42 78 50 66 C56 57 66 56 68 64 C70 72 60 74 58 66 C56 56 66 44 76 37 L94 24" stroke="var(--accent)" stroke-width="2.5"/><path d="M94 24 l-9 0 m9 0 l-4 8" stroke="var(--accent)" stroke-width="2" opacity=".6"/><g stroke="var(--accent)" stroke-width="1.5" opacity=".5"><path d="M55 82 v6"/><path d="M62 80 v7"/><path d="M69 78 v7"/></g></svg>',
     excerpt: "As AI companies get ready to go public and we get a deeper look at their inner workings, it’s only natural to have questions about their finances, like “Do they make money?” and “How?”",
     note: "Word problems in the patient voice of a grade-school arithmetic workbook, each one explaining how AI companies make money: Alex and his $2 billion grape, Jenny's crematorium burning the investment a propane company just made in it. The arithmetic escalates into Forbes-cover theology and ritual sacrifice at Goldman Sachs while the register never once leaves the primer — the snake-fight FAQ's institutional deadpan, aimed at a trillion-dollar target. Published in June 2026 and still on the site's trending list six weeks later, for the least comfortable of reasons: strip out the mules and the holy war, and the numbers are barely satire. The site's own tags include 'Anthropic,' which is either an accusation or a compliment."
+  },
+  {
+    n: 31,
+    title: "King of Cannibal Island",
+    author: "John Lanchester",
+    venue: "London Review of Books",
+    year: 2025,
+    url: "https://www.lrb.co.uk/the-paper/v47/n23/john-lanchester/king-of-cannibal-island",
+    mins: 30,
+    kind: "essay",
+    lean: "a",
+    added: "2026-07-26",
+    accent: "#D4A017",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="74" cy="48" r="30" stroke="var(--accent)" stroke-width="2.5" stroke-dasharray="6 5"/><circle cx="30" cy="88" r="6" stroke="var(--accent)" stroke-width="2"/><circle cx="46" cy="76" r="10" stroke="var(--accent)" stroke-width="2" opacity=".75"/><path d="M12 104 C32 100 50 88 64 70" stroke="var(--accent)" stroke-width="1.5" opacity=".45"/><g stroke="var(--accent)" stroke-width="2" opacity=".7"><path d="M88 22 l10 -8"/><path d="M96 32 l12 -3"/><path d="M78 16 l3 -10"/></g></svg>',
+    excerpt: "The tulip bubble is the most famous financial bubble in history, but as historical examples go it is also, in one crucial respect, misleading.",
+    note: "Four books about Nvidia and OpenAI, folded into one narrative of how roughly $15 trillion of the world's market value came to rest on the bet that thinking is a form of parallel arithmetic. Lanchester is precise on the mechanics — the emulator gamble that saved Nvidia, the CUDA architecture idling for years without a killer app, the circular loans now propping up valuations — and sharper still on the two founders, whom he reads as the tech age's stock character types: the overachieving immigrant and the college dropout. The title comes from Paul Graham's assessment of Sam Altman, which reads as a compliment or an indictment depending on which of the four books you believe. It closes with four scenarios for 2035, ranked by likelihood, and the least cinematic one is the bet he'd take."
+  },
+  {
+    n: 32,
+    title: "They're Made Out of Meat",
+    author: "Terry Bisson",
+    venue: "OMNI",
+    year: 1991,
+    url: "https://terrybisson.com/theyre-made-out-of-meat-2/",
+    mins: 4,
+    kind: "fiction",
+    lean: "b",
+    added: "2026-07-26",
+    accent: "#C2489B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 24 H62 V56 H32 L20 68 V56 H12 Z" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/><rect x="26" y="32" width="20" height="15" stroke="var(--accent)" stroke-width="2"/><path d="M26 39.5 H46 M36 32 V47" stroke="var(--accent)" stroke-width="1.2" opacity=".55"/><path d="M58 64 H108 V96 H102 V108 L90 96 H58 Z" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round" opacity=".8"/><circle cx="83" cy="80" r="8" stroke="var(--accent)" stroke-width="2" opacity=".7"/><path d="M83 72 v16 M75 80 h16" stroke="var(--accent)" stroke-width="1.2" opacity=".45"/></svg>',
+    excerpt: "“They’re made out of meat.” “Meat?”",
+    note: "Two aliens, one conversation, no scenery: a survey team has probed the only sentient race in its sector and cannot get past the finding that the creatures think with their own tissue. The whole story is dialogue, and the comedy runs on one officer's mounting refusal to accept substrate independence — thinking meat, singing meat, meat that flaps at other meat to make words. Four minutes long, deadpan in the Hitchhiker's register, and it has since been cited in actual books on consciousness, because the joke is the hard problem stated more cleanly than most papers manage. Then the last line drops the comedy entirely and lands somewhere colder and much lonelier."
+  },
+  {
+    n: 33,
+    title: "The Litany of Earth",
+    author: "Ruthanna Emrys",
+    venue: "Tor.com",
+    year: 2014,
+    url: "https://reactormag.com/the-litany-of-earth-ruthanna-emrys/",
+    mins: 45,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-07-26",
+    accent: "#1F7A8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M40 16 V60 M60 12 V60 M80 16 V60" stroke="var(--accent)" stroke-width="2" opacity=".85"/><path d="M32 30 H88" stroke="var(--accent)" stroke-width="1.5" opacity=".5"/><path d="M8 60 C22 52 34 68 48 60 C62 52 74 68 88 60 C98 54 106 60 112 58" stroke="var(--accent)" stroke-width="2.5"/><path d="M8 76 C22 68 34 84 48 76 C62 68 74 84 88 76 C98 70 106 76 112 74" stroke="var(--accent)" stroke-width="1.8" opacity=".6"/><path d="M8 92 C22 84 34 100 48 92 C62 84 74 100 88 92 C98 86 106 92 112 90" stroke="var(--accent)" stroke-width="1.4" opacity=".35"/><circle cx="60" cy="84" r="8" stroke="var(--accent)" stroke-width="1.6" opacity=".55"/></svg>',
+    excerpt: "The state took Aphra away from Innsmouth. They took her history, her home, her family, her god.",
+    note: "Emrys takes the most notorious story in the Lovecraft canon and retells it from inside the population he wrote as monstrous. Aphra Marsh, released after seventeen years in a desert camp, is rebuilding a life shelving books in San Francisco alongside Japanese American neighbors processed by the same machinery, when a government man arrives wanting help identifying dangerous cults. What follows is a quiet, furious argument about who gets classified as a threat and what a bureaucracy does with the paperwork afterward — the mythos handled with startling tenderness, half-remembered liturgy and a god you can no longer name aloud, while the actual horror is entirely administrative. Mythic-dark in the vein of Piranesi: a mind holding fast to a cosmology no one else will confirm, with the haunting done by a filing system."
   }
 ];
