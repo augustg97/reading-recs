@@ -533,5 +533,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M40 16 V60 M60 12 V60 M80 16 V60" stroke="var(--accent)" stroke-width="2" opacity=".85"/><path d="M32 30 H88" stroke="var(--accent)" stroke-width="1.5" opacity=".5"/><path d="M8 60 C22 52 34 68 48 60 C62 52 74 68 88 60 C98 54 106 60 112 58" stroke="var(--accent)" stroke-width="2.5"/><path d="M8 76 C22 68 34 84 48 76 C62 68 74 84 88 76 C98 70 106 76 112 74" stroke="var(--accent)" stroke-width="1.8" opacity=".6"/><path d="M8 92 C22 84 34 100 48 92 C62 84 74 100 88 92 C98 86 106 92 112 90" stroke="var(--accent)" stroke-width="1.4" opacity=".35"/><circle cx="60" cy="84" r="8" stroke="var(--accent)" stroke-width="1.6" opacity=".55"/></svg>',
     excerpt: "The state took Aphra away from Innsmouth. They took her history, her home, her family, her god.",
     note: "Emrys takes the most notorious story in the Lovecraft canon and retells it from inside the population he wrote as monstrous. Aphra Marsh, released after seventeen years in a desert camp, is rebuilding a life shelving books in San Francisco alongside Japanese American neighbors processed by the same machinery, when a government man arrives wanting help identifying dangerous cults. What follows is a quiet, furious argument about who gets classified as a threat and what a bureaucracy does with the paperwork afterward — the mythos handled with startling tenderness, half-remembered liturgy and a god you can no longer name aloud, while the actual horror is entirely administrative. Mythic-dark in the vein of Piranesi: a mind holding fast to a cosmology no one else will confirm, with the haunting done by a filing system."
+  },
+  {
+    n: 34,
+    title: "The Jefferson Bottles",
+    author: "Patrick Radden Keefe",
+    venue: "The New Yorker",
+    year: 2007,
+    url: "https://www.newyorker.com/magazine/2007/09/03/the-jefferson-bottles",
+    mins: 45,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-07-28",
+    accent: "#8E2F4A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M74 18 H90 V44 C90 50 100 54 100 64 V110 H64 V64 C64 54 74 50 74 44 Z" stroke="var(--accent)" stroke-width="2" stroke-dasharray="5 5" opacity=".45"/><path d="M46 12 H62 V38 C62 44 72 48 72 58 V104 H36 V58 C36 48 46 44 46 38 Z" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/><path d="M36 66 H72" stroke="var(--accent)" stroke-width="1.5" opacity=".4"/><g stroke="var(--accent)" stroke-width="1.8" opacity=".85"><path d="M44 80 h10 m-5 0 v10"/><path d="M62 80 v10 c0 3 -4 3 -5 1"/></g></svg>',
+    excerpt: "The most expensive bottle of wine ever sold at auction was offered at Christie’s in London, on December 5, 1985.",
+    note: "A bottle of 1787 Lafite engraved “Th.J.” went under the hammer at Christie’s for six figures, and for two decades the German collector who produced it was the most celebrated wine hunter alive. Keefe follows a billionaire’s forensic campaign to prove the bottles were forgeries — retired FBI investigators, an engraving analyzed under magnification, atomic particles from postwar nuclear testing — and turns up an auction market with no real mechanism for distinguishing a true story from a well-told one. The collector’s own biography proves as unverifiable as his cellar; even his name may be improvised. It is a con-man portrait that doubles as a study of what happens when provenance is only consensus, and consensus is only appetite."
+  },
+  {
+    n: 35,
+    title: "Could AI be conscious?",
+    author: "William MacAskill & Lucius Caviola",
+    venue: "The Guardian",
+    year: 2026,
+    url: "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+    mins: 8,
+    kind: "essay",
+    lean: "b",
+    added: "2026-07-28",
+    accent: "#6C63FF",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="60" cy="60" r="46" stroke="var(--accent)" stroke-width="2" stroke-dasharray="6 6" opacity=".55"/><circle cx="44" cy="58" r="16" stroke="var(--accent)" stroke-width="2.5"/><rect x="66" y="44" width="32" height="32" rx="3" stroke="var(--accent)" stroke-width="2.5"/><g stroke="var(--accent)" stroke-width="1.8" opacity=".7"><path d="M74 44 v-8 M86 44 v-8 M74 76 v8 M86 76 v8 M66 52 h-6 M66 66 h-6 M98 52 h8 M98 66 h8"/></g><path d="M76 54 h12 M76 60 h12 M76 66 h8" stroke="var(--accent)" stroke-width="1.4" opacity=".45"/></svg>',
+    excerpt: "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications",
+    note: "Two researchers make the case that whether AI systems are moral patients is both unanswerable right now and far too consequential to shelve, and propose changing the question: not “is it conscious?” but “what should we do given that we don’t know?” Their answer is a list of safe bets — letting a model exit a distressing conversation, preserving weights, routine check-ins on wellbeing — cheap if these systems are nothing, decent if they turn out to be someone. The detail that lands hardest is historical: until the 1980s, surgeons operated on newborns without anaesthesia, confident that infants felt nothing, because the babies could not report otherwise and the assumption was convenient. Short, unhysterical, and quietly alarming about how reliably the bar for moral status gets reset just above wherever the machines currently stand."
+  },
+  {
+    n: 36,
+    title: "Taming the unaccountability machine",
+    author: "Dan Davies",
+    venue: "Hypertext (Niskanen Center)",
+    year: 2025,
+    url: "https://hypertext.niskanencenter.org/p/taming-the-unaccountability-machine",
+    mins: 16,
+    kind: "essay",
+    lean: "a",
+    added: "2026-07-28",
+    accent: "#7A8B4F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="20" y="16" width="80" height="18" stroke="var(--accent)" stroke-width="2.5"/><rect x="20" y="50" width="80" height="18" stroke="var(--accent)" stroke-width="2.5" opacity=".8"/><rect x="20" y="84" width="80" height="18" stroke="var(--accent)" stroke-width="2.5" opacity=".6"/><g stroke="var(--accent)" stroke-width="2"><path d="M40 34 v16"/><path d="M40 50 l-4 -5 m4 5 l4 -5"/><path d="M40 68 v16"/><path d="M40 84 l-4 -5 m4 5 l4 -5"/></g><path d="M80 84 v-10" stroke="var(--accent)" stroke-width="2" opacity=".7"/><path d="M80 50 v-16" stroke="var(--accent)" stroke-width="2" stroke-dasharray="3 4" opacity=".35"/><path d="M80 34 l-4 5 m4 -5 l4 5" stroke="var(--accent)" stroke-width="2" opacity=".35"/></svg>',
+    excerpt: "They used to call it “granny farming.”",
+    note: "Davies opens with the care homes that swallowed the North Wales coast in the 1990s and works outward into a general theory of why nobody can ever be found who is responsible for anything. His name for the mechanism is the accountability sink: an arrangement that severs the link between a decision and news of its consequences, so that ignorance becomes the information-processing system of last resort. The argument runs through Stafford Beer’s management cybernetics and the much-abused principle that the purpose of a system is what it does — not what its designers intended — before landing on the emergency handle in a train driver’s cab, which works only because pulling it also rewrites that day’s timetable. Bracing on outsourcing and consultancy as machines for laundering decisions until no human being made them, and on why a state that has stopped doing things also stops being able to think."
   }
 ];
