@@ -581,5 +581,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="20" y="16" width="80" height="18" stroke="var(--accent)" stroke-width="2.5"/><rect x="20" y="50" width="80" height="18" stroke="var(--accent)" stroke-width="2.5" opacity=".8"/><rect x="20" y="84" width="80" height="18" stroke="var(--accent)" stroke-width="2.5" opacity=".6"/><g stroke="var(--accent)" stroke-width="2"><path d="M40 34 v16"/><path d="M40 50 l-4 -5 m4 5 l4 -5"/><path d="M40 68 v16"/><path d="M40 84 l-4 -5 m4 5 l4 -5"/></g><path d="M80 84 v-10" stroke="var(--accent)" stroke-width="2" opacity=".7"/><path d="M80 50 v-16" stroke="var(--accent)" stroke-width="2" stroke-dasharray="3 4" opacity=".35"/><path d="M80 34 l-4 5 m4 -5 l4 5" stroke="var(--accent)" stroke-width="2" opacity=".35"/></svg>',
     excerpt: "They used to call it “granny farming.”",
     note: "Davies opens with the care homes that swallowed the North Wales coast in the 1990s and works outward into a general theory of why nobody can ever be found who is responsible for anything. His name for the mechanism is the accountability sink: an arrangement that severs the link between a decision and news of its consequences, so that ignorance becomes the information-processing system of last resort. The argument runs through Stafford Beer’s management cybernetics and the much-abused principle that the purpose of a system is what it does — not what its designers intended — before landing on the emergency handle in a train driver’s cab, which works only because pulling it also rewrites that day’s timetable. Bracing on outsourcing and consultancy as machines for laundering decisions until no human being made them, and on why a state that has stopped doing things also stops being able to think."
+  },
+  {
+    n: 37,
+    title: "In Which I Fix My Girlfriend’s Grandparents’ WiFi and Am Hailed as a Conquering Hero",
+    author: "Mike Lacher",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2011,
+    url: "https://www.mcsweeneys.net/articles/in-which-i-fix-my-girlfriends-grandparents-wifi-and-am-hailed-as-a-conquering-hero",
+    mins: 3,
+    kind: "humor",
+    lean: "j",
+    added: "2026-07-30",
+    accent: "#E2703A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="38" y="86" width="44" height="20" rx="3" stroke="var(--accent)" stroke-width="2.5"/><circle cx="60" cy="96" r="3" fill="var(--accent)"/><path d="M42 76 a24 24 0 0 1 36 0" stroke="var(--accent)" stroke-width="2.5"/><path d="M32 62 a38 38 0 0 1 56 0" stroke="var(--accent)" stroke-width="2.2" opacity=".7"/><path d="M22 48 a52 52 0 0 1 76 0" stroke="var(--accent)" stroke-width="2" stroke-dasharray="6 6" opacity=".45"/><path d="M60 40 V12" stroke="var(--accent)" stroke-width="2.5"/><path d="M48 22 H72" stroke="var(--accent)" stroke-width="2.5"/><path d="M60 12 l-6 6 m6 -6 l6 6" stroke="var(--accent)" stroke-width="2" opacity=".7"/></svg>',
+    excerpt: "Lo, in the twilight days of the second year of the second decade of the third millennium did a great darkness descend over the wireless internet connectivity of the people of 276 Ferndale Street in the North-Central lands of Iowa.",
+    note: "A router goes dark in North-Central Iowa, and the grandson dispatched to restart it narrates the errand in full Beowulf — alliterative dread, mead-hall cadence, a Compaq Presario standing in for the treasure-hoard. The joke works because the register fits: the household really does experience the wireless network as a capricious god, and the young man really is the only one who can speak to it. A few hundred words long, and still the definitive account of the domestic priesthood of technical support. It has outlasted several generations of router, which is more than the routers managed."
+  },
+  {
+    n: 38,
+    title: "Babel",
+    author: "Meghan O’Gieblyn",
+    venue: "n+1",
+    year: 2021,
+    url: "https://www.nplusonemag.com/issue-40/essays/babel-4/",
+    mins: 40,
+    kind: "essay",
+    lean: "b",
+    added: "2026-07-30",
+    accent: "#3D5A80",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 60 H112" stroke="var(--accent)" stroke-width="1.5" opacity=".35"/><rect x="34" y="46" width="52" height="12" stroke="var(--accent)" stroke-width="2.5"/><rect x="40" y="32" width="40" height="12" stroke="var(--accent)" stroke-width="2.4"/><rect x="46" y="18" width="28" height="12" stroke="var(--accent)" stroke-width="2.2" opacity=".8"/><rect x="52" y="8" width="16" height="8" stroke="var(--accent)" stroke-width="2" stroke-dasharray="4 4" opacity=".6"/><rect x="34" y="62" width="52" height="12" stroke="var(--accent)" stroke-width="2" stroke-dasharray="5 5" opacity=".5"/><rect x="40" y="76" width="40" height="12" stroke="var(--accent)" stroke-width="1.8" stroke-dasharray="5 5" opacity=".4"/><rect x="46" y="90" width="28" height="12" stroke="var(--accent)" stroke-width="1.6" stroke-dasharray="5 5" opacity=".3"/><path d="M52 104 h16" stroke="var(--accent)" stroke-width="1.4" opacity=".25"/></svg>',
+    excerpt: "It was first described to me by a friend who works in the industry as autocomplete on crack, after the technology that endowed our phones with the quality everyone pretends to, but does not actually, want in a lover…",
+    note: "O’Gieblyn got early access to GPT-3 and came back with a stranger question than anyone else was asking: not whether the machine understands, but whether it might have an unconscious — some order beneath the fluency that neither the model nor its makers can read. She threads Freud on technology’s self-inflicted problems through her own experiments with hypnosis and the ordinary writerly experience of not quite knowing where the sentences come from, and arrives at an uncomfortable symmetry between repression and a statistical process nobody can inspect. Running underneath it is the plainer dread of a working writer whose life’s material is training data for the thing that may replace her. Few people write about neural networks with this much metaphysical nerve, and almost nobody writes sentences this good while doing it."
+  },
+  {
+    n: 39,
+    title: "Palantir Comes to Campus",
+    author: "Alex Bronzini-Vender",
+    venue: "New York Magazine",
+    year: 2026,
+    url: "https://nymag.com/intelligencer/article/palantir-yale-conference-ai.html",
+    mins: 18,
+    kind: "journalism",
+    lean: "a",
+    added: "2026-07-30",
+    accent: "#2F7A5E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M38 104 V46 a22 22 0 0 1 44 0 V104" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/><path d="M60 24 V104" stroke="var(--accent)" stroke-width="1.4" opacity=".35"/><path d="M38 70 H82" stroke="var(--accent)" stroke-width="1.4" opacity=".35"/><circle cx="60" cy="56" r="14" stroke="var(--accent)" stroke-width="2.4"/><circle cx="60" cy="56" r="5" fill="var(--accent)"/><g stroke="var(--accent)" stroke-width="1.6" stroke-dasharray="4 4" opacity=".6"><path d="M50 68 L20 100"/><path d="M70 68 L100 100"/></g><g stroke="var(--accent)" stroke-width="1.8" opacity=".8"><rect x="14" y="100" width="10" height="10"/><rect x="55" y="100" width="10" height="10"/><rect x="96" y="100" width="10" height="10"/></g></svg>',
+    excerpt: "On a Thursday in April, I headed to the north end of Yale’s campus and persuaded a passing fellow student to swipe me into a building.",
+    note: "A Yale undergraduate talks his way into the Atlantic and Pacific Forum — an invitation-only conference co-hosted by the Palantir Foundation and Yale’s Jackson School, kept deliberately quiet for reasons the company understands well — and reports what the room actually said about AI, national power, and the proper relationship between the two. The speakers are largely Palantir executives and allied intellectuals, and the unnerving part is not that a vision is being sold but how little friction it meets. The most revealing material is the students, in whom the ethical objection and the recruiting pipeline coexist without apparent strain. Institutional dread at close range: a small room, a few slides, and the outline of an arrangement between a company and a state."
   }
 ];
