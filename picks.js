@@ -629,5 +629,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M38 104 V46 a22 22 0 0 1 44 0 V104" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/><path d="M60 24 V104" stroke="var(--accent)" stroke-width="1.4" opacity=".35"/><path d="M38 70 H82" stroke="var(--accent)" stroke-width="1.4" opacity=".35"/><circle cx="60" cy="56" r="14" stroke="var(--accent)" stroke-width="2.4"/><circle cx="60" cy="56" r="5" fill="var(--accent)"/><g stroke="var(--accent)" stroke-width="1.6" stroke-dasharray="4 4" opacity=".6"><path d="M50 68 L20 100"/><path d="M70 68 L100 100"/></g><g stroke="var(--accent)" stroke-width="1.8" opacity=".8"><rect x="14" y="100" width="10" height="10"/><rect x="55" y="100" width="10" height="10"/><rect x="96" y="100" width="10" height="10"/></g></svg>',
     excerpt: "On a Thursday in April, I headed to the north end of Yale’s campus and persuaded a passing fellow student to swipe me into a building.",
     note: "A Yale undergraduate talks his way into the Atlantic and Pacific Forum — an invitation-only conference co-hosted by the Palantir Foundation and Yale’s Jackson School, kept deliberately quiet for reasons the company understands well — and reports what the room actually said about AI, national power, and the proper relationship between the two. The speakers are largely Palantir executives and allied intellectuals, and the unnerving part is not that a vision is being sold but how little friction it meets. The most revealing material is the students, in whom the ethical objection and the recruiting pipeline coexist without apparent strain. Institutional dread at close range: a small room, a few slides, and the outline of an arrangement between a company and a state."
+  },
+  {
+    n: 40,
+    title: "The Last Question",
+    author: "Isaac Asimov",
+    venue: "Science Fiction Quarterly",
+    year: 1956,
+    url: "https://users.ece.cmu.edu/~gamvrosi/thelastq.html",
+    mins: 18,
+    kind: "fiction",
+    lean: "b",
+    added: "2026-08-02",
+    accent: "#7D5BA6",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="60" cy="60" r="48" stroke="var(--accent)" stroke-width="1.4" stroke-dasharray="3 9" opacity=".28"/><circle cx="60" cy="60" r="36" stroke="var(--accent)" stroke-width="1.6" stroke-dasharray="4 8" opacity=".45"/><circle cx="60" cy="60" r="24" stroke="var(--accent)" stroke-width="1.9" stroke-dasharray="6 6" opacity=".65"/><circle cx="60" cy="60" r="12" stroke="var(--accent)" stroke-width="2.4"/><circle cx="60" cy="60" r="3.5" fill="var(--accent)"/><g stroke="var(--accent)" stroke-width="2" stroke-linecap="round"><path d="M60 6 v9"/><path d="M60 105 v9"/><path d="M6 60 h9"/><path d="M105 60 h9"/></g><g stroke="var(--accent)" stroke-width="1.5" stroke-linecap="round" opacity=".5"><path d="M22 22 l7 7"/><path d="M98 22 l-7 7"/><path d="M22 98 l7 -7"/><path d="M98 98 l-7 -7"/></g></svg>',
+    excerpt: "The last question was asked for the first time, half in jest, on May 21, 2061, at a time when humanity first stepped into the light.",
+    note: "Asimov thought this his best story, and spent the rest of his life fielding letters from readers who remembered the ending but not the title or the author. It opens with two drunk technicians and a five-dollar bet over whether entropy can be reversed, then leaps across trillions of years — each era's humans putting the same question to a larger and stranger machine, each time getting the same answer back. The computer outlives the stars and then outlives matter itself, and what it finally does with the unanswered question is the most quietly audacious last line in science fiction. Written in 1956, it reads now as the ur-text for every argument since about what a sufficiently large mind eventually becomes."
+  },
+  {
+    n: 41,
+    title: "The Mythology of Conscious AI",
+    author: "Anil Seth",
+    venue: "Noema",
+    year: 2026,
+    url: "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    mins: 45,
+    kind: "essay",
+    lean: "b",
+    added: "2026-08-02",
+    accent: "#B03A3A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M38 24 C52 22 56 34 52 44 C58 52 56 70 47 78 C49 92 36 98 28 90 C17 90 11 76 19 66 C11 54 19 33 33 31 Z" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round"/><circle cx="33" cy="58" r="8" stroke="var(--accent)" stroke-width="2" opacity=".8"/><path d="M60 8 V112" stroke="var(--accent)" stroke-width="1.4" stroke-dasharray="5 6" opacity=".45"/><g stroke="var(--accent)" stroke-width="1.8" opacity=".85"><rect x="72" y="36" width="16" height="16"/><rect x="94" y="36" width="16" height="16"/><rect x="72" y="58" width="16" height="16"/><rect x="94" y="58" width="16" height="16"/><rect x="72" y="80" width="16" height="16"/><rect x="94" y="80" width="16" height="16"/></g></svg>',
+    excerpt: "For centuries, people have fantasized about playing God by creating artificial versions of human beings. This is a dream reinvented with every breaking wave of new technology.",
+    note: "Seth runs a consciousness lab, and this is the most rigorous available case against the assumption that a sufficiently capable machine will eventually feel something. His claim is that consciousness may be a property of being alive rather than of computing — that the brain's metabolic, self-maintaining messiness is the substance of the thing and not an implementation detail to be abstracted away — which puts him squarely against the functionalist consensus that dominates the field. The sharper half of the essay is about what he thinks the real hazard is: not conscious AI but conscious-seeming AI, and the moral disorder of a world where people are persuaded to extend care and credence to systems with no inner life at all. It won the 2025 Berggruen Prize out of nearly three thousand entries, and it is the strongest adversary the optimistic answer has yet been given."
+  },
+  {
+    n: 42,
+    title: "Consider the Lobster",
+    author: "David Foster Wallace",
+    venue: "Gourmet",
+    year: 2004,
+    url: "https://www.columbia.edu/~col8/lobsterarticle.pdf",
+    mins: 35,
+    kind: "essay",
+    lean: "j",
+    added: "2026-08-02",
+    accent: "#8C6239",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="60" cy="66" r="34" stroke="var(--accent)" stroke-width="2.4"/><g stroke="var(--accent)" stroke-width="2.2" stroke-linecap="round"><path d="M42 52 q18 8 36 0"/><path d="M40 63 q20 9 40 0"/><path d="M43 74 q17 8 34 0"/><path d="M48 85 q12 6 24 0"/></g><g stroke="var(--accent)" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="4 5" opacity=".65"><path d="M50 34 C44 20 36 14 26 12"/><path d="M70 34 C76 20 84 14 94 12"/></g><path d="M14 108 h92" stroke="var(--accent)" stroke-width="1.6" opacity=".3"/></svg>',
+    excerpt: "The enormous, pungent, and extremely well marketed Maine Lobster Festival is held every late July in the state's midcoast region, meaning the western side of Penobscot Bay, the nerve stem of Maine's lobster industry.",
+    note: "Gourmet sent Wallace to cover the Maine Lobster Festival and got back an essay asking whether it is all right to boil a creature alive for pleasure. He does the reporting properly first — the World's Largest Lobster Cooker, the tourist crush, the smell of the whole enterprise — and then, largely down in the footnotes, works through crustacean neuroanatomy, the problem of inferring pain from behavior alone, and his own embarrassment at raising any of it at a food festival. It is extremely funny right up until it isn't, and the honest thing about it is that he refuses to let himself off with a conclusion. The question he cannot resolve, how to weigh the inner life of a creature whose experience you have no access to, has quietly become one of the more useful essays available on minds unlike our own."
   }
 ];
