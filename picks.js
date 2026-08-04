@@ -677,5 +677,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="60" cy="66" r="34" stroke="var(--accent)" stroke-width="2.4"/><g stroke="var(--accent)" stroke-width="2.2" stroke-linecap="round"><path d="M42 52 q18 8 36 0"/><path d="M40 63 q20 9 40 0"/><path d="M43 74 q17 8 34 0"/><path d="M48 85 q12 6 24 0"/></g><g stroke="var(--accent)" stroke-width="1.8" stroke-linecap="round" stroke-dasharray="4 5" opacity=".65"><path d="M50 34 C44 20 36 14 26 12"/><path d="M70 34 C76 20 84 14 94 12"/></g><path d="M14 108 h92" stroke="var(--accent)" stroke-width="1.6" opacity=".3"/></svg>',
     excerpt: "The enormous, pungent, and extremely well marketed Maine Lobster Festival is held every late July in the state's midcoast region, meaning the western side of Penobscot Bay, the nerve stem of Maine's lobster industry.",
     note: "Gourmet sent Wallace to cover the Maine Lobster Festival and got back an essay asking whether it is all right to boil a creature alive for pleasure. He does the reporting properly first — the World's Largest Lobster Cooker, the tourist crush, the smell of the whole enterprise — and then, largely down in the footnotes, works through crustacean neuroanatomy, the problem of inferring pain from behavior alone, and his own embarrassment at raising any of it at a food festival. It is extremely funny right up until it isn't, and the honest thing about it is that he refuses to let himself off with a conclusion. The question he cannot resolve, how to weigh the inner life of a creature whose experience you have no access to, has quietly become one of the more useful essays available on minds unlike our own."
+  },
+  {
+    n: 43,
+    title: "The Really Big One",
+    author: "Kathryn Schulz",
+    venue: "The New Yorker",
+    year: 2015,
+    url: "https://www.newyorker.com/magazine/2015/07/20/the-really-big-one",
+    mins: 30,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-08-04",
+    accent: "#2E6F8E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M4 62 H44 L56 74" stroke-width="2.6"/><path d="M56 74 L70 60 H116" stroke-width="2.6"/><path d="M4 76 H40 L54 92" stroke-width="1.8" opacity=".55"/><path d="M54 92 L72 74 H116" stroke-width="1.8" opacity=".55"/><path d="M4 90 H36 L52 108" stroke-width="1.4" opacity=".3"/><path d="M52 108 L74 88 H116" stroke-width="1.4" opacity=".3"/><path d="M40 44 a26 26 0 0 1 40 0" stroke-width="2.2" opacity=".85"/><path d="M28 32 a40 40 0 0 1 64 0" stroke-width="1.8" stroke-dasharray="5 6" opacity=".55"/><path d="M16 20 a54 54 0 0 1 88 0" stroke-width="1.5" stroke-dasharray="4 7" opacity=".3"/></g><circle cx="62" cy="67" r="3" fill="var(--accent)"/></svg>',
+    excerpt: "When the 2011 earthquake and tsunami struck Tohoku, Japan, Chris Goldfinger was two hundred miles away, in the city of Kashiwa, at an international meeting on seismology.",
+    note: "Schulz reconstructs how seismologists worked out, from drowned cedar groves and three-hundred-year-old Japanese court records, that the Cascadia subduction zone ruptures roughly every two hundred and forty-three years and last did so on the evening of January 26, 1700. The reporting is patient; the arithmetic is merciless. What lifts it past disaster writing is the institutional portrait underneath — a hazard discovered late, priced into nothing, and built over anyway, because no building code and no budget cycle is written on the scale of centuries. It won the Pulitzer for feature writing, and it remains the rare piece of risk journalism that makes a probability feel like something standing directly behind you."
+  },
+  {
+    n: 44,
+    title: "AI as Social Technology",
+    author: "Henry Farrell & Cosma Rohilla Shalizi",
+    venue: "Knight First Amendment Institute",
+    year: 2026,
+    url: "https://knightcolumbia.org/content/ai-as-social-technology",
+    mins: 55,
+    kind: "essay",
+    lean: "a",
+    added: "2026-08-04",
+    accent: "#6E5A9E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-width="1.4" opacity=".7"><path d="M10 24 H50 M10 36 H50 M10 48 H50 M10 60 H50 M10 72 H50 M10 84 H50 M10 96 H50"/><path d="M10 24 V96 M20 24 V96 M30 24 V96 M40 24 V96 M50 24 V96"/></g><g stroke="var(--accent)" stroke-width="2.6"><rect x="72" y="36" width="18" height="24"/><rect x="90" y="36" width="18" height="24"/><rect x="72" y="60" width="18" height="24"/><rect x="90" y="60" width="18" height="24"/></g><path d="M56 60 H68" stroke="var(--accent)" stroke-width="2.2"/><path d="M68 60 l-6 -5 m6 5 l-6 5" stroke="var(--accent)" stroke-width="2.2"/><g stroke="var(--accent)" stroke-width="1.6" opacity=".35"><path d="M56 78 l3 9"/><path d="M63 84 l3 9"/><path d="M50 88 l3 9"/></g></svg>',
+    excerpt: "Our debates about “AI” grow out of 1990s science fiction. Back then, Vinge (1993) wrote essays and novels urging us to face up to the oncoming “Singularity”: a moment of rapid change that would fundamentally transform the human condition.",
+    note: "Farrell and Shalizi argue that large language models are not a new kind of mind but the latest entry in a very old family of social technologies — markets, bureaucracies, democratic voting — whose job is to take an unmanageably complex society and compress it into something a decision-maker can act on. Every such compression throws information away, and the essay's real subject is what gets discarded in the compressing and who benefits from the discarding. It opens by noting that our arguments about AI are still inherited from 1990s singularity fiction, then works through coarse-graining, the long industrial revolution and bureaucracy to land somewhere genuinely unfamiliar: the thing to fear is less a runaway intelligence than an administrative machine that has learned to run without the human friction that used to correct it. Full scholarly apparatus and seventy-five works cited, so it reads like a working paper rather than a magazine essay — and it is the most careful available statement of the case against treating AI as a mind at all."
+  },
+  {
+    n: 45,
+    title: "The Trauma Floor",
+    author: "Casey Newton",
+    venue: "The Verge",
+    year: 2019,
+    url: "https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona",
+    mins: 30,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-08-04",
+    accent: "#4F7A63",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="34" y="6" width="52" height="16" stroke-width="1.4" stroke-dasharray="5 5" opacity=".3"/><rect x="34" y="26" width="52" height="16" stroke-width="1.8" opacity=".55"/><rect x="34" y="46" width="52" height="16" stroke-width="2.6"/><path d="M60 62 V74" stroke-width="2.2"/><path d="M60 74 l-5 -6 m5 6 l5 -6" stroke-width="2.2"/><circle cx="60" cy="86" r="9" stroke-width="2.6"/><path d="M52 86 q8 7 16 0" stroke-width="1.8" opacity=".7"/><path d="M14 106 H106" stroke-width="1.6" opacity=".35"/><path d="M46 96 V106 M74 96 V106" stroke-width="1.5" opacity=".3"/></g></svg>',
+    excerpt: "The panic attacks started after Chloe watched a man die.",
+    note: "Newton spent months with the contractors Facebook hired in Phoenix to decide what the rest of the world is allowed to see. What he found was a workplace organized around a ninety-five-percent accuracy score nobody could reliably hit, nine minutes of daily wellness time, and employees who had begun — after enough hours in the queue — to half-believe the conspiracy videos they were paid to take down. The piece is careful about the bind: the work is genuinely necessary, and the cost of it falls almost entirely on people earning twenty-eight thousand dollars a year in a building that does not carry the company's name. Within a year Cognizant had exited the content-moderation business and Facebook had settled with moderators for fifty-two million dollars, which is one way of conceding what the reporting established — that this is the labor the internet is actually made of."
   }
 ];
