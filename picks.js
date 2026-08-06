@@ -725,5 +725,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="34" y="6" width="52" height="16" stroke-width="1.4" stroke-dasharray="5 5" opacity=".3"/><rect x="34" y="26" width="52" height="16" stroke-width="1.8" opacity=".55"/><rect x="34" y="46" width="52" height="16" stroke-width="2.6"/><path d="M60 62 V74" stroke-width="2.2"/><path d="M60 74 l-5 -6 m5 6 l5 -6" stroke-width="2.2"/><circle cx="60" cy="86" r="9" stroke-width="2.6"/><path d="M52 86 q8 7 16 0" stroke-width="1.8" opacity=".7"/><path d="M14 106 H106" stroke-width="1.6" opacity=".35"/><path d="M46 96 V106 M74 96 V106" stroke-width="1.5" opacity=".3"/></g></svg>',
     excerpt: "The panic attacks started after Chloe watched a man die.",
     note: "Newton spent months with the contractors Facebook hired in Phoenix to decide what the rest of the world is allowed to see. What he found was a workplace organized around a ninety-five-percent accuracy score nobody could reliably hit, nine minutes of daily wellness time, and employees who had begun — after enough hours in the queue — to half-believe the conspiracy videos they were paid to take down. The piece is careful about the bind: the work is genuinely necessary, and the cost of it falls almost entirely on people earning twenty-eight thousand dollars a year in a building that does not carry the company's name. Within a year Cognizant had exited the content-moderation business and Facebook had settled with moderators for fifty-two million dollars, which is one way of conceding what the reporting established — that this is the labor the internet is actually made of."
+  },
+  {
+    n: 46,
+    title: "Jackalope Wives",
+    author: "Ursula Vernon",
+    venue: "Apex Magazine",
+    year: 2014,
+    url: "https://www.apexbookcompany.com/blogs/apex-magazine/jackalope-wives",
+    mins: 20,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-08-06",
+    accent: "#C9A227",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="88" cy="28" r="13" stroke-width="2.2" opacity=".7"/><path d="M56 96 V60" stroke-width="2.6"/><path d="M56 60 l-13 -15 m13 15 l13 -15" stroke-width="2.4"/><path d="M43 45 l-10 -3 m10 3 l-4 -11" stroke-width="1.8" opacity=".8"/><path d="M69 45 l10 -3 m-10 3 l4 -11" stroke-width="1.8" opacity=".8"/><ellipse cx="56" cy="100" rx="27" ry="8" stroke-width="1.6" stroke-dasharray="4 5" opacity=".55"/><path d="M12 82 q22 -12 44 -6" stroke-width="1.4" opacity=".35"/><path d="M56 76 q26 -6 52 6" stroke-width="1.4" opacity=".35"/></g></svg>',
+    excerpt: "The moon came up and the sun went down. The moonbeams went shattering down to the ground and the jackalope wives took off their skins and danced.",
+    note: "A Nebula-winning story that takes the swan-maiden folktale — the stolen skin, the bride who cannot leave — and drops it into the American Southwest, where the magic is administered by an old woman with no patience for anyone's nonsense. A boy does a careless, greedy thing to a dancing jackalope wife and burns her half out of her skin, and it falls to his grandmother to go bargaining with something much older and colder than either of them. Vernon writes the mythic register without a trace of preciousness: the prose is dry and funny and plain right up to the moment it turns cruel. It is the rare fairy tale that puts the moral weight on the person who has to clean up somebody else's cruelty, and it earns every bit of its ending."
+  },
+  {
+    n: 47,
+    title: "The New AI Consciousness Paper",
+    author: "Scott Alexander",
+    venue: "Astral Codex Ten",
+    year: 2025,
+    url: "https://www.astralcodexten.com/p/the-new-ai-consciousness-paper",
+    mins: 15,
+    kind: "essay",
+    lean: "b",
+    added: "2026-08-06",
+    accent: "#00A6A6",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="60" r="44" stroke-width="1.6" stroke-dasharray="4 6" opacity=".45"/><rect x="43" y="43" width="34" height="34" stroke-width="2.6"/><circle cx="60" cy="60" r="5" stroke-width="2.4"/><circle cx="26" cy="26" r="6.5" stroke-width="1.8" opacity=".8"/><circle cx="94" cy="26" r="6.5" stroke-width="1.8" opacity=".8"/><circle cx="26" cy="94" r="6.5" stroke-width="1.8" opacity=".8"/><circle cx="94" cy="94" r="6.5" stroke-width="1.8" opacity=".8"/><path d="M31 31 L43 43 M89 31 L77 43 M31 89 L43 77 M89 89 L77 77" stroke-width="1.6" opacity=".6"/></g></svg>',
+    excerpt: "Most discourse on AI is low-quality. Most discourse on consciousness is super-abysmal-double-low quality.",
+    note: "A working review of the Bengio-and-Chalmers paper that tries to make the consciousness question tractable: take the leading computational theories of mind, extract testable indicators from each, and check which machine architectures satisfy them. Alexander is admiring and unsparing in equal measure — he credits the authors for insisting on the distinction between access consciousness and phenomenal consciousness, then catches them collapsing it anyway, and asks whether global workspace theory obliges us to conclude that a company whose staff email daily reports to their boss has an inner life. The sharpest stretch argues that we will end up sorting machines the way we already sort dogs from pigs: near-identical hardware, opposite moral status, decided almost entirely by whether the thing in front of us has a face. Underneath the jokes is a real deadline — one of philosophy's most intractable problems, about to acquire consequences."
+  },
+  {
+    n: 48,
+    title: "Superintelligence: The Idea That Eats Smart People",
+    author: "Maciej Cegłowski",
+    venue: "Idle Words",
+    year: 2016,
+    url: "https://idlewords.com/talks/superintelligence.htm",
+    mins: 30,
+    kind: "talk",
+    lean: "a",
+    added: "2026-08-06",
+    accent: "#C64191",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 102 H106" stroke-width="1.6" opacity=".4"/><path d="M16 102 V18" stroke-width="1.6" opacity=".4"/><path d="M20 99 C58 97 78 84 88 22" stroke-width="2.8" stroke-dasharray="6 5"/><path d="M20 97 C50 93 76 89 102 86" stroke-width="2" opacity=".6"/><circle cx="88" cy="22" r="8.5" stroke-width="2.4"/><path d="M88 6 V12 M101 13 l-4.5 4 M75 13 l4.5 4 M104 27 l-7 -1 M72 27 l7 -1" stroke-width="1.6" opacity=".7"/></g></svg>',
+    excerpt: "In 1945, as American physicists were preparing to test the atomic bomb, it occurred to someone to ask if such a test could set the atmosphere on fire.",
+    note: "A conference talk that sets out to dismantle the superintelligence argument and does it as stand-up. Cegłowski splits the case in two — the inside arguments about recursive self-improvement, which he takes apart premise by premise, and the outside arguments about what it means that this particular idea keeps colonizing unusually intelligent people, complete with prophets, an apocalypse, and a tithe. The claim underneath the jokes is that a movement certain it is averting a hypothetical catastrophe will cheerfully overlook the mundane, already-arrived versions: surveillance, concentrated power, systems with nobody left to appeal to. Reading it now, a decade on and with much of the field having moved the other way, is a useful exercise in sorting which of its jabs aged into prophecy and which merely aged."
   }
 ];
