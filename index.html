@@ -254,19 +254,19 @@
     catch(e){ return {}; }
   }
   function myVote(n){ return votesObj()[n]||0; }
-  function bump(key,op){
-    try{ fetch(`https://api.counterapi.dev/v1/${VOTE_NS}/${key}/${op}`).catch(()=>{}); }catch(e){}
+  // CounterAPI v1 was retired (HTTP 410 Gone, observed 2026-08-08), which silently broke
+  // every vote ever cast. Abacus is the replacement. It only increments, so retracting a
+  // vote no longer subtracts: the counters record votes cast, not net current votes.
+  function bump(key){
+    try{ fetch(`https://abacus.jasoncameron.dev/hit/${VOTE_NS}/${key}`).catch(()=>{}); }catch(e){}
   }
   function setVote(n,dir){
     const v=votesObj(), cur=v[n]||0;
     if(cur===dir){
       delete v[n];
-      bump(dir>0?`p${n}u`:`p${n}d`,"down");
     }else{
-      if(cur===1) bump(`p${n}u`,"down");
-      if(cur===-1) bump(`p${n}d`,"down");
       v[n]=dir;
-      bump(dir>0?`p${n}u`:`p${n}d`,"up");
+      bump(dir>0?`p${n}u`:`p${n}d`);
     }
     try{ localStorage.setItem(VOTE_KEY, JSON.stringify(v)); }catch(e){}
     render(); buildDrawer();

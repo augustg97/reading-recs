@@ -773,5 +773,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 102 H106" stroke-width="1.6" opacity=".4"/><path d="M16 102 V18" stroke-width="1.6" opacity=".4"/><path d="M20 99 C58 97 78 84 88 22" stroke-width="2.8" stroke-dasharray="6 5"/><path d="M20 97 C50 93 76 89 102 86" stroke-width="2" opacity=".6"/><circle cx="88" cy="22" r="8.5" stroke-width="2.4"/><path d="M88 6 V12 M101 13 l-4.5 4 M75 13 l4.5 4 M104 27 l-7 -1 M72 27 l7 -1" stroke-width="1.6" opacity=".7"/></g></svg>',
     excerpt: "In 1945, as American physicists were preparing to test the atomic bomb, it occurred to someone to ask if such a test could set the atmosphere on fire.",
     note: "A conference talk that sets out to dismantle the superintelligence argument and does it as stand-up. Cegłowski splits the case in two — the inside arguments about recursive self-improvement, which he takes apart premise by premise, and the outside arguments about what it means that this particular idea keeps colonizing unusually intelligent people, complete with prophets, an apocalypse, and a tithe. The claim underneath the jokes is that a movement certain it is averting a hypothetical catastrophe will cheerfully overlook the mundane, already-arrived versions: surveillance, concentrated power, systems with nobody left to appeal to. Reading it now, a decade on and with much of the field having moved the other way, is a useful exercise in sorting which of its jabs aged into prophecy and which merely aged."
+  },
+  {
+    n: 49,
+    title: "How to Stop Worrying and Learn to Love the Internet",
+    author: "Douglas Adams",
+    venue: "The Sunday Times",
+    year: 1999,
+    url: "https://douglasadams.com/dna/19990901-00-a.html",
+    mins: 10,
+    kind: "essay",
+    lean: "j",
+    added: "2026-08-08",
+    accent: "#3B6FD4",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M98 64 L79 31 L41 31 L22 64 L41 97 L79 97 Z" stroke-width="2.2"/><path d="M98 64 L22 64 M79 31 L41 97 M41 31 L79 97" stroke-width="1.4" opacity=".5"/><path d="M98 64 L41 31 M98 64 L41 97 M22 64 L79 31 M22 64 L79 97 M79 31 L79 97 M41 31 L41 97" stroke-width="1.2" opacity=".3"/><circle cx="98" cy="64" r="5" stroke-width="2.2"/><circle cx="79" cy="31" r="5" stroke-width="2.2"/><circle cx="41" cy="31" r="5" stroke-width="2.2"/><circle cx="22" cy="64" r="5" stroke-width="2.2"/><circle cx="41" cy="97" r="5" stroke-width="2.2"/><circle cx="79" cy="97" r="5" stroke-width="2.2"/><path d="M60 14 q26 -6 44 4" stroke-width="1.4" stroke-dasharray="4 5" opacity=".35"/><path d="M16 108 q28 8 56 2" stroke-width="1.4" stroke-dasharray="4 5" opacity=".35"/></g></svg>',
+    excerpt: "A couple of years or so ago I was a guest on Start The Week, and I was authoritatively informed by a very distinguished journalist that the whole Internet thing was just a silly fad…",
+    note: "A newspaper column from 1999 in which Adams sets out to explain, patiently and with obvious glee, why the grown-ups keep getting the internet wrong. Along the way he produces the three-rule scale for how any generation greets a new invention — normal if it existed before you were born, thrilling if it arrives before you turn thirty, an affront to the natural order after that — which has since aged into one of the most-quoted things anyone has written about technology. The sharpest stretch argues that the real problem was never that you can't trust what you read online, but that we ever fell into the habit of trusting what was printed in a newspaper or carved in stone, when working out whom to believe is what a very large part of the brain is for. Comic timing doing serious analytical work, twenty-seven years early, and it ends on the quietly startling claim that pervasive networks are not making us strange — they are returning us to the village."
+  },
+  {
+    n: 50,
+    title: "The Gervais Principle, Or The Office According to \"The Office\"",
+    author: "Venkatesh Rao",
+    venue: "Ribbonfarm",
+    year: 2009,
+    url: "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+    mins: 25,
+    kind: "essay",
+    lean: "b",
+    added: "2026-08-08",
+    accent: "#6C7A89",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M60 12 L102 104 L18 104 Z" stroke-width="2.4"/><path d="M44 48 H76" stroke-width="1.6" opacity=".7"/><path d="M31 76 H89" stroke-width="1.6" opacity=".7"/><circle cx="60" cy="32" r="4.5" stroke-width="2.2"/><circle cx="50" cy="63" r="4" stroke-width="1.8" opacity=".8"/><circle cx="60" cy="63" r="4" stroke-width="1.8" opacity=".8"/><circle cx="70" cy="63" r="4" stroke-width="1.8" opacity=".8"/><circle cx="36" cy="92" r="3.5" stroke-width="1.6" opacity=".6"/><circle cx="48" cy="92" r="3.5" stroke-width="1.6" opacity=".6"/><circle cx="60" cy="92" r="3.5" stroke-width="1.6" opacity=".6"/><circle cx="72" cy="92" r="3.5" stroke-width="1.6" opacity=".6"/><circle cx="84" cy="92" r="3.5" stroke-width="1.6" opacity=".6"/><path d="M112 100 V26" stroke-width="1.6" stroke-dasharray="5 4" opacity=".55"/><path d="M108 32 L112 26 L116 32" stroke-width="1.6" opacity=".55"/></g></svg>',
+    excerpt: "My neighbor introduced me to The Office back in 2005. Since then, I've watched every episode of both the British and American versions.",
+    note: "An essay that takes a sitcom seriously as organizational theory and comes back with a taxonomy: every company sorts itself into Sociopaths at the top, Clueless in the middle, and Losers at the bottom — losers not as an insult but in the economic sense, people who traded ambition for a predictable paycheck and, Rao argues, got the better end of that bargain. The claim underneath is that the middle layer exists to absorb the blame and overwork the top layer generates, and that promotion into it is a trap dressed up as a reward. Michael Scott and David Brent are read not as buffoons but as specimens, which turns out to explain far more of the show than the jokes do. The prose is dry, faintly merciless and very funny, and the real cost of reading it is that the vocabulary is impossible to unlearn — every meeting afterward becomes a field observation."
+  },
+  {
+    n: 51,
+    title: "Rust and Boll",
+    author: "Dylan Matthews",
+    venue: "Asterisk",
+    year: 2026,
+    url: "https://asteriskmag.com/issues/15/rust-and-boll",
+    mins: 30,
+    kind: "essay",
+    lean: "a",
+    added: "2026-08-08",
+    accent: "#B7410E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M36 44 C28 34 30 22 36 18 C42 22 44 34 36 44" stroke-width="2"/><path d="M36 44 C26 36 14 38 10 44 C14 50 26 52 36 44" stroke-width="2"/><path d="M36 44 C28 54 30 66 36 70 C42 66 44 54 36 44" stroke-width="2"/><path d="M36 44 C44 37 52 39 56 44 C52 49 44 51 36 44" stroke-width="2"/><circle cx="36" cy="44" r="3" stroke-width="2"/><circle cx="82" cy="54" r="20" stroke-width="2.4"/><circle cx="82" cy="54" r="7" stroke-width="1.8" opacity=".8"/><path d="M102 54 H108 M62 54 H56 M82 74 V80 M82 34 V28" stroke-width="2"/><path d="M96 68 L100 72 M68 40 L64 36 M96 40 L100 36 M68 68 L64 72" stroke-width="2"/><path d="M10 96 H110 M18 106 H102" stroke-width="1.4" stroke-dasharray="5 6" opacity=".35"/></g></svg>',
+    excerpt: "Anthropic should learn from those cotton-picking socialists.",
+    note: "In 1931 two brothers from Mississippi built a machine that could pick cotton, and then, having worked the fields themselves and understood exactly what mechanization would do to the people still in them, tried to give the proceeds away. Matthews follows John and Mack Rust through the engineering breakthrough that made it work (a wet spindle, of all things), the demonstrations that drew crowds of the very sharecroppers the machine would displace, the plan for a foundation that would resettle them, and the competitors who simply built the same device with the conscience left out. It is an unusually careful piece of economic history that never stops being a story about two people, and its argument lands hard: inventing responsibly is close to impossible when the market will cheerfully supply the irresponsible version at a lower price. Matthews is explicit that he offers it as a parable for the firms building AI right now, which makes the ending less comfortable than a ninety-five-year-old story about farm equipment has any right to be."
   }
 ];
