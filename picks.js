@@ -821,5 +821,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M36 44 C28 34 30 22 36 18 C42 22 44 34 36 44" stroke-width="2"/><path d="M36 44 C26 36 14 38 10 44 C14 50 26 52 36 44" stroke-width="2"/><path d="M36 44 C28 54 30 66 36 70 C42 66 44 54 36 44" stroke-width="2"/><path d="M36 44 C44 37 52 39 56 44 C52 49 44 51 36 44" stroke-width="2"/><circle cx="36" cy="44" r="3" stroke-width="2"/><circle cx="82" cy="54" r="20" stroke-width="2.4"/><circle cx="82" cy="54" r="7" stroke-width="1.8" opacity=".8"/><path d="M102 54 H108 M62 54 H56 M82 74 V80 M82 34 V28" stroke-width="2"/><path d="M96 68 L100 72 M68 40 L64 36 M96 40 L100 36 M68 68 L64 72" stroke-width="2"/><path d="M10 96 H110 M18 106 H102" stroke-width="1.4" stroke-dasharray="5 6" opacity=".35"/></g></svg>',
     excerpt: "Anthropic should learn from those cotton-picking socialists.",
     note: "In 1931 two brothers from Mississippi built a machine that could pick cotton, and then, having worked the fields themselves and understood exactly what mechanization would do to the people still in them, tried to give the proceeds away. Matthews follows John and Mack Rust through the engineering breakthrough that made it work (a wet spindle, of all things), the demonstrations that drew crowds of the very sharecroppers the machine would displace, the plan for a foundation that would resettle them, and the competitors who simply built the same device with the conscience left out. It is an unusually careful piece of economic history that never stops being a story about two people, and its argument lands hard: inventing responsibly is close to impossible when the market will cheerfully supply the irresponsible version at a lower price. Matthews is explicit that he offers it as a parable for the firms building AI right now, which makes the ending less comfortable than a ninety-five-year-old story about farm equipment has any right to be."
+  },
+  {
+    n: 52,
+    title: "Ponies",
+    author: "Kij Johnson",
+    venue: "Tor.com",
+    year: 2010,
+    url: "https://reactormag.com/ponies/",
+    mins: 6,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-08-10",
+    accent: "#6EC8A8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="62" r="38" stroke-width="1.4" stroke-dasharray="3 6" opacity=".45"/><circle cx="60" cy="24" r="5" stroke-width="1.8" opacity=".7"/><circle cx="93" cy="43" r="5" stroke-width="1.8" opacity=".7"/><circle cx="93" cy="81" r="5" stroke-width="1.8" opacity=".7"/><circle cx="60" cy="100" r="5" stroke-width="1.8" opacity=".7"/><circle cx="27" cy="81" r="5" stroke-width="1.8" opacity=".7"/><circle cx="27" cy="43" r="5" stroke-width="1.8" opacity=".7"/><circle cx="60" cy="62" r="11" stroke-width="2.4"/><path d="M60 51 V34" stroke-width="2" stroke-dasharray="4 4" opacity=".5"/><path d="M49 58 Q34 48 30 58" stroke-width="2" stroke-dasharray="4 4" opacity=".5"/><path d="M71 58 Q86 48 90 58" stroke-width="2" stroke-dasharray="4 4" opacity=".5"/><path d="M55 68 q5 5 10 0" stroke-width="2"/></g></svg>',
+    excerpt: "If you want to be friends with The Other Girls, you’re going to have to give something up; this is the way it’s always been, as long as there have been Ponies.",
+    note: "A birthday party, an invitation with a Western theme, and a rule laid out as flatly as a craft-time instruction: to be admitted to TheOtherGirls, a Pony has to give up two of its three gifts — the horn, the wings, or the voice. Johnson stages the cutting in cotton-candy pastels, with diet soda in the kitchen and no blood anywhere, and the sweetness is exactly what makes it unbearable. Six minutes long, a Nebula winner, and one of the cruelest things anyone has written about the arithmetic of belonging: what the group asks for is never the thing it says it wants, and paying the price is no guarantee of admission. It reads like Omelas rewritten as a party favor."
+  },
+  {
+    n: 53,
+    title: "You Could Be Next",
+    author: "Josh Dzieza",
+    venue: "The Verge",
+    year: 2026,
+    url: "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
+    mins: 40,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-08-10",
+    accent: "#8A6FB0",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="28" cy="38" r="9" stroke-width="2.4"/><path d="M28 47 V63 M18 55 H38 M28 63 L21 75 M28 63 L35 75" stroke-width="1.8"/><rect x="70" y="26" width="38" height="38" stroke-width="2.4"/><path d="M70 39 H108 M70 51 H108 M83 26 V64 M95 26 V64" stroke-width="1.2" opacity=".45"/><path d="M42 34 Q56 24 68 38" stroke-width="1.8" stroke-dasharray="4 4"/><path d="M63 36 L69 38 L64 42" stroke-width="1.8"/><path d="M80 68 Q68 94 38 92" stroke-width="1.8"/><path d="M44 88 L37 92 L44 96" stroke-width="1.8"/><circle cx="28" cy="92" r="8" stroke-width="1.8" stroke-dasharray="3 4" opacity=".55"/></g></svg>',
+    excerpt: "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click.",
+    note: "A new kind of company has grown up in the wreckage of the white-collar job market: firms like Mercor and Surge AI that recruit laid-off lawyers, scientists, screenwriters and history PhDs and pay them by the hour to teach models the expertise their old employers stopped buying. Dzieza follows people through the funnel — a LinkedIn message that reads like a scam, a job interview conducted by an AI, forty-five dollars an hour to write the problems that will train the thing that replaced them. Nobody in it is a villain, which is the trouble: everyone is behaving rationally, and the rational move on offer is a decent hourly rate in exchange for the only asset you had. The detail that lingers is how absorbing the workers find the work — genuinely interesting, better than the last job in some ways — right up until they think about what it is for."
+  },
+  {
+    n: 54,
+    title: "Kill Chain",
+    author: "Kevin Baker",
+    venue: "Artificial Bureaucracy",
+    year: 2026,
+    url: "https://artificialbureaucracy.substack.com/p/kill-chain",
+    mins: 35,
+    kind: "essay",
+    lean: "a",
+    added: "2026-08-10",
+    accent: "#7A8B33",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 30 H30 M42 30 H58 M70 30 H86" stroke-width="1.6" opacity=".6"/><rect x="30" y="22" width="12" height="16" stroke-width="2"/><rect x="58" y="22" width="12" height="16" stroke-width="2"/><rect x="86" y="22" width="12" height="16" stroke-width="2" stroke-dasharray="3 3" opacity=".55"/><path d="M36 38 V48 M64 38 V48 M92 38 V48" stroke-width="1.4" opacity=".5"/><path d="M36 48 Q60 60 60 72" stroke-width="1.6" opacity=".6"/><path d="M64 48 V70" stroke-width="1.6" opacity=".6"/><path d="M92 48 Q64 60 62 72" stroke-width="1.6" opacity=".6"/><circle cx="61" cy="88" r="18" stroke-width="2.4"/><circle cx="61" cy="88" r="5" stroke-width="1.8"/><path d="M61 62 V72 M61 104 V114 M35 88 H45 M77 88 H87" stroke-width="2"/></g></svg>',
+    excerpt: "On the first morning of Operation Epic Fury, February 28, 2026, American forces struck the Shajareh Tayyebeh elementary school in Minab, in southern Iran, hitting the building at least two times during the morning session.",
+    note: "A strike on a school in southern Iran killed 175 children and was widely explained as an AI failure. Baker's argument is that the explanation is not merely wrong but load-bearing — it is what the machinery is for. He traces the target-selection apparatus backward through Operation Igloo White's electronic battlefield in Vietnam and the Aegis console aboard the USS Vincennes in 1988 to show that a system which compresses a decision into seconds and spreads it across software, doctrine and rank has been under construction for sixty years, each generation sold as the one that finally removes human error. What it removes, he argues, is not error but discretion: officers are required to exercise judgment the system refuses to acknowledge they are exercising, so when it goes wrong there is nobody whose judgment it was. Cold, closely built, and the strongest recent case that the interesting question about automated decisions was never whether the model got it right."
   }
 ];
