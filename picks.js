@@ -869,5 +869,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 30 H30 M42 30 H58 M70 30 H86" stroke-width="1.6" opacity=".6"/><rect x="30" y="22" width="12" height="16" stroke-width="2"/><rect x="58" y="22" width="12" height="16" stroke-width="2"/><rect x="86" y="22" width="12" height="16" stroke-width="2" stroke-dasharray="3 3" opacity=".55"/><path d="M36 38 V48 M64 38 V48 M92 38 V48" stroke-width="1.4" opacity=".5"/><path d="M36 48 Q60 60 60 72" stroke-width="1.6" opacity=".6"/><path d="M64 48 V70" stroke-width="1.6" opacity=".6"/><path d="M92 48 Q64 60 62 72" stroke-width="1.6" opacity=".6"/><circle cx="61" cy="88" r="18" stroke-width="2.4"/><circle cx="61" cy="88" r="5" stroke-width="1.8"/><path d="M61 62 V72 M61 104 V114 M35 88 H45 M77 88 H87" stroke-width="2"/></g></svg>',
     excerpt: "On the first morning of Operation Epic Fury, February 28, 2026, American forces struck the Shajareh Tayyebeh elementary school in Minab, in southern Iran, hitting the building at least two times during the morning session.",
     note: "A strike on a school in southern Iran killed 175 children and was widely explained as an AI failure. Baker's argument is that the explanation is not merely wrong but load-bearing — it is what the machinery is for. He traces the target-selection apparatus backward through Operation Igloo White's electronic battlefield in Vietnam and the Aegis console aboard the USS Vincennes in 1988 to show that a system which compresses a decision into seconds and spreads it across software, doctrine and rank has been under construction for sixty years, each generation sold as the one that finally removes human error. What it removes, he argues, is not error but discretion: officers are required to exercise judgment the system refuses to acknowledge they are exercising, so when it goes wrong there is nobody whose judgment it was. Cold, closely built, and the strongest recent case that the interesting question about automated decisions was never whether the model got it right."
+  },
+  {
+    n: 55,
+    title: "Seven Days At The Bin Store",
+    author: "Jen Kinney",
+    venue: "Defector",
+    year: 2025,
+    url: "https://defector.com/seven-days-at-the-bin-store",
+    mins: 22,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-08-12",
+    accent: "#F0A202",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M44 14 H76 V38 L60 54 L44 38 Z" stroke-width="2.2"/><circle cx="60" cy="24" r="3.2" stroke-width="1.8"/><path d="M52 34 H68" stroke-width="1.8" opacity=".65"/><path d="M98 18 V42 M91 35 L98 43 L105 35" stroke-width="2"/><path d="M10 74 H54 L47 106 H17 Z" stroke-width="2.2"/><path d="M66 74 H110 L103 106 H73 Z" stroke-width="2.2"/><circle cx="24" cy="88" r="5" stroke-width="1.6" opacity=".7"/><rect x="34" y="84" width="9" height="9" stroke-width="1.6" opacity=".7"/><path d="M79 95 L85 83 L91 95 Z" stroke-width="1.6" opacity=".7"/><circle cx="98" cy="88" r="4.5" stroke-width="1.6" opacity=".7"/><path d="M28 60 V68 M60 62 V70 M92 60 V68" stroke-width="1.4" stroke-dasharray="3 4" opacity=".5"/></g></svg>',
+    excerpt: "This spring, a new business opened on the main drag of my West Philadelphia neighborhood, provoking both excitement and trepidation.",
+    note: "A bin store opened on Kinney's block in West Philadelphia — a room full of waist-high troughs of unsorted returns, priced at ten dollars on Friday and marked down every day until everything costs a dollar by Wednesday — and she went back every day for a week to see what it actually is. What comes out is a very funny piece of reporting about the far end of the supply chain: the reverse-logistics industry that exists because sending things back became free, the regulars who have worked out the optimal day to arrive, the exact texture of digging through a bin holding a curling iron, a phone case, and a bag of plastic nobody can identify. It is affectionate rather than superior about everyone in the room, which is harder than it looks. The absurdity accumulates so gently that the store stops reading as a novelty and starts reading as a small, well-lit diagram of how much we make and how little of it anyone wanted."
+  },
+  {
+    n: 56,
+    title: "Why You've Never Been In A Plane Crash",
+    author: "Kyra Dempsey",
+    venue: "Asterisk",
+    year: 2024,
+    url: "https://asteriskmag.com/issues/05/why-you-ve-never-been-in-a-plane-crash",
+    mins: 15,
+    kind: "essay",
+    lean: "a",
+    added: "2026-08-12",
+    accent: "#2C5F8A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M40 108 L54 46 H66 L80 108" stroke-width="2.2"/><path d="M60 100 V92 M60 84 V76 M60 68 V60" stroke-width="2" opacity=".7"/><circle cx="60" cy="34" r="9" stroke-width="2.4"/><circle cx="22" cy="20" r="5" stroke-width="1.8" opacity=".8"/><circle cx="44" cy="12" r="5" stroke-width="1.8" opacity=".8"/><circle cx="76" cy="12" r="5" stroke-width="1.8" opacity=".8"/><circle cx="98" cy="20" r="5" stroke-width="1.8" stroke-dasharray="3 3" opacity=".5"/><path d="M26 24 L52 30 M47 17 L57 26 M73 17 L64 26 M94 24 L69 30" stroke-width="1.4" opacity=".6"/><path d="M14 108 H106" stroke-width="1.4" stroke-dasharray="6 6" opacity=".35"/></g></svg>',
+    excerpt: "The United States leads the world in airline safety. That's because of the way we assign blame when accidents do happen.",
+    note: "On a clear night in February 1991, a controller at LAX cleared a USAir 737 to land on a runway where a commuter turboprop was still waiting, and thirty-five people died. Robin Wascher worked out what she had done, walked back into the tower, and told her supervisor which airplane she believed had been hit — and was never charged, never fired, never punished in any way. Dempsey's argument is that this restraint is the reason American aviation went on to become the safest large system humans have built, and she traces it from a 1956 midair collision over the Grand Canyon through Annex 13 of the Chicago Convention to the six mundane failures that actually put those two planes on the same strip of asphalt. Asking who is emotionally satisfying; asking why is what keeps people alive, and the two turn out to be in direct competition. It is the rare institutional story in which the machinery works, and it works because somebody decided vengeance was too expensive."
+  },
+  {
+    n: 57,
+    title: "The Runaway General",
+    author: "Michael Hastings",
+    venue: "Rolling Stone",
+    year: 2010,
+    url: "https://www.rollingstone.com/politics/politics-news/the-runaway-general-the-profile-that-brought-down-mcchrystal-192609/",
+    mins: 30,
+    kind: "profile",
+    lean: "j",
+    added: "2026-08-12",
+    accent: "#A63D40",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><polygon points="26,34 27.4,38.1 31.7,38.2 28.3,40.7 29.5,44.9 26,42.4 22.5,44.9 23.7,40.7 20.3,38.2 24.6,38.1" stroke-width="1.8"/><polygon points="48,34 49.4,38.1 53.7,38.2 50.3,40.7 51.5,44.9 48,42.4 44.5,44.9 45.7,40.7 42.3,38.2 46.6,38.1" stroke-width="1.8"/><polygon points="70,34 71.4,38.1 75.7,38.2 72.3,40.7 73.5,44.9 70,42.4 66.5,44.9 67.7,40.7 64.3,38.2 68.6,38.1" stroke-width="1.8"/><polygon points="94,60 95.4,64.1 99.7,64.2 96.3,66.7 97.5,70.9 94,68.4 90.5,70.9 91.7,66.7 88.3,64.2 92.6,64.1" stroke-width="1.8" stroke-dasharray="3 3" opacity=".6" transform="rotate(28 94 66)"/><path d="M14 54 H82" stroke-width="1.6" opacity=".45"/><path d="M78 44 Q92 48 92 58" stroke-width="1.4" stroke-dasharray="4 4" opacity=".6"/><rect x="14" y="82" width="14" height="24" rx="3" stroke-width="2"/><path d="M18 88 H24 M18 94 H24" stroke-width="1.4" opacity=".7"/><path d="M36 82 Q46 94 36 106" stroke-width="1.6" opacity=".75"/><path d="M46 76 Q62 94 46 112" stroke-width="1.6" opacity=".5"/><path d="M56 70 Q78 94 56 118" stroke-width="1.6" opacity=".3"/></g></svg>',
+    excerpt: "“How'd I get screwed into going to this dinner?” demands Gen. Stanley McChrystal.",
+    note: "Hastings flew to Paris for two days with the commander of the war in Afghanistan and got stuck with him for weeks when an Icelandic volcano grounded every flight in Europe, which is how a reporter ends up in a van and a hotel bar listening to a four-star general's inner circle discuss their civilian leadership the way people discuss a rival department. The piece ended that career within days and won a Polk Award, and what is startling on a reread is how little of it is scandal — it is mostly a close, almost admiring portrait of an ascetic, monkish, ferociously competent man and the loyal court he built around himself, running a strategy that nobody in the room fully believes in. The contempt arrives in asides, at the edges of the actual subject, which is exactly what makes it land. Institutional collapse captured in real time by someone who was simply in the room longer than anyone meant him to be."
   }
 ];
