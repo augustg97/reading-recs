@@ -917,5 +917,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><polygon points="26,34 27.4,38.1 31.7,38.2 28.3,40.7 29.5,44.9 26,42.4 22.5,44.9 23.7,40.7 20.3,38.2 24.6,38.1" stroke-width="1.8"/><polygon points="48,34 49.4,38.1 53.7,38.2 50.3,40.7 51.5,44.9 48,42.4 44.5,44.9 45.7,40.7 42.3,38.2 46.6,38.1" stroke-width="1.8"/><polygon points="70,34 71.4,38.1 75.7,38.2 72.3,40.7 73.5,44.9 70,42.4 66.5,44.9 67.7,40.7 64.3,38.2 68.6,38.1" stroke-width="1.8"/><polygon points="94,60 95.4,64.1 99.7,64.2 96.3,66.7 97.5,70.9 94,68.4 90.5,70.9 91.7,66.7 88.3,64.2 92.6,64.1" stroke-width="1.8" stroke-dasharray="3 3" opacity=".6" transform="rotate(28 94 66)"/><path d="M14 54 H82" stroke-width="1.6" opacity=".45"/><path d="M78 44 Q92 48 92 58" stroke-width="1.4" stroke-dasharray="4 4" opacity=".6"/><rect x="14" y="82" width="14" height="24" rx="3" stroke-width="2"/><path d="M18 88 H24 M18 94 H24" stroke-width="1.4" opacity=".7"/><path d="M36 82 Q46 94 36 106" stroke-width="1.6" opacity=".75"/><path d="M46 76 Q62 94 46 112" stroke-width="1.6" opacity=".5"/><path d="M56 70 Q78 94 56 118" stroke-width="1.6" opacity=".3"/></g></svg>',
     excerpt: "It's a Thursday night in mid-April, and the commander of all U.S. and NATO forces in Afghanistan is sitting in a four-star suite at the Hôtel Westminster in Paris.",
     note: "Hastings flew to Paris for two days with the commander of the war in Afghanistan and got stuck with him for weeks when an Icelandic volcano grounded every flight in Europe, which is how a reporter ends up in a van and a hotel bar listening to a four-star general's inner circle discuss their civilian leadership the way people discuss a rival department. The piece ended that career within days and won a Polk Award, and what is startling on a reread is how little of it is scandal — it is mostly a close, almost admiring portrait of an ascetic, monkish, ferociously competent man and the loyal court he built around himself, running a strategy that nobody in the room fully believes in. The contempt arrives in asides, at the edges of the actual subject, which is exactly what makes it land. Institutional collapse captured in real time by someone who was simply in the room longer than anyone meant him to be."
+  },
+  {
+    n: 58,
+    title: "A Witch's Guide to Escape: A Practical Compendium of Portal Fantasies",
+    author: "Alix E. Harrow",
+    venue: "Apex Magazine",
+    year: 2018,
+    url: "https://www.apexbookcompany.com/blogs/apex-magazine/a-witchs-guide-to-escape-a-practical-compendium-of-portal-fantasies",
+    mins: 20,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-08-16",
+    accent: "#4B3B8F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="10" y="14" width="44" height="30" rx="2" stroke-width="1.6" opacity=".5"/><path d="M16 22 H40 M16 28 H46 M16 34 H34" stroke-width="1.3" opacity=".5"/><rect x="20" y="24" width="44" height="30" rx="2" stroke-width="1.6" opacity=".8"/><path d="M26 32 H50 M26 38 H56 M26 44 H44" stroke-width="1.3" opacity=".7"/><path d="M96 18 L100 29 L111 33 L100 37 L96 48 L92 37 L81 33 L92 29 Z" stroke-width="1.7" opacity=".75"/><path d="M14 100 Q37 90 60 100 Q83 90 106 100" stroke-width="2.2"/><path d="M14 100 V72 Q37 62 60 72" stroke-width="2.2"/><path d="M106 100 V72 Q83 62 60 72" stroke-width="2.2"/><path d="M60 72 V100" stroke-width="1.5" opacity=".6"/><path d="M70 98 V70 A10 10 0 0 1 90 70 V98" stroke-width="2" stroke-dasharray="5 3"/><circle cx="86" cy="85" r="1.9" stroke-width="1.6"/></g></svg>',
+    excerpt: "You'd think it would make us happy when a kid checks out the same book a zillion times in a row, but actually it just keeps us up at night.",
+    note: "The story is told entirely as library catalog entries — call number, title, year, and beneath each one a librarian's private annotation — and the librarian turns out not to be only a librarian. A teenage boy keeps checking out the same battered mid-nineties portal fantasy, again and again, and she recognizes the specific hunger in it, because escape is the one thing her profession can legitimately dispense and her other craft can actually build. Harrow won both a Hugo and a Nebula for it, and the reason is structural: the catalog form holds the feeling at arm's length, entry after dry entry, until near the end it simply stops doing that. Five thousand words on how much a book can be asked to carry, and what it costs the person who decides to hand one over."
+  },
+  {
+    n: 59,
+    title: "The Memory Maker",
+    author: "Tim Requarth",
+    venue: "Longreads",
+    year: 2026,
+    url: "https://longreads.com/2026/04/09/openai-sora-deepfake-memories/",
+    mins: 24,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-08-16",
+    accent: "#159C8B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="10" y="18" width="100" height="34" rx="2" stroke-width="2"/><path d="M10 25 H110 M10 45 H110" stroke-width="1.2" opacity=".45"/><path d="M18 18 V25 M34 18 V25 M50 18 V25 M66 18 V25 M82 18 V25 M98 18 V25" stroke-width="1.1" opacity=".45"/><path d="M18 45 V52 M34 45 V52 M50 45 V52 M66 45 V52 M82 45 V52 M98 45 V52" stroke-width="1.1" opacity=".45"/><rect x="24" y="29" width="20" height="12" stroke-width="1.5" opacity=".75"/><rect x="50" y="29" width="20" height="12" stroke-width="1.5" opacity=".75"/><rect x="76" y="29" width="20" height="12" stroke-width="1.5" stroke-dasharray="3 3" opacity=".5"/><path d="M60 52 V64" stroke-width="1.4" stroke-dasharray="3 4" opacity=".55"/><path d="M60 108 A17 17 0 1 0 60 74 A11 11 0 1 1 60 96 A5 5 0 1 0 60 86" stroke-width="2.2"/><path d="M94 72 Q102 86 94 100" stroke-width="1.4" opacity=".4"/><path d="M26 72 Q18 86 26 100" stroke-width="1.4" opacity=".4"/></g></svg>',
+    excerpt: "How does the brain decide what's real? It's a question most of us never have to ask.",
+    note: "Sora let people drop themselves into video of things that never happened, and Requarth follows what that did to the people who used it most — including accounts of remembering, in the ordinary unremarkable way one remembers, events that only ever existed as generated footage. He builds the reporting on reconsolidation, the finding that retrieving a memory rewrites it, so that recollection is less a recording played back than a rumor the brain keeps retelling itself with small revisions each time. He is careful throughout about which claims are established and which are only suggestive, and that restraint is what makes the unsettling parts land. What emerges is less a story about a product than about what a mind does when handed unlimited plausible evidence of a life it did not live."
+  },
+  {
+    n: 60,
+    title: "A Declaration of the Independence of Cyberspace",
+    author: "John Perry Barlow",
+    venue: "Electronic Frontier Foundation",
+    year: 1996,
+    url: "https://www.eff.org/cyberspace-independence",
+    mins: 4,
+    kind: "essay",
+    lean: "a",
+    added: "2026-08-16",
+    accent: "#D6336C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M32 108 V14" stroke-width="2.4"/><path d="M32 18 Q53 10 74 20 Q90 28 104 22 V52 Q90 58 74 50 Q53 40 32 48 Z" stroke-width="2"/><circle cx="45" cy="24" r="2.5" stroke-width="1.5"/><circle cx="64" cy="22" r="2.5" stroke-width="1.5"/><circle cx="88" cy="30" r="2.5" stroke-width="1.5"/><circle cx="51" cy="42" r="2.5" stroke-width="1.5"/><circle cx="76" cy="40" r="2.5" stroke-width="1.5"/><path d="M45 24 L64 22 L76 40 L51 42 Z" stroke-width="1.2" opacity=".5"/><path d="M64 22 L88 30 L76 40" stroke-width="1.2" opacity=".5"/><path d="M8 84 H112" stroke-width="1.6" opacity=".55"/><path d="M2 100 H118" stroke-width="1.6" opacity=".35"/><path d="M20 84 L10 100 M46 84 L42 100 M74 84 L78 100 M100 84 L110 100" stroke-width="1.2" opacity=".4"/><path d="M32 108 L22 114 M32 108 L42 114" stroke-width="1.6" opacity=".55"/></g></svg>',
+    excerpt: "Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind.",
+    note: "Barlow wrote this at Davos on the night the Telecommunications Act of 1996 was signed and emailed it to a few hundred correspondents; within months it had been copied onto tens of thousands of websites, which was roughly the entire web at the time. It is eight hundred words of undiluted declamation — governments addressed as weary giants of flesh and steel, a new territory announced in which the legal concepts of property, expression, identity and movement are declared simply not to apply. Read three decades on it is a very strange object: rhetorically magnificent, historically enormous, and wrong in nearly every particular about where the network was actually heading. Four minutes, and probably the best argument-starter in existence about the gap between how the people building a thing imagine it will behave and how it behaves."
   }
 ];
