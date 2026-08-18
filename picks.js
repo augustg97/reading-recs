@@ -965,5 +965,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M32 108 V14" stroke-width="2.4"/><path d="M32 18 Q53 10 74 20 Q90 28 104 22 V52 Q90 58 74 50 Q53 40 32 48 Z" stroke-width="2"/><circle cx="45" cy="24" r="2.5" stroke-width="1.5"/><circle cx="64" cy="22" r="2.5" stroke-width="1.5"/><circle cx="88" cy="30" r="2.5" stroke-width="1.5"/><circle cx="51" cy="42" r="2.5" stroke-width="1.5"/><circle cx="76" cy="40" r="2.5" stroke-width="1.5"/><path d="M45 24 L64 22 L76 40 L51 42 Z" stroke-width="1.2" opacity=".5"/><path d="M64 22 L88 30 L76 40" stroke-width="1.2" opacity=".5"/><path d="M8 84 H112" stroke-width="1.6" opacity=".55"/><path d="M2 100 H118" stroke-width="1.6" opacity=".35"/><path d="M20 84 L10 100 M46 84 L42 100 M74 84 L78 100 M100 84 L110 100" stroke-width="1.2" opacity=".4"/><path d="M32 108 L22 114 M32 108 L42 114" stroke-width="1.6" opacity=".55"/></g></svg>',
     excerpt: "Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind.",
     note: "Barlow wrote this at Davos on the night the Telecommunications Act of 1996 was signed and emailed it to a few hundred correspondents; within months it had been copied onto tens of thousands of websites, which was roughly the entire web at the time. It is eight hundred words of undiluted declamation — governments addressed as weary giants of flesh and steel, a new territory announced in which the legal concepts of property, expression, identity and movement are declared simply not to apply. Read three decades on it is a very strange object: rhetorically magnificent, historically enormous, and wrong in nearly every particular about where the network was actually heading. Four minutes, and probably the best argument-starter in existence about the gap between how the people building a thing imagine it will behave and how it behaves."
+  },
+  {
+    n: 61,
+    title: "The Philosopher L. A. Paul Wants Us to Think About Our Selves",
+    author: "Alice Gregory",
+    venue: "The New Yorker",
+    year: 2024,
+    url: "https://www.newyorker.com/magazine/2024/12/09/the-philosopher-l-a-paul-wants-us-to-think-about-our-selves",
+    mins: 32,
+    kind: "profile",
+    lean: "b",
+    added: "2026-08-18",
+    accent: "#C0562B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="110" r="4.5" stroke-width="1.8"/><path d="M60 105 V76" stroke-width="2.4"/><path d="M60 76 Q60 64 40 56 Q26 48 22 38" stroke-width="2"/><path d="M60 76 Q60 64 80 56 Q94 48 98 38" stroke-width="2" stroke-dasharray="4 4"/><circle cx="22" cy="28" r="9.5" stroke-width="2"/><circle cx="98" cy="28" r="9.5" stroke-width="2" stroke-dasharray="3 3.5"/><path d="M18 24 L26 32 M26 24 L18 32" stroke-width="1.2" opacity=".5"/><path d="M94 24 Q98 28 102 24" stroke-width="1.2" opacity=".35"/><path d="M6 48 H114" stroke-width="1.4" stroke-dasharray="2 6" opacity=".6"/><path d="M44 92 H76" stroke-width="1.2" opacity=".35"/><path d="M48 99 H72" stroke-width="1.2" opacity=".22"/></g></svg>',
+    excerpt: "The Sonoran Desert, which covers much of the southwestern United States, is a vast expanse of arid earth where cartoonish entities—roadrunners, tumbleweeds, telephone-pole-tall succulents—make occasional appearances.",
+    note: "Gregory opens at a metaphysics workshop held on a Sonoran dude ranch, where philosophers break from archery practice to argue about entailment, and the comedy of the setting turns out to be load-bearing: Paul designed the conference to engineer some of the cruelty out of a discipline that long treated reducing an opponent to tears as a mark of successful debate. The argument at the center is Paul's own. Certain choices — having a child is her standing example — are epistemically transformative, meaning you cannot know what the experience is like until you are inside it, and the person who emerges is not quite the one who chose; standard decision theory simply has no purchase on this, a fact she demonstrates rather than laments. The profile stays close to the life it describes, so the abstraction about selves keeps landing on an actual one."
+  },
+  {
+    n: 62,
+    title: "It's Cute How Grandma Doesn't Even Know How to Blood Tithe to the Data Lord",
+    author: "Kate Tyndall",
+    venue: "McSweeney's Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/its-cute-how-grandma-doesnt-even-know-how-to-blood-tithe-to-the-data-lord",
+    mins: 3,
+    kind: "humor",
+    lean: "j",
+    added: "2026-08-18",
+    accent: "#6B0F1A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M60 10 C60 10 51 25 51 32 A9 9 0 0 0 69 32 C69 25 60 10 60 10 Z" stroke-width="2.2"/><path d="M60 44 V54" stroke-width="1.4" stroke-dasharray="2 4" opacity=".7"/><rect x="26" y="58" width="68" height="14" stroke-width="1.8"/><rect x="26" y="76" width="68" height="14" stroke-width="1.8"/><rect x="26" y="94" width="68" height="14" stroke-width="1.8" opacity=".55"/><path d="M34 65 H46 M34 83 H46 M34 101 H46" stroke-width="1.4" opacity=".7"/><circle cx="84" cy="65" r="2.2" stroke-width="1.4"/><circle cx="84" cy="83" r="2.2" stroke-width="1.4"/><circle cx="84" cy="101" r="2.2" stroke-width="1.4" opacity=".45"/><path d="M12 30 L26 37 L12 44 Z" stroke-width="1.5" opacity=".6"/><path d="M108 30 L94 37 L108 44 Z" stroke-width="1.5" opacity=".6"/><path d="M18 37 H38" stroke-width="1" stroke-dasharray="2 3" opacity=".4"/><path d="M102 37 H82" stroke-width="1" stroke-dasharray="2 3" opacity=".4"/></g></svg>',
+    excerpt: "Grandma, it's the first of the month. Did you forget the blood tithe was due?",
+    note: "A grandson walks his grandmother through the monthly blood tithe — half a pint, tourniquet ready, drones inbound to collect it by smell — in the patient, faintly condescending register of a young person explaining an app to an elderly relative. The joke holds because the tone never breaks: all the horror sits in the setting, while the warmth toward Gam-Gam stays completely sincere. Her blood goes into the tower to cool the servers housing the Data Lord's eternal consciousness; the narrator's own platelets rejuvenate the clone library, so the boss can pick a clean flesh-suit each morning. Six hundred words, and it finds the exact seam where data-center infrastructure and human sacrifice stop sounding like different things."
+  },
+  {
+    n: 63,
+    title: "Deep Atheism and AI Risk",
+    author: "Joe Carlsmith",
+    venue: "joecarlsmith.com",
+    year: 2024,
+    url: "https://joecarlsmith.com/2024/01/04/deep-atheism-and-ai-risk/",
+    mins: 38,
+    kind: "philosophy",
+    lean: "a",
+    added: "2026-08-18",
+    accent: "#2F6B4F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="72" cy="56" r="36" stroke-width="2"/><path d="M72 20 A36 36 0 0 1 72 92 A24 24 0 0 1 72 44 A12 12 0 0 0 72 68" stroke-width="1.6" opacity=".6"/><path d="M46 92 Q58 80 52 68 Q46 56 58 44" stroke-width="1.3" opacity=".35"/><path d="M14 104 V50" stroke-width="2.2"/><circle cx="14" cy="42" r="6.5" stroke-width="2"/><path d="M22 62 H40" stroke-width="1.7" stroke-dasharray="3 4"/><path d="M35 57 L41 62 L35 67" stroke-width="1.6" opacity=".75"/><path d="M104 18 L111 25 M111 18 L104 25" stroke-width="1.3" opacity=".45"/><path d="M92 102 Q102 94 110 102" stroke-width="1.3" opacity=".3"/><path d="M6 104 H40" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "On a certain kind of fundamental mistrust towards Nature.",
+    note: "Carlsmith names a stance he calls deep atheism — not disbelief in God, but a more fundamental mistrust of Nature itself, the conviction that the universe is not secretly on your side and that anything good has to be actively imposed on it. He traces the position through Yudkowsky's writing on AI risk, where it does an enormous amount of quiet work, and sets it against the thinkers who counsel yielding to something larger than yourself. The real subject is what that mistrust licenses: if the Other cannot be trusted, control begins to look like the only responsible option, including control over minds you have made. It is analytic philosophy written with unusual patience and no interest whatsoever in scoring points, and it takes seriously the possibility that its own conclusion is monstrous."
   }
 ];
