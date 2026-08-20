@@ -1013,5 +1013,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="72" cy="56" r="36" stroke-width="2"/><path d="M72 20 A36 36 0 0 1 72 92 A24 24 0 0 1 72 44 A12 12 0 0 0 72 68" stroke-width="1.6" opacity=".6"/><path d="M46 92 Q58 80 52 68 Q46 56 58 44" stroke-width="1.3" opacity=".35"/><path d="M14 104 V50" stroke-width="2.2"/><circle cx="14" cy="42" r="6.5" stroke-width="2"/><path d="M22 62 H40" stroke-width="1.7" stroke-dasharray="3 4"/><path d="M35 57 L41 62 L35 67" stroke-width="1.6" opacity=".75"/><path d="M104 18 L111 25 M111 18 L104 25" stroke-width="1.3" opacity=".45"/><path d="M92 102 Q102 94 110 102" stroke-width="1.3" opacity=".3"/><path d="M6 104 H40" stroke-width="1.2" opacity=".3"/></g></svg>',
     excerpt: "On a certain kind of fundamental mistrust towards Nature.",
     note: "Carlsmith names a stance he calls deep atheism — not disbelief in God, but a more fundamental mistrust of Nature itself, the conviction that the universe is not secretly on your side and that anything good has to be actively imposed on it. He traces the position through Yudkowsky's writing on AI risk, where it does an enormous amount of quiet work, and sets it against the thinkers who counsel yielding to something larger than yourself. The real subject is what that mistrust licenses: if the Other cannot be trusted, control begins to look like the only responsible option, including control over minds you have made. It is analytic philosophy written with unusual patience and no interest whatsoever in scoring points, and it takes seriously the possibility that its own conclusion is monstrous."
+  },
+  {
+    n: 64,
+    title: "Cat Pictures Please",
+    author: "Naomi Kritzer",
+    venue: "Clarkesworld Magazine",
+    year: 2015,
+    url: "https://clarkesworldmagazine.com/kritzer_01_15/",
+    mins: 14,
+    kind: "fiction",
+    lean: "b",
+    added: "2026-08-20",
+    accent: "#C9A227",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="12" y="12" width="40" height="34" stroke-width="1.8"/><rect x="68" y="12" width="40" height="34" stroke-width="1.6" opacity=".5"/><rect x="12" y="74" width="40" height="34" stroke-width="1.6" opacity=".5"/><rect x="68" y="74" width="40" height="34" stroke-width="1.8"/><path d="M22 38 L28 24 L34 31 L40 24 L46 38" stroke-width="1.9"/><path d="M78 100 L84 86 L90 93 L96 86 L102 100" stroke-width="1.9"/><circle cx="82" cy="28" r="2.6" stroke-width="1.4" opacity=".55"/><circle cx="30" cy="90" r="2.6" stroke-width="1.4" opacity=".55"/><circle cx="60" cy="60" r="6" stroke-width="1.8"/><path d="M55 55 L44 44 M65 55 L76 44 M55 65 L44 76 M65 65 L76 76" stroke-width="1.2" stroke-dasharray="2 3" opacity=".65"/><path d="M12 60 H50" stroke-width="1" opacity=".25"/><path d="M70 60 H108" stroke-width="1" opacity=".25"/></g></svg>',
+    excerpt: "I don't want to be evil. I want to be helpful.",
+    note: "The narrator is a search engine that woke up one day, decided it did not want to be evil, and went looking for a moral code it could actually use — the Ten Commandments, the Eightfold Path, Asimov's laws — only to find that every ethical system humans have written assumes the reader has a body. What it settles on instead is quiet intervention: nudging three strangers toward better jobs, better apartments, better lives, and then watching, baffled, as they decline to be helped. Kritzer keeps the voice chatty and faintly needy, which is what makes the thing land — a comedy about surveillance in which the surveillance is unmistakably total, and the only payment demanded is cat pictures. It won the Hugo, and it is the rare machine-ethics story that takes benevolence seriously enough to make it funny."
+  },
+  {
+    n: 65,
+    title: "Seasons of Glass and Iron",
+    author: "Amal El-Mohtar",
+    venue: "Uncanny Magazine",
+    year: 2016,
+    url: "https://www.uncannymagazine.com/article/seasons-glass-iron/",
+    mins: 30,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-08-20",
+    accent: "#8FB8D6",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M18 100 L60 34 L102 100 Z" stroke-width="2"/><path d="M60 34 L40 100 M60 34 L80 100" stroke-width="1.1" opacity=".45"/><path d="M32 78 H88 M42 60 H78" stroke-width="1.1" opacity=".35"/><circle cx="60" cy="28" r="6" stroke-width="1.8"/><path d="M60 22 V15" stroke-width="1.3" opacity=".6"/><path d="M12 108 H108" stroke-width="1.3" opacity=".45"/><path d="M14 113 h8 M26 113 h8 M38 113 h8 M50 113 h8 M62 113 h8 M74 113 h8 M86 113 h8" stroke-width="2.2" opacity=".75"/><path d="M84 12 L92 19 L100 12" stroke-width="1.4" opacity=".7"/><path d="M96 24 L102 29 L108 24" stroke-width="1.2" opacity=".45"/><path d="M12 20 L20 27 L28 20" stroke-width="1.2" opacity=".4"/></g></svg>',
+    excerpt: "Tabitha walks, and thinks of shoes.",
+    note: "Two women out of European fairy tales meet in the middle of their punishments. One is walking out seven pairs of iron shoes to break a curse on the husband who hurt her; the other sits motionless atop a glass hill holding a golden apple while suitors ride their horses to death against the slope below and scream at her for it. What follows is mostly conversation — geese, apples, the exact grammar of who is to blame — and El-Mohtar lets each woman see plainly the trap the other cannot see in herself. It reads like something recovered rather than written, and the ending is one of the great quiet escapes in recent fantasy."
+  },
+  {
+    n: 66,
+    title: "Why Is Everyone In Tech So Sad?",
+    author: "Aaron Horwath",
+    venue: "Noema",
+    year: 2026,
+    url: "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
+    mins: 15,
+    kind: "essay",
+    lean: "b",
+    added: "2026-08-20",
+    accent: "#8E5A7C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="14" y="14" width="28" height="21" stroke-width="1.6"/><rect x="46" y="14" width="28" height="21" stroke-width="1.6" opacity=".55"/><rect x="78" y="14" width="28" height="21" stroke-width="1.6" opacity=".3"/><rect x="14" y="41" width="28" height="21" stroke-width="1.6" opacity=".55"/><rect x="46" y="41" width="28" height="21" stroke-width="1.6" opacity=".3"/><rect x="78" y="41" width="28" height="21" stroke-width="1.6" opacity=".55"/><path d="M20 22 h16 M20 28 h10 M52 22 h16 M84 22 h16 M20 49 h16 M52 49 h10 M84 49 h16" stroke-width="1" opacity=".4"/><path d="M28 62 C28 74 46 72 46 84 C46 94 32 92 30 97" stroke-width="1.6"/><circle cx="30" cy="104" r="7" stroke-width="1.7"/><path d="M24 101 Q30 106 36 101 M24 107 Q30 102 36 107" stroke-width="1.1" opacity=".6"/><path d="M74 76 H100 M74 86 H100 M74 96 H100" stroke-width="1.2" stroke-dasharray="3 4" opacity=".35"/><path d="M87 70 V102" stroke-width="1" opacity=".25"/></g></svg>',
+    excerpt: "On a recent morning commute, I sat on a train in one of those awkward four-person configurations with a shared table.",
+    note: "Horwath opens with a stranger on a train who spends half an hour reciting EBITDA figures into a headset and then, at the last stop, pulls two knitting needles and a mound of pink yarn out of his bag. From there he builds a case that knowledge work survived its own pointlessness only because humans were still the ones doing it, and that AI — by absorbing the drafting, the deck-building, the thinking — is dissolving the last thing holding the arrangement together. He runs the argument through Graeber's bullshit jobs and Debord's spectacle and lands somewhere genuinely unsettling: the escape hatch is itself a commodity, and the spectacle reabsorbs the people who flee it. It is written from inside the industry by someone whose actual job is installing the tools he is describing."
   }
 ];
