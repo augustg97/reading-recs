@@ -1061,5 +1061,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="14" y="14" width="28" height="21" stroke-width="1.6"/><rect x="46" y="14" width="28" height="21" stroke-width="1.6" opacity=".55"/><rect x="78" y="14" width="28" height="21" stroke-width="1.6" opacity=".3"/><rect x="14" y="41" width="28" height="21" stroke-width="1.6" opacity=".55"/><rect x="46" y="41" width="28" height="21" stroke-width="1.6" opacity=".3"/><rect x="78" y="41" width="28" height="21" stroke-width="1.6" opacity=".55"/><path d="M20 22 h16 M20 28 h10 M52 22 h16 M84 22 h16 M20 49 h16 M52 49 h10 M84 49 h16" stroke-width="1" opacity=".4"/><path d="M28 62 C28 74 46 72 46 84 C46 94 32 92 30 97" stroke-width="1.6"/><circle cx="30" cy="104" r="7" stroke-width="1.7"/><path d="M24 101 Q30 106 36 101 M24 107 Q30 102 36 107" stroke-width="1.1" opacity=".6"/><path d="M74 76 H100 M74 86 H100 M74 96 H100" stroke-width="1.2" stroke-dasharray="3 4" opacity=".35"/><path d="M87 70 V102" stroke-width="1" opacity=".25"/></g></svg>',
     excerpt: "On a recent morning commute, I sat on a train in one of those awkward four-person configurations with a shared table.",
     note: "Horwath opens with a stranger on a train who spends half an hour reciting EBITDA figures into a headset and then, at the last stop, pulls two knitting needles and a mound of pink yarn out of his bag. From there he builds a case that knowledge work survived its own pointlessness only because humans were still the ones doing it, and that AI — by absorbing the drafting, the deck-building, the thinking — is dissolving the last thing holding the arrangement together. He runs the argument through Graeber's bullshit jobs and Debord's spectacle and lands somewhere genuinely unsettling: the escape hatch is itself a commodity, and the spectacle reabsorbs the people who flee it. It is written from inside the industry by someone whose actual job is installing the tools he is describing."
+  },
+  {
+    n: 67,
+    title: "The Bitter Lesson",
+    author: "Rich Sutton",
+    venue: "incompleteideas.net",
+    year: 2019,
+    url: "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+    mins: 5,
+    kind: "essay",
+    lean: "a",
+    added: "2026-08-21",
+    accent: "#2E8B84",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="16" r="4" stroke-width="1.8"/><path d="M60 20 L34 38 M60 20 L86 38" stroke-width="1.6"/><circle cx="34" cy="42" r="3.4" stroke-width="1.6"/><circle cx="86" cy="42" r="3.4" stroke-width="1.6"/><path d="M34 45 L20 64 M34 45 L48 64 M86 45 L72 64 M86 45 L100 64" stroke-width="1.3" opacity=".8"/><circle cx="20" cy="68" r="2.8" stroke-width="1.4"/><circle cx="48" cy="68" r="2.8" stroke-width="1.4"/><circle cx="72" cy="68" r="2.8" stroke-width="1.4"/><circle cx="100" cy="68" r="2.8" stroke-width="1.4"/><path d="M20 71 L13 88 M20 71 L27 88 M48 71 L41 88 M48 71 L55 88 M72 71 L65 88 M72 71 L79 88 M100 71 L93 88 M100 71 L107 88" stroke-width="1" opacity=".55"/><path d="M11 92 h4 M25 92 h4 M39 92 h4 M53 92 h4 M63 92 h4 M77 92 h4 M91 92 h4 M105 92 h4" stroke-width="1.8" opacity=".7"/><rect x="44" y="100" width="32" height="14" stroke-width="1.5" stroke-dasharray="3 3" opacity=".45"/><path d="M50 107 h20" stroke-width="1" opacity=".35"/></g></svg>',
+    excerpt: "The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin.",
+    note: "Barely a thousand words, written in 2019 by one of the founders of reinforcement learning, and more influential on the past decade of AI than most books on the subject. Sutton's claim is that every time researchers built their own understanding of chess, or vision, or language into a machine, the approach worked briefly and then lost to something dumber and larger — raw search and learning, scaled up on cheaper computation. What makes it sting rather than merely inform is the diagnosis of why the mistake keeps recurring: building in what we think we know is personally satisfying, and losing to brute force feels like a defeat even when it is a discovery. It closes on a genuinely strange thought, that the contents of minds are irredeemably complex and we should stop trying to describe them and build the thing that finds them instead."
+  },
+  {
+    n: 68,
+    title: "The Crane Wife",
+    author: "CJ Hauser",
+    venue: "The Paris Review",
+    year: 2019,
+    url: "https://www.theparisreview.org/blog/2019/07/16/the-crane-wife/",
+    mins: 17,
+    kind: "memoir",
+    lean: "j",
+    added: "2026-08-21",
+    accent: "#C86B4A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M46 100 V72 L40 52 L46 34 L58 28" stroke-width="2"/><path d="M58 28 L70 31" stroke-width="1.8"/><circle cx="55" cy="27" r="1.6" stroke-width="1.2"/><path d="M42 74 L26 62 M42 78 L24 74" stroke-width="1.4" opacity=".7"/><path d="M46 100 L40 110 M46 100 L54 110" stroke-width="1.5"/><path d="M10 104 H110" stroke-width="1.2" opacity=".4"/><path d="M16 104 V88 M24 104 V94 M84 104 V90 M94 104 V84 M104 104 V95" stroke-width="1.1" opacity=".45"/><circle cx="94" cy="34" r="9" stroke-width="1.6" opacity=".8"/><circle cx="94" cy="34" r="4" stroke-width="1" opacity=".35"/><path d="M78 60 q6 -6 12 0 q-6 6 -12 0 Z" stroke-width="1.2" opacity=".55"/><path d="M84 60 h6" stroke-width="0.9" opacity=".4"/><path d="M20 40 q5 -5 10 0 q-5 5 -10 0 Z" stroke-width="1.2" opacity=".45"/><path d="M25 40 h5" stroke-width="0.9" opacity=".3"/></g></svg>',
+    excerpt: "Ten days after I called off my engagement I was supposed to go on a scientific expedition to study the whooping crane on the gulf coast of Texas.",
+    note: "Hauser goes anyway — to the Texas gulf coast, to spend a week with biologists measuring water salinity, tallying blue crabs, and learning the difference between what a bird needs and what a bird wants. The essay moves between the marsh and the engagement she has just left, and its governing figure is the Japanese folktale of the crane who plucks out her own feathers every night to pass as a wife. It is exact about fieldwork in the way the best science writing is, and merciless about the arithmetic underneath: how much need a person will disown in order to stay lovable. One of the most passed-around essays of the last decade, and it earns that in the final three paragraphs."
+  },
+  {
+    n: 69,
+    title: "Child's Play",
+    author: "Sam Kriss",
+    venue: "Harper's Magazine",
+    year: 2026,
+    url: "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee",
+    mins: 41,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-08-21",
+    accent: "#5B6EE1",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="18" y="86" width="24" height="22" stroke-width="1.8"/><rect x="46" y="86" width="24" height="22" stroke-width="1.6" opacity=".7"/><rect x="32" y="62" width="24" height="22" stroke-width="1.7"/><rect x="60" y="62" width="24" height="22" stroke-width="1.5" opacity=".55"/><rect x="46" y="38" width="24" height="22" stroke-width="1.6"/><path d="M24 97 h12 M52 97 h12 M38 73 h12 M66 73 h8 M52 49 h12" stroke-width="1.1" opacity=".45"/><path d="M58 38 V22" stroke-width="1.4" opacity=".7"/><path d="M52 27 L58 20 L64 27" stroke-width="1.6"/><path d="M88 40 C102 56 100 82 92 108" stroke-width="1.7" opacity=".8"/><path d="M88 40 h12" stroke-width="1.5" opacity=".8"/><path d="M92 108 h14" stroke-width="1.3" opacity=".6"/><circle cx="97" cy="30" r="5" stroke-width="1.5" opacity=".7"/><path d="M12 112 H108" stroke-width="1.1" opacity=".3"/><path d="M14 20 h10 M14 28 h6" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "The first sign that something in San Francisco had gone very badly wrong was the signs.",
+    note: "Kriss goes to San Francisco to look at the generation of founders who have decided that thinking is a solved problem, and files a report considerably funnier and nastier than the subject probably deserves. Much of it circles Roy Lee, the student thrown out of Columbia for building a tool to cheat technical interviews, who converted the expulsion into a company and a personality. The reporting is real — parties, offices, pitch meetings, billboards addressed to a species the city is no longer sure exists — but the argument underneath is about what becomes of a mind that has never had to sit with a problem it cannot immediately dissolve. It runs long and reads like something half its length."
   }
 ];
