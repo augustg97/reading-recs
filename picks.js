@@ -1109,5 +1109,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="18" y="86" width="24" height="22" stroke-width="1.8"/><rect x="46" y="86" width="24" height="22" stroke-width="1.6" opacity=".7"/><rect x="32" y="62" width="24" height="22" stroke-width="1.7"/><rect x="60" y="62" width="24" height="22" stroke-width="1.5" opacity=".55"/><rect x="46" y="38" width="24" height="22" stroke-width="1.6"/><path d="M24 97 h12 M52 97 h12 M38 73 h12 M66 73 h8 M52 49 h12" stroke-width="1.1" opacity=".45"/><path d="M58 38 V22" stroke-width="1.4" opacity=".7"/><path d="M52 27 L58 20 L64 27" stroke-width="1.6"/><path d="M88 40 C102 56 100 82 92 108" stroke-width="1.7" opacity=".8"/><path d="M88 40 h12" stroke-width="1.5" opacity=".8"/><path d="M92 108 h14" stroke-width="1.3" opacity=".6"/><circle cx="97" cy="30" r="5" stroke-width="1.5" opacity=".7"/><path d="M12 112 H108" stroke-width="1.1" opacity=".3"/><path d="M14 20 h10 M14 28 h6" stroke-width="1.2" opacity=".3"/></g></svg>',
     excerpt: "The first sign that something in San Francisco had gone very badly wrong was the signs.",
     note: "Kriss goes to San Francisco to look at the generation of founders who have decided that thinking is a solved problem, and files a report considerably funnier and nastier than the subject probably deserves. Much of it circles Roy Lee, the student thrown out of Columbia for building a tool to cheat technical interviews, who converted the expulsion into a company and a personality. The reporting is real — parties, offices, pitch meetings, billboards addressed to a species the city is no longer sure exists — but the argument underneath is about what becomes of a mind that has never had to sit with a problem it cannot immediately dissolve. It runs long and reads like something half its length."
+  },
+  {
+    n: 70,
+    title: "Ghosts",
+    author: "Vauhini Vara",
+    venue: "The Believer",
+    year: 2021,
+    url: "https://www.thebeliever.net/ghosts/",
+    mins: 27,
+    kind: "essay",
+    lean: "b",
+    added: "2026-08-23",
+    accent: "#5E6A72",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M34 96 V52 a26 26 0 0 1 52 0 V96 l-8.7-8 -8.7 8 -8.6-8 -8.7 8 -8.6-8 z" stroke-width="1.7"/><path d="M46 58 h28 M46 66 h28 M46 74 h20" stroke-width="1.3" opacity=".75"/><path d="M46 82 h4 M54 82 h4 M62 82 h4 M70 82 h3" stroke-width="1.3" opacity=".45"/><circle cx="50" cy="46" r="2.4" stroke-width="1.4"/><circle cx="70" cy="46" r="2.4" stroke-width="1.4"/><path d="M12 26 h18 M12 34 h11" stroke-width="1.2" opacity=".3"/><path d="M90 26 h18 M97 34 h11" stroke-width="1.2" opacity=".3"/><path d="M18 108 C40 100 80 100 102 108" stroke-width="1.1" opacity=".35"/></g></svg>',
+    excerpt: "Last year I became fascinated with an artificial intelligence model that was being trained to write human-like text.",
+    note: "Vara got early access to GPT-3 and used it on the one subject she had never managed to write about: the death of her older sister from Ewing sarcoma. The essay runs as nine successive attempts, her own sentences set in bold and the machine filling in the rest, each round fed a little more of the truth than the last. What comes back is by turns wrong, banal, and uncannily exact — the model invents a running streak and a marathon across America, then arrives at a sentence about grief that a person might not have dared to write. It is a real piece of memoir and a real experiment in authorship at once, and the last page, where the prose thins to one letter at a time, is the strangest thing here."
+  },
+  {
+    n: 71,
+    title: "Do Not Look Back, My Lion",
+    author: "Alix E. Harrow",
+    venue: "Beneath Ceaseless Skies",
+    year: 2019,
+    url: "https://www.beneath-ceaseless-skies.com/stories/do-not-look-back-my-lion/",
+    mins: 19,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-08-23",
+    accent: "#8C1C2B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="44" r="17" stroke-width="1.7"/><path d="M60 27 V17 M60 71 V81 M43 44 H33 M77 44 H87 M48 32 L41 25 M72 32 L79 25 M48 56 L41 63 M72 56 L79 63" stroke-width="1.3" opacity=".6"/><path d="M52 38 L56 49 M68 38 L64 49" stroke-width="1.5"/><path d="M14 92 C34 78 52 100 74 84 C86 76 96 74 106 76" stroke-width="1.7"/><path d="M100 70 l6 6 -6 6" stroke-width="1.5"/><path d="M16 104 v8 M26 100 v10 M36 104 v8 M46 100 v10 M56 106 v6 M66 100 v10 M76 104 v8 M86 100 v10 M96 104 v8" stroke-width="1.1" opacity=".4"/><path d="M22 28 v20" stroke-width="1.8" opacity=".85"/></g></svg>',
+    excerpt: "Eefa has been a good husband, she knows, but now she is running.",
+    note: "Eefa is a healer, and in the city of Xot she is also a husband — the role given to whoever stays home while the warrior goes to war, whatever their sex. Her wife Talaan is the Lion of Xot, the emperor's favorite butcher, and also the woman who asks her not to leave and means it. Every child in Xot is cut at birth with a promise-scar marking them for the army, and the story turns on Eefa's refusal to let one more face be marked. Harrow builds the inverted world in a few paragraphs and spends the rest on the harder question of what a person with no power to change any of it does anyway; it was a Hugo finalist, and it earns its last line."
+  },
+  {
+    n: 72,
+    title: "How Long Until AI Doesn't Need Humans?",
+    author: "Ajeya Cotra & Timothy B. Lee",
+    venue: "Asterisk",
+    year: 2026,
+    url: "https://asteriskmag.com/issues/14/how-long-until-ai-doesn-t-need-humans",
+    mins: 18,
+    kind: "interview",
+    lean: "a",
+    added: "2026-08-23",
+    accent: "#5F8C2A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="16" y="16" width="26" height="20" stroke-width="1.7"/><rect x="78" y="16" width="26" height="20" stroke-width="1.7"/><rect x="47" y="84" width="26" height="20" stroke-width="1.7"/><path d="M42 26 H78" stroke-width="1.4"/><path d="M72 22 l6 4 -6 4" stroke-width="1.4"/><path d="M95 36 C99 58 88 78 73 90" stroke-width="1.4"/><path d="M79 84 l-6 6 8 3" stroke-width="1.4"/><path d="M47 90 C32 78 21 58 25 36" stroke-width="1.4"/><path d="M21 42 l4 -7 5 6" stroke-width="1.4"/><path d="M23 24 h12 M23 30 h8 M85 24 h12 M85 30 h8 M54 92 h12 M54 98 h8" stroke-width="1.1" opacity=".4"/><circle cx="60" cy="54" r="4" stroke-width="1.5" opacity=".85"/><path d="M60 58 v10 M55 62 h10 M56 74 l4 -6 4 6" stroke-width="1.3" opacity=".85"/></g></svg>',
+    excerpt: "How long until AI systems can sustain their own existence — such that, if every human died, they could keep growing their own population?",
+    note: "Cotra and Lee take a strange, clarifying question — how long until AI systems could keep themselves running and multiplying if every human dropped dead tomorrow — and argue it down to specifics. She thinks it is more likely than not within ten years; his median is fifty, with real odds on never. The disagreement turns out to be about hands: whether robots are held back by bad bodies or bad brains, whether a finger that heals itself is a technology anyone knows how to build, and how much of a semiconductor fab exists only as unwritten knowledge in the heads of a few thousand people in Taiwan. They finish by naming what each would watch over the next few years to find out who is wrong, which is rarer than it ought to be."
   }
 ];
