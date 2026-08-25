@@ -1157,5 +1157,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="16" y="16" width="26" height="20" stroke-width="1.7"/><rect x="78" y="16" width="26" height="20" stroke-width="1.7"/><rect x="47" y="84" width="26" height="20" stroke-width="1.7"/><path d="M42 26 H78" stroke-width="1.4"/><path d="M72 22 l6 4 -6 4" stroke-width="1.4"/><path d="M95 36 C99 58 88 78 73 90" stroke-width="1.4"/><path d="M79 84 l-6 6 8 3" stroke-width="1.4"/><path d="M47 90 C32 78 21 58 25 36" stroke-width="1.4"/><path d="M21 42 l4 -7 5 6" stroke-width="1.4"/><path d="M23 24 h12 M23 30 h8 M85 24 h12 M85 30 h8 M54 92 h12 M54 98 h8" stroke-width="1.1" opacity=".4"/><circle cx="60" cy="54" r="4" stroke-width="1.5" opacity=".85"/><path d="M60 58 v10 M55 62 h10 M56 74 l4 -6 4 6" stroke-width="1.3" opacity=".85"/></g></svg>',
     excerpt: "How long until AI systems can sustain their own existence — such that, if every human died, they could keep growing their own population?",
     note: "Cotra and Lee take a strange, clarifying question — how long until AI systems could keep themselves running and multiplying if every human dropped dead tomorrow — and argue it down to specifics. She thinks it is more likely than not within ten years; his median is fifty, with real odds on never. The disagreement turns out to be about hands: whether robots are held back by bad bodies or bad brains, whether a finger that heals itself is a technology anyone knows how to build, and how much of a semiconductor fab exists only as unwritten knowledge in the heads of a few thousand people in Taiwan. They finish by naming what each would watch over the next few years to find out who is wrong, which is rarer than it ought to be."
+  },
+  {
+    n: 73,
+    title: "Our University Does Not Require Books, Paper, or Human Knowledge",
+    author: "Andrew Patrick Clark",
+    venue: "McSweeney's Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/our-university-does-not-require-books-paper-or-human-knowledge",
+    mins: 3,
+    kind: "humor",
+    lean: "b",
+    added: "2026-08-25",
+    accent: "#7B5EA7",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M60 14 L96 30 L60 46 L24 30 Z" stroke-width="1.7"/><path d="M88 34 V54" stroke-width="1.3"/><circle cx="88" cy="57" r="3" stroke-width="1.3"/><rect x="36" y="62" width="48" height="32" stroke-width="1.7"/><path d="M55 71 l14 7 -14 7 z" stroke-width="1.5"/><path d="M60 94 v6 M52 100 h16" stroke-width="1.4"/><path d="M10 62 h14 M10 72 h14 M10 82 h14" stroke-width="1.2" opacity=".3"/><path d="M96 62 h14 M96 72 h14 M96 82 h14" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "Welcome to the university of the future. Our new digital-forward brand of education requires no books, no paper, and, best of all, no human knowledge.",
+    note: "A prospectus for the university of the future, read aloud by an administrator who has swapped the curriculum for two weeks of click-through modules and can no longer remember what the old arrangement was for. The jokes come from following the institution's own logic all the way down: students are Young Learning Partners, the diploma is a token on a chain that begins soliciting donations the moment it is issued, and the Latin on the seal has become untranslatable because the classics department was dissolved. Its best beat is a badly garbled account of Plato's cave delivered by a man who fired every philosopher who could have corrected him. Three minutes long, and quietly more damning than most of the higher-ed essays it stands next to."
+  },
+  {
+    n: 74,
+    title: "Two Paths for A.I.",
+    author: "Joshua Rothman",
+    venue: "The New Yorker",
+    year: 2025,
+    url: "https://www.newyorker.com/culture/open-questions/two-paths-for-ai",
+    mins: 14,
+    kind: "essay",
+    lean: "a",
+    added: "2026-08-25",
+    accent: "#3B6FB6",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 100 H106" stroke-width="1.2" opacity=".35"/><path d="M16 100 V26" stroke-width="1.2" opacity=".35"/><circle cx="30" cy="72" r="5" stroke-width="1.7"/><path d="M35 69 C54 65 63 56 72 39 C78 28 85 21 93 17" stroke-width="1.8"/><path d="M86 16 l8 1 -2 8" stroke-width="1.5"/><path d="M35 76 C56 80 76 82 98 82" stroke-width="1.8" stroke-dasharray="6 5"/><path d="M92 78 l7 4 -7 4" stroke-width="1.5"/><path d="M64 44 v56" stroke-width="1.1" opacity=".22"/><path d="M44 24 h9 M44 30 h5" stroke-width="1.2" opacity=".4"/></g></svg>',
+    excerpt: "Last spring, Daniel Kokotajlo, an A.I.-safety researcher working at OpenAI, quit his job in protest.",
+    note: "Rothman read two reports on the same technology, written by people who know it intimately, and found they described different planets. One is AI 2027, the heavily footnoted scenario in which superintelligent systems dominate or exterminate the human race by 2030; the other is Kapoor and Narayanan's \"AI as Normal Technology,\" a dry white paper arguing that regulation, physical reality, and the slowness of diffusion will keep the thing manageable for decades. Rather than pick a winner, the essay performs an autopsy on the disagreement itself — West Coast velocity against East Coast caution, experimental progress against theoretical rigor, and beneath those, barely articulated assumptions about what thinking is and how societies actually change. It closes on the one point neither camp makes out loud: that automation does not dissolve accountability, it concentrates it."
+  },
+  {
+    n: 75,
+    title: "Why You Are Reading Reddit a Lot More These Days",
+    author: "John Herrman",
+    venue: "New York Magazine",
+    year: 2025,
+    url: "https://nymag.com/intelligencer/article/why-you-are-reading-reddit-a-lot-more-these-days.html",
+    mins: 15,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-08-25",
+    accent: "#E0632A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="18" y="14" width="58" height="22" rx="7" stroke-width="1.7"/><path d="M28 36 v8 l9 -8" stroke-width="1.4"/><path d="M26 44 V96" stroke-width="1.2" opacity=".45"/><path d="M26 58 h10" stroke-width="1.3"/><rect x="36" y="48" width="52" height="20" rx="7" stroke-width="1.6"/><path d="M44 68 V88 h10" stroke-width="1.3" opacity=".8"/><rect x="54" y="78" width="48" height="18" rx="7" stroke-width="1.5" stroke-dasharray="4 4" opacity=".8"/><path d="M26 96 h8" stroke-width="1.2" opacity=".45"/><path d="M28 22 h34 M28 28 h22" stroke-width="1.2" opacity=".4"/><path d="M46 55 h32 M46 61 h20" stroke-width="1.2" opacity=".4"/><path d="M64 84 h28 M64 90 h16" stroke-width="1.2" opacity=".28"/></g></svg>',
+    excerpt: "It doesn't really matter who you are, how you spend your time online, or what you imagine your relationship with the internet to be.",
+    note: "Herrman starts from something most people have felt without naming it — the internet has quietly become more Reddit — and reports out why. The proximate cause is a Google ranking change that sent the site's traffic up by an order of magnitude almost overnight; the deeper one is that a twenty-year-old link aggregator run by unpaid volunteers now holds the largest verified deposit of human writing on the open web, which it licenses to Google and OpenAI while the machines those deals train flood its own threads with counterfeit posts. Huffman's pitch is that Reddit is the last place with real people on it, a claim the piece takes seriously and then tests against the moderators who actually enforce it. They built the thing, own none of it, and are exhausted — the part of this that stays with you."
   }
 ];
