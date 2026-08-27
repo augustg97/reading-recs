@@ -1205,5 +1205,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="18" y="14" width="58" height="22" rx="7" stroke-width="1.7"/><path d="M28 36 v8 l9 -8" stroke-width="1.4"/><path d="M26 44 V96" stroke-width="1.2" opacity=".45"/><path d="M26 58 h10" stroke-width="1.3"/><rect x="36" y="48" width="52" height="20" rx="7" stroke-width="1.6"/><path d="M44 68 V88 h10" stroke-width="1.3" opacity=".8"/><rect x="54" y="78" width="48" height="18" rx="7" stroke-width="1.5" stroke-dasharray="4 4" opacity=".8"/><path d="M26 96 h8" stroke-width="1.2" opacity=".45"/><path d="M28 22 h34 M28 28 h22" stroke-width="1.2" opacity=".4"/><path d="M46 55 h32 M46 61 h20" stroke-width="1.2" opacity=".4"/><path d="M64 84 h28 M64 90 h16" stroke-width="1.2" opacity=".28"/></g></svg>',
     excerpt: "It doesn't really matter who you are, how you spend your time online, or what you imagine your relationship with the internet to be.",
     note: "Herrman starts from something most people have felt without naming it — the internet has quietly become more Reddit — and reports out why. The proximate cause is a Google ranking change that sent the site's traffic up by an order of magnitude almost overnight; the deeper one is that a twenty-year-old link aggregator run by unpaid volunteers now holds the largest verified deposit of human writing on the open web, which it licenses to Google and OpenAI while the machines those deals train flood its own threads with counterfeit posts. Huffman's pitch is that Reddit is the last place with real people on it, a claim the piece takes seriously and then tests against the moderators who actually enforce it. They built the thing, own none of it, and are exhausted — the part of this that stays with you."
+  },
+  {
+    n: 76,
+    title: "The Tomato Thief",
+    author: "Ursula Vernon",
+    venue: "Apex Magazine",
+    year: 2016,
+    url: "https://www.apexbookcompany.com/blogs/apex-magazine/the-tomato-thief",
+    mins: 56,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-08-27",
+    accent: "#2E9E8F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 94 H106" stroke-width="1.3" opacity=".4"/><path d="M26 94 V44 M46 94 V38 M66 94 V44" stroke-width="1.6"/><path d="M20 56 H72" stroke-width="1.2" opacity=".6"/><path d="M20 70 H72" stroke-width="1.2" opacity=".6"/><circle cx="36" cy="63" r="6" stroke-width="1.7"/><circle cx="56" cy="77" r="5" stroke-width="1.6"/><path d="M36 57 v-4 M56 72 v-4" stroke-width="1.3"/><path d="M78 94 C78 78 96 74 92 58 C89 46 100 40 104 34" stroke-width="1.8" stroke-dasharray="7 4"/><path d="M99 32 l6 1 -1 6" stroke-width="1.4"/><path d="M84 20 a14 14 0 0 1 20 0" stroke-width="1.5" opacity=".55"/><path d="M14 104 H106" stroke-width="1.1" opacity=".25"/><path d="M22 99 v10 M38 99 v10 M54 99 v10 M70 99 v10 M86 99 v10" stroke-width="1.1" opacity=".25"/></g></svg>',
+    excerpt: "Grandma Harken lived on the edge of town, in a house with its back to the desert.",
+    note: "Something is stealing Grandma Harken's tomatoes, and since she does not much care for other people but cares a great deal about her garden, she sits up at night to catch it — which is how she ends up dealing with shapechangers, warps in the desert, and a god or two. Vernon writes American folk-fantasy in a register almost nobody else attempts: mythic and genuinely eerie underneath, narrated in the flat practical voice of a woman too old to be impressed by the supernatural. It won the Hugo for best novelette and earns every one of its fourteen thousand words, the myth opening outward while the prose stays dry as caliche. It follows 'Jackalope Wives' but reads perfectly well cold."
+  },
+  {
+    n: 77,
+    title: "Could machines have become self-aware without our knowing it?",
+    author: "George Musser",
+    venue: "Aeon",
+    year: 2016,
+    url: "https://aeon.co/essays/could-machines-have-become-self-aware-without-our-knowing-it",
+    mins: 18,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-08-27",
+    accent: "#C2A23A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="34" cy="30" r="5" stroke-width="1.6"/><circle cx="72" cy="24" r="5" stroke-width="1.6"/><circle cx="30" cy="62" r="5" stroke-width="1.6"/><circle cx="66" cy="58" r="5" stroke-width="1.6"/><circle cx="94" cy="46" r="5" stroke-width="1.6"/><path d="M39 31 H67 M35 34 L32 57 M35 62 H61 M71 55 L89 48 M76 27 L91 42 M69 29 L67 53" stroke-width="1.3" opacity=".75"/><path d="M52 8 C48 40 60 52 54 84" stroke-width="1.5" stroke-dasharray="5 5"/><path d="M22 100 a26 26 0 0 1 52 0" stroke-width="1.5" opacity=".7"/><path d="M48 100 L66 80" stroke-width="1.8"/><circle cx="48" cy="100" r="2.4" stroke-width="1.4"/><path d="M86 84 h18 M86 92 h12 M86 100 h16" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "Usually when people imagine a self-aware machine, they picture a device that emerges through deliberate effort and that then makes its presence known quickly, loudly, and (in most scenarios) disastrously.",
+    note: "The usual story about machine consciousness assumes we would know: the thing wakes up, announces itself, and declines to open the pod bay doors. Musser takes the opposite question seriously — what if something already has an inner life and we have no instrument capable of noticing? — and turns it into a survey of every real attempt to build a consciousness detector, from a twelve-level checklist running from viruses to the Bene Gesserit, to Giulio Tononi's integrated information theory and its single number, Φ. What lifts it above a tour of the literature is the ethical turn at the end: the reason to build the detector is less that these systems might be dangerous to us than that we might already be doing something monstrous to them. Ten years on, it reads like the argument the field is only now catching up to."
+  },
+  {
+    n: 78,
+    title: "Humanists Have Done Nothing Wrong",
+    author: "David Hollingshead",
+    venue: "Defector",
+    year: 2026,
+    url: "https://defector.com/humanists-have-done-nothing-wrong",
+    mins: 14,
+    kind: "essay",
+    lean: "b",
+    added: "2026-08-27",
+    accent: "#B03A5B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 42 C30 34 46 34 58 42 C70 34 86 34 100 42 V90 C86 82 70 82 58 90 C46 82 30 82 16 90 Z" stroke-width="1.8"/><path d="M58 42 V90" stroke-width="1.5"/><path d="M24 50 h26 M24 58 h22 M24 66 h26 M24 74 h18" stroke-width="1.2" opacity=".55"/><path d="M66 50 h26 M66 58 h20 M66 66 h26 M66 74 h14" stroke-width="1.2" opacity=".55"/><path d="M30 14 v10 a6 6 0 0 1 -6 6 M46 14 v10 a6 6 0 0 1 -6 6" stroke-width="1.7"/><path d="M86 12 v14" stroke-width="1.6" stroke-dasharray="4 4"/><path d="M80 22 l6 8 6 -8" stroke-width="1.5"/><path d="M20 102 h80" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "For many years, I've held a pet theory that cultural consumers can be grouped into two broad categories: Primary Source People and Secondary Source People.",
+    note: "Hollingshead splits the reading public into Primary Source People, who love the object, and Secondary Source People, who love the argument about the object — then mounts a cheerfully profane defense of the second group at the exact moment everyone has decided they are the problem. The occasion is a report by the analytic philosopher Paul Boghossian accusing the humanities of obscurantism and relativism, which Hollingshead answers not by apologizing for the famously unreadable Judith Butler paragraph but by reading it closely and showing that its difficulty is real, locatable, and interesting. It is very funny, it is plainly picking a fight, and it lands where these arguments now always land: a university writing program shuttered, seven million books scanned to death for training data. The claim underneath is that interpretation is not a delay on the way to meaning but the thing itself."
   }
 ];
