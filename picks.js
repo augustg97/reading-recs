@@ -1253,5 +1253,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 42 C30 34 46 34 58 42 C70 34 86 34 100 42 V90 C86 82 70 82 58 90 C46 82 30 82 16 90 Z" stroke-width="1.8"/><path d="M58 42 V90" stroke-width="1.5"/><path d="M24 50 h26 M24 58 h22 M24 66 h26 M24 74 h18" stroke-width="1.2" opacity=".55"/><path d="M66 50 h26 M66 58 h20 M66 66 h26 M66 74 h14" stroke-width="1.2" opacity=".55"/><path d="M30 14 v10 a6 6 0 0 1 -6 6 M46 14 v10 a6 6 0 0 1 -6 6" stroke-width="1.7"/><path d="M86 12 v14" stroke-width="1.6" stroke-dasharray="4 4"/><path d="M80 22 l6 8 6 -8" stroke-width="1.5"/><path d="M20 102 h80" stroke-width="1.2" opacity=".3"/></g></svg>',
     excerpt: "For many years, I've held a pet theory that cultural consumers can be grouped into two broad categories: Primary Source People and Secondary Source People.",
     note: "Hollingshead splits the reading public into Primary Source People, who love the object, and Secondary Source People, who love the argument about the object — then mounts a cheerfully profane defense of the second group at the exact moment everyone has decided they are the problem. The occasion is a report by the analytic philosopher Paul Boghossian accusing the humanities of obscurantism and relativism, which Hollingshead answers not by apologizing for the famously unreadable Judith Butler paragraph but by reading it closely and showing that its difficulty is real, locatable, and interesting. It is very funny, it is plainly picking a fight, and it lands where these arguments now always land: a university writing program shuttered, seven million books scanned to death for training data. The claim underneath is that interpretation is not a delay on the way to meaning but the thing itself."
+  },
+  {
+    n: 79,
+    title: "How Data Centers Broke American Politics",
+    author: "Molly Taft",
+    venue: "WIRED",
+    year: 2026,
+    url: "https://www.wired.com/story/how-data-centers-broke-american-politics/",
+    mins: 25,
+    kind: "journalism",
+    lean: "a",
+    added: "2026-08-29",
+    accent: "#35566E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M12 92 H108" stroke-width="1.3" opacity=".4"/><rect x="40" y="54" width="46" height="38" stroke-width="1.8"/><path d="M46 62 h34 M46 70 h34 M46 78 h34" stroke-width="1.2" opacity=".5"/><path d="M18 92 V38 M11 46 h14 M13 56 h10" stroke-width="1.5"/><path d="M18 38 L40 48 M18 46 L40 56" stroke-width="1.1" opacity=".45"/><path d="M102 92 V48 M96 54 h12" stroke-width="1.4" opacity=".7"/><path d="M86 60 L102 54" stroke-width="1.1" opacity=".45"/><path d="M28 18 C40 28 49 36 55 48" stroke-width="1.5" stroke-dasharray="5 4"/><path d="M63 12 V48" stroke-width="1.5" stroke-dasharray="5 4"/><path d="M98 18 C88 28 79 36 71 48" stroke-width="1.5" stroke-dasharray="5 4"/><path d="M50 43 l5 6 5 -4 M59 42 l4 7 4 -7 M66 44 l5 5 5 -3" stroke-width="1.3"/><path d="M12 100 H108" stroke-width="1.1" opacity=".22"/></g></svg>',
+    excerpt: "Joe Allen wants to know what the robot’s name is.",
+    note: "Taft covers climate and energy, and here she goes out and rides along with the people fighting data centers — which turns out to mean time spent with a Bannon-world writer who regards the buildings as something close to an occult project, with rural neighbors worried about their water and their power bills, and with the Sanders left, all of them turning up to the same county meetings. The reporting is close and physical: hotel bars, an airport run, the strange intimacy of trying to get a source alone long enough for a real conversation. What it documents is a politics rearranging itself around infrastructure, where the familiar left-right axis has stopped predicting who stands where and a coalition nobody designed keeps assembling in front of the same windowless buildings. It is the rare piece about artificial intelligence that is mostly about land, electricity, and neighbors."
+  },
+  {
+    n: 80,
+    title: "Our Customers Demand Terrible AI Systems",
+    author: "Brandon J. Talley",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2025,
+    url: "https://www.mcsweeneys.net/articles/our-customers-demand-terrible-ai-systems",
+    mins: 3,
+    kind: "humor",
+    lean: "b",
+    added: "2026-08-29",
+    accent: "#A32E8F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="20" y="20" width="58" height="42" rx="3" stroke-width="1.8"/><path d="M28 32 h26 M28 40 h34 M28 48 h18" stroke-width="1.2" opacity=".45"/><path d="M40 55 l7 -10 6 13 7 -16 5 9" stroke-width="1.6"/><path d="M49 62 v8 M34 70 h30" stroke-width="1.4" opacity=".7"/><circle cx="93" cy="26" r="11" stroke-width="1.7"/><path d="M93 10 v5 M93 37 v5 M77 26 h5 M104 26 h5 M82 15 l3.5 3.5 M104 15 l-3.5 3.5 M82 37 l3.5 -3.5 M104 37 l-3.5 -3.5" stroke-width="1.3"/><path d="M89 31 v-9 h4 a3 3 0 0 1 0 6 h-4 M98 31 v-9" stroke-width="1.4"/><path d="M30 112 v-12 a4 4 0 0 1 8 0 v8 M38 108 v-16 a4 4 0 0 1 8 0 v14 M46 106 v-20 a4 4 0 0 1 8 0 v18 M54 106 v-22 a4 4 0 0 1 8 0 v20 M62 108 v-18 a4 4 0 0 1 8 0 v16 M70 110 v-12 a4 4 0 0 1 8 0 v10" stroke-width="1.5"/><path d="M30 112 h48" stroke-width="1.5"/></g></svg>',
+    excerpt: "We’ve been banging our heads against the wall, trying to think of the new “it” thing our customers want. At one point, somebody suggested improving our product, but then we thought of something better—something totally groundbreaking, something absolutely huge.",
+    note: "A corporate strategy memo delivered by a man who has fully internalized the logic of the moment and is now sprinting several yards past it: the product does not need to work, it needs to be confident, and if the company cannot build a terrible AI system in time it can at least start calling its existing chatbot one. The joke is that enshittification is not a side effect but the actual roadmap, and Talley keeps finding fresh ways to be right about it — a comparison of AI to a deadbeat brother-in-law who has moved onto the couch, a narrator who explains with total assurance that the second letter stands for internet. Three minutes long, and considerably funnier than the sincere version of the same argument."
+  },
+  {
+    n: 81,
+    title: "The Accidental Architect of the Internet’s Brain",
+    author: "Carson Griffith",
+    venue: "The New Yorker",
+    year: 2026,
+    url: "https://www.newyorker.com/culture/the-lede/the-accidental-architect-of-the-internets-brain",
+    mins: 12,
+    kind: "profile",
+    lean: "j",
+    added: "2026-08-29",
+    accent: "#4F7942",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="48" r="34" stroke-width="1.7"/><path d="M38 30 h44 M32 38 h56 M30 46 h60 M32 54 h56 M38 62 h44 M46 70 h28" stroke-width="1.2" opacity=".4"/><path d="M44 46 h22" stroke-width="2.4"/><path d="M57 39 v-6 M67 40 l5 -6" stroke-width="1.3" opacity=".65"/><path d="M60 14 V82 M28 34 a44 44 0 0 0 0 28 M92 34 a44 44 0 0 1 0 28" stroke-width="1.1" opacity=".3"/><path d="M18 95 v13 M24 95 v13 M30 96 v12 M36 96 v12 M42 97 v11 M48 98 v10 M54 99 v9 M60 100 v8 M66 101 v7 M72 102 v6 M78 103 v5 M84 104 v4 M90 105 v3 M96 106 v2" stroke-width="1.4" opacity=".75"/><path d="M14 108 H104" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "Steven Pruitt spends his evenings identifying errors that most people never notice and making fixes that hardly anyone ever thanks him for.",
+    note: "Steven Pruitt has made more than six million edits to Wikipedia, more than any other person alive, and Griffith finds him in a town house in Alexandria doing records management by day and correcting the dates on nineteenth-century opera singers by night. The pleasure of the profile is the texture of the work — layered category queries that surface biographies filed under the wrong heading, a three-revert rule he likes precisely because it stops disputes from turning personal, a stated preference for the biographies of “fairly obscure dead people” on the grounds that they are settled. Then it turns: the encyclopedia those volunteers built by hand became the training substrate for systems that answer questions without showing their work, and Pruitt, reading an AI-generated entry on a subject he knows cold, finds not an error exactly but something less right than he would have made it. His objection is not that machines get things wrong; it is that there is nobody to argue with when they do."
   }
 ];
