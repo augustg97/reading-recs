@@ -1301,5 +1301,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="48" r="34" stroke-width="1.7"/><path d="M38 30 h44 M32 38 h56 M30 46 h60 M32 54 h56 M38 62 h44 M46 70 h28" stroke-width="1.2" opacity=".4"/><path d="M44 46 h22" stroke-width="2.4"/><path d="M57 39 v-6 M67 40 l5 -6" stroke-width="1.3" opacity=".65"/><path d="M60 14 V82 M28 34 a44 44 0 0 0 0 28 M92 34 a44 44 0 0 1 0 28" stroke-width="1.1" opacity=".3"/><path d="M18 95 v13 M24 95 v13 M30 96 v12 M36 96 v12 M42 97 v11 M48 98 v10 M54 99 v9 M60 100 v8 M66 101 v7 M72 102 v6 M78 103 v5 M84 104 v4 M90 105 v3 M96 106 v2" stroke-width="1.4" opacity=".75"/><path d="M14 108 H104" stroke-width="1.2" opacity=".3"/></g></svg>',
     excerpt: "Steven Pruitt spends his evenings identifying errors that most people never notice and making fixes that hardly anyone ever thanks him for.",
     note: "Steven Pruitt has made more than six million edits to Wikipedia, more than any other person alive, and Griffith finds him in a town house in Alexandria doing records management by day and correcting the dates on nineteenth-century opera singers by night. The pleasure of the profile is the texture of the work — layered category queries that surface biographies filed under the wrong heading, a three-revert rule he likes precisely because it stops disputes from turning personal, a stated preference for the biographies of “fairly obscure dead people” on the grounds that they are settled. Then it turns: the encyclopedia those volunteers built by hand became the training substrate for systems that answer questions without showing their work, and Pruitt, reading an AI-generated entry on a subject he knows cold, finds not an error exactly but something less right than he would have made it. His objection is not that machines get things wrong; it is that there is nobody to argue with when they do."
+  },
+  {
+    n: 82,
+    title: "What has feelings?",
+    author: "Kristin Andrews & Jonathan Birch",
+    venue: "Aeon",
+    year: 2023,
+    url: "https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals",
+    mins: 20,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-08-31",
+    accent: "#B5651D",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M58 42 a4 4 0 0 1 0 8 a8 8 0 0 1 0 -16 a12 12 0 0 1 0 24 a16 16 0 0 1 0 -32" stroke-width="1.7"/><circle cx="58" cy="42" r="1.6" stroke-width="1.4"/><path d="M60 108 V92 M60 92 L40 80 M60 92 L80 80 M60 92 V80" stroke-width="1.5"/><circle cx="40" cy="76" r="3.6" stroke-width="1.4"/><circle cx="60" cy="76" r="3.6" stroke-width="1.4"/><circle cx="80" cy="76" r="3.6" stroke-width="1.4"/><path d="M14 100 H106" stroke-width="1.2" opacity=".28"/><path d="M18 28 h12 M18 36 h20 M18 44 h9" stroke-width="1.2" opacity=".4"/><path d="M94 24 v11 M100 20 v15 M106 27 v8" stroke-width="1.3" opacity=".55"/></g></svg>',
+    excerpt: "A cry for help is hard to resist. This exchange comes from conversations between the AI engineer Blake Lemoine and an AI system called LaMDA.",
+    note: "Two philosophers of mind argue that the question of whether an AI can suffer will never be settled by anything the AI says, and then explain, patiently, why. Their name for the trouble is the gaming problem: a system trained on billions of words of humans describing their feelings will produce exactly the reports that count as evidence in a human, which drains those reports of evidential value — and the trap closes on bodies too, since a robot engineered to mimic a wince is only ever mimicking a wince. What is bracing is where they go instead: comparative psychology has spent decades assembling marker-based cases for sentience in octopuses, crabs and bees, creatures with no incentive to perform for us, and the claim here is that consciousness science has an N=1 problem it can escape only by studying minds as distant from ours as possible. The route to knowing whether a machine feels anything, it turns out, runs through the nematode worm."
+  },
+  {
+    n: 83,
+    title: "She Who Hungers, She Who Waits",
+    author: "Cassandra Khaw",
+    venue: "Beneath Ceaseless Skies",
+    year: 2018,
+    url: "https://beneath-ceaseless-skies.com/stories/she-who-hungers-she-who-waits/",
+    mins: 13,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-08-31",
+    accent: "#5B2333",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M60 26 V104" stroke-width="1.6"/><path d="M60 34 q-24 4 -28 26 M60 46 q-27 5 -30 28 M60 58 q-26 6 -27 26 M60 70 q-22 7 -21 24" stroke-width="1.4"/><path d="M60 34 q24 4 28 26 M60 46 q27 5 30 28 M60 58 q26 6 27 26 M60 70 q22 7 21 24" stroke-width="1.4"/><path d="M54 38 l12 8 M54 50 l12 8 M54 62 l12 8 M54 74 l12 8 M54 86 l12 8" stroke-width="1.2" opacity=".75"/><path d="M40 52 l3 -3 3 3 -3 3 z M78 64 l3 -3 3 3 -3 3 z M44 78 l3 -3 3 3 -3 3 z" stroke-width="1.3"/><path d="M32 12 q28 13 56 0" stroke-width="1.5" opacity=".8"/><path d="M39 14 v5 M47 16 v6 M55 17 v6 M64 17 v6 M72 16 v6 M80 14 v5" stroke-width="1.2" opacity=".7"/></g></svg>',
+    excerpt: "“Whore.” Mei Huang considers the merit of an objection and quickly finds it inadequate.",
+    note: "In the gilded city of Hong, cut into the shell of a living world-turtle, a fortune-teller called a ming-ren takes a foreign soldier up to an inn room, drinks him under the table, opens his chest with a scalpel and reads the government-issue agate set into his bones to find the death written there. Khaw writes food and viscera in the same register — roasted tortoise belly, mead of cinnamon and wasp-blood, ribs like marble rungs — and the cosmology arrives with no explanation whatsoever, which is exactly what makes it feel ancient rather than invented. She Who Hungers and She Who Waits are sisters, appetite and patience, and the bargain the story turns on is struck in a language of prayers scratched into skin with a needle. What looks like a night's work reveals itself as a long, patient act of grief, and the last page rearranges everything before it."
+  },
+  {
+    n: 84,
+    title: "The Great Inflection? A Debate About AI and Explosive Growth",
+    author: "Matt Clancy & Tamay Besiroglu",
+    venue: "Asterisk",
+    year: 2023,
+    url: "https://asteriskmag.com/issues/03/the-great-inflection-a-debate-about-ai-and-explosive-growth",
+    mins: 40,
+    kind: "interview",
+    lean: "a",
+    added: "2026-08-31",
+    accent: "#1B3A6B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 104 H106 M16 104 V18" stroke-width="1.5"/><path d="M16 86 H106 M16 68 H106 M16 50 H106 M16 32 H106" stroke-width="1" opacity=".22"/><path d="M18 100 C 44 98 64 93 78 74 C 88 60 93 38 95 20" stroke-width="1.9"/><path d="M18 100 C 46 95 74 88 104 80" stroke-width="1.4" opacity=".5" stroke-dasharray="5 4"/><circle cx="78" cy="74" r="4.5" stroke-width="1.5"/><path d="M26 34 h20 a4 4 0 0 1 4 4 v12 a4 4 0 0 1 -4 4 h-11 l-7 7 v-7 h-2 a4 4 0 0 1 -4 -4 v-12 a4 4 0 0 1 4 -4 z" stroke-width="1.35"/><path d="M58 40 h16 a3.5 3.5 0 0 1 3.5 3.5 v9 a3.5 3.5 0 0 1 -3.5 3.5 h-9 l-6 6 v-6 h-1 a3.5 3.5 0 0 1 -3.5 -3.5 v-9 a3.5 3.5 0 0 1 3.5 -3.5 z" stroke-width="1.2" opacity=".7"/></g></svg>',
+    excerpt: "A conversation about what happens to the economy when intelligence becomes too cheap to meter.",
+    note: "An economist who studies innovation and a researcher who models AI trends sit down to argue about whether artificial intelligence produces explosive growth — sustained rates of twenty or thirty percent a year, the kind that would fold a century of change into a decade — and they do it properly, with models, elasticities and named cruxes instead of vibes. Besiroglu's case runs on the idea that human labor is the binding constraint and that automating cognitive work removes it; Clancy keeps returning to Baumol's cost disease and to the stubborn tasks that resist automation and quietly come to dominate what everything costs. The pleasure is watching two people who genuinely disagree get specific enough that the shape of the disagreement becomes visible, and then say out loud what evidence would change their minds. It reads like a transcript of the argument the rest of the discourse is having badly."
   }
 ];
