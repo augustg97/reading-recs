@@ -1349,5 +1349,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 104 H106 M16 104 V18" stroke-width="1.5"/><path d="M16 86 H106 M16 68 H106 M16 50 H106 M16 32 H106" stroke-width="1" opacity=".22"/><path d="M18 100 C 44 98 64 93 78 74 C 88 60 93 38 95 20" stroke-width="1.9"/><path d="M18 100 C 46 95 74 88 104 80" stroke-width="1.4" opacity=".5" stroke-dasharray="5 4"/><circle cx="78" cy="74" r="4.5" stroke-width="1.5"/><path d="M26 34 h20 a4 4 0 0 1 4 4 v12 a4 4 0 0 1 -4 4 h-11 l-7 7 v-7 h-2 a4 4 0 0 1 -4 -4 v-12 a4 4 0 0 1 4 -4 z" stroke-width="1.35"/><path d="M58 40 h16 a3.5 3.5 0 0 1 3.5 3.5 v9 a3.5 3.5 0 0 1 -3.5 3.5 h-9 l-6 6 v-6 h-1 a3.5 3.5 0 0 1 -3.5 -3.5 v-9 a3.5 3.5 0 0 1 3.5 -3.5 z" stroke-width="1.2" opacity=".7"/></g></svg>',
     excerpt: "A conversation about what happens to the economy when intelligence becomes too cheap to meter.",
     note: "An economist who studies innovation and a researcher who models AI trends sit down to argue about whether artificial intelligence produces explosive growth — sustained rates of twenty or thirty percent a year, the kind that would fold a century of change into a decade — and they do it properly, with models, elasticities and named cruxes instead of vibes. Besiroglu's case runs on the idea that human labor is the binding constraint and that automating cognitive work removes it; Clancy keeps returning to Baumol's cost disease and to the stubborn tasks that resist automation and quietly come to dominate what everything costs. The pleasure is watching two people who genuinely disagree get specific enough that the shape of the disagreement becomes visible, and then say out loud what evidence would change their minds. It reads like a transcript of the argument the rest of the discourse is having badly."
+  },
+  {
+    n: 85,
+    title: "I’m the Guy Who Destroys Antique Books After We Scan Them into Our Company’s Insatiable AI Platform",
+    author: "Jack Loftus",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+    mins: 3,
+    kind: "humor",
+    lean: "b",
+    added: "2026-09-01",
+    accent: "#0F7B7B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M20 22 h34 a6 6 0 0 1 6 6 v30 h-40 z" stroke-width="1.7"/><path d="M100 22 h-34 a6 6 0 0 0 -6 6 v30 h40 z" stroke-width="1.7"/><path d="M60 28 v30" stroke-width="1.3" opacity=".6"/><path d="M26 34 h24 M26 41 h20 M70 34 h24 M70 41 h16" stroke-width="1.1" opacity=".4"/><path d="M14 50 h92" stroke-width="1.6" stroke-dasharray="3 5"/><rect x="26" y="64" width="68" height="12" rx="2" stroke-width="1.7"/><path d="M34 68 h8 M48 68 h8 M62 68 h8 M76 68 h8" stroke-width="1.3" opacity=".7"/><path d="M34 78 v14 M42 78 v20 M50 78 v12 M58 78 v18 M66 78 v13 M74 78 v19 M82 78 v11" stroke-width="1.2" opacity=".75"/><path d="M30 104 q8 -6 14 0 t14 0 t14 0 t14 0" stroke-width="1.5"/><path d="M36 112 q6 -5 11 0 M64 112 q6 -5 11 0" stroke-width="1.3" opacity=".6"/></g></svg>',
+    excerpt: "I realize enthusiasm for one’s job is a little embarrassing now, but honestly, I adore what I do. I’m the guy who destroys priceless antique books once our generative AI scanners are finished with them.",
+    note: "A monologue by a man whose official title is Senior Legacy Media Completion Specialist and whose colleagues call him Book Doug, because Accounts Payable already had a Doug. His job begins where the scanners finish: the wheeled cart of decimated three-hundred-year-old pages arrives, and he introduces it to an industrial shredder and a burn pit out back. The epigraph is not a bit — it is a Guardian report on rare-book dealers watching AI companies buy physical books, shear off the spines and pulp the remains — and the piece works because Doug's cheerfulness never once cracks: rarity, he explains, is really just an inventory problem, and the efficient move is to make the last copy infinitely reproducible and immediately unavailable to anyone without a subscription. Three minutes, and the final line opens a trapdoor under the whole thing."
+  },
+  {
+    n: 86,
+    title: "What Does the Humbling of Leopold Aschenbrenner Mean for the A.I. Bubble?",
+    author: "John Cassidy",
+    venue: "The New Yorker",
+    year: 2026,
+    url: "https://www.newyorker.com/news/the-financial-page/what-does-the-humbling-of-leopold-aschenbrenner-mean-for-the-ai-bubble",
+    mins: 7,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-01",
+    accent: "#C0392B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 104 H108 M16 104 V14" stroke-width="1.5"/><path d="M16 84 H108 M16 62 H108 M16 40 H108" stroke-width="1" opacity=".2"/><path d="M18 98 C 34 96 48 88 58 68 C 64 54 68 36 72 26" stroke-width="1.9"/><path d="M72 26 C 76 36 80 52 86 66 C 90 78 96 92 102 100" stroke-width="1.7" stroke-dasharray="4 3"/><circle cx="72" cy="20" r="9" stroke-width="1.5"/><circle cx="68" cy="17" r="2.2" stroke-width="1.1" opacity=".6"/><path d="M86 10 l5 -5 M92 20 l7 -2 M85 31 l6 4" stroke-width="1.3" opacity=".7"/><path d="M30 96 v-6 M38 94 v-10 M46 90 v-8" stroke-width="1.2" opacity=".35"/><path d="M92 104 v-8 M100 104 v-5" stroke-width="1.2" opacity=".35"/></g></svg>',
+    excerpt: "In the classic book “Manias, Panics, and Crashes: A History of Financial Crises,” the economic historian Charles Kindleberger divided episodes of speculation into five stages.",
+    note: "Cassidy opens with Charles Kindleberger's five stages of a speculative mania — displacement, boom, euphoria, distress, revulsion — and then argues, without raising his voice, that the AI trade has arrived at stage four. His illustration is Leopold Aschenbrenner, who published a long essay in 2024 forecasting human-level intelligence by 2027 and superintelligence by 2030, turned the argument into a hedge fund that rose more than a thousand per cent, and then got margin-called into selling most of his book at a discount days before his wedding. What lifts the column above schadenfreude is the plumbing underneath: circular financing between chipmakers and the companies buying their chips, $1.65 trillion in off-balance-sheet obligations across five firms, Chinese models executing for three cents what American ones charge dollars for, and survey after survey finding no profits at the companies actually using the tools. Seven minutes, and it closes on Kindleberger's own dry verdict that investors seem not to have learned from experience."
+  },
+  {
+    n: 87,
+    title: "Welcome to Your Authentic Indian Experience™",
+    author: "Rebecca Roanhorse",
+    venue: "Apex Magazine",
+    year: 2017,
+    url: "https://www.apexbookcompany.com/blogs/apex-magazine/welcome-to-your-authentic-indian-experience",
+    mins: 23,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-09-01",
+    accent: "#5D4E8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="16" y="40" width="88" height="34" rx="11" stroke-width="1.8"/><path d="M16 50 l-8 -7 M104 50 l8 -7" stroke-width="1.5"/><path d="M24 74 v7 a6 6 0 0 0 6 6 h60 a6 6 0 0 0 6 -6 v-7" stroke-width="1.2" opacity=".45"/><path d="M26 68 l14 -17 10 12 12 -20 11 16 9 -10 8 19" stroke-width="1.5"/><path d="M26 68 h64" stroke-width="1.2" opacity=".5"/><circle cx="60" cy="22" r="7" stroke-width="1.4"/><path d="M60 8 v5 M60 31 v4 M45 22 h5 M70 22 h5 M49 12 l3.5 3.5 M71 12 l-3.5 3.5" stroke-width="1.2" opacity=".6"/><path d="M18 100 h14 M38 100 h18 M62 100 h12 M80 100 h10" stroke-width="1.4" opacity=".45"/><path d="M84 108 h9 M88.5 108 v8 M99 116 v-8 l3.5 5.5 3.5 -5.5 v8" stroke-width="1.2"/></g></svg>',
+    excerpt: "You maintain a menu of a half dozen Experiences on your digital blackboard, but Vision Quest is the one the Tourists choose the most.",
+    note: "Jesse Turnblatt sells spiritual transformation by the session at a storefront in Sedona: helmet on, breathing mask fitted, buckskin and beaded moccasins, and Jesse playing the Indian the Tourists flew in to meet. Roanhorse tells the whole thing in the second person, which turns out to be the only possible choice — you are the one performing, you are the one deciding how authentic the authenticity should be, and you are the one who notices when a repeat customer calling himself White Wolf starts wanting something realer than the product. What follows is a slow and immaculate substitution, ending with White Wolf standing inside Jesse's house, speaking on behalf of Jesse's wife. It won both the Hugo and the Nebula, and twenty-three minutes later it has said more about being replaced by a better-marketed version of yourself than most novels manage in four hundred pages."
   }
 ];
