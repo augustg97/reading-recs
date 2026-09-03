@@ -101,11 +101,17 @@
   }
   .minor:hover{color:var(--ink)}
   .minor.done{color:var(--aug)}
-  .votes{display:inline-flex;gap:2px;margin-left:4px;border-left:1px solid var(--faint);padding-left:14px}
+  .votes{display:inline-flex;align-items:center;gap:2px;margin-left:4px;border-left:1px solid var(--faint);padding-left:14px}
+  .votelead{
+    font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--muted);opacity:.7;margin-right:9px;white-space:nowrap;
+  }
   .votebtn{
-    font-size:17px;line-height:1;color:var(--muted);padding:8px 9px;
+    font-size:13px;line-height:1;color:var(--muted);padding:8px 9px;white-space:nowrap;
     transition:color .15s,transform .15s;
   }
+  .votebtn .varrow{font-size:16px;vertical-align:-1px;margin-right:3px}
+  .votecount{font-size:11px;opacity:.75;margin-left:4px}
   .votebtn:hover{color:var(--ink);transform:translateY(-1px)}
   .votebtn.dn:hover{transform:translateY(1px)}
   .votebtn.on{color:var(--accent)}
@@ -260,6 +266,22 @@
   function bump(key){
     try{ fetch(`https://abacus.jasoncameron.dev/hit/${VOTE_NS}/${key}`).catch(()=>{}); }catch(e){}
   }
+  // Best-effort display of the shared tally. If the read is blocked or the key is unset,
+  // the label simply stays empty — the buttons work regardless.
+  async function readCount(key){
+    try{
+      const r=await fetch(`https://abacus.jasoncameron.dev/get/${VOTE_NS}/${key}`);
+      if(!r.ok) return null;
+      const j=await r.json();
+      return (typeof j.value==="number" && j.value>0) ? j.value : null;
+    }catch(e){ return null; }
+  }
+  async function showCounts(n){
+    const [u,d]=await Promise.all([readCount(`p${n}u`),readCount(`p${n}d`)]);
+    const ue=$("upCount"), de=$("dnCount");
+    if(ue && currentN()===n) ue.textContent = u ? ` ${u}` : "";
+    if(de && currentN()===n) de.textContent = d ? ` ${d}` : "";
+  }
   function setVote(n,dir){
     const v=votesObj(), cur=v[n]||0;
     if(cur===dir){
@@ -315,13 +337,15 @@
         <button class="minor ${isRead?'done':''}" id="readToggle">${isRead?'&#10003; Read':'Mark read'}</button>
         <button class="minor" id="copyBtn">Copy link</button>
         <span class="votes">
-          <button class="votebtn ${myVote(n)===1?'on':''}" id="upBtn" title="Really liked it &mdash; more like this" aria-label="Upvote">&#8593;</button>
-          <button class="votebtn dn ${myVote(n)===-1?'on':''}" id="dnBtn" title="Not for us &mdash; less like this" aria-label="Downvote">&#8595;</button>
+          <span class="votelead">Tell the curator</span>
+          <button class="votebtn ${myVote(n)===1?'on':''}" id="upBtn" title="Really liked it &mdash; more like this" aria-label="Upvote"><span class="varrow">&#8593;</span>more like this<span class="votecount" id="upCount"></span></button>
+          <button class="votebtn dn ${myVote(n)===-1?'on':''}" id="dnBtn" title="Not for us &mdash; less like this" aria-label="Downvote"><span class="varrow">&#8595;</span>less<span class="votecount" id="dnCount"></span></button>
         </span>
       </div>`;
 
     $("upBtn").onclick=()=>setVote(n,1);
     $("dnBtn").onclick=()=>setVote(n,-1);
+    showCounts(n);
 
     $("readToggle").onclick=()=>{ toggleRead(n); render(); buildDrawer(); };
     $("copyBtn").onclick=async ()=>{

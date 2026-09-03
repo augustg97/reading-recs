@@ -1397,5 +1397,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="16" y="40" width="88" height="34" rx="11" stroke-width="1.8"/><path d="M16 50 l-8 -7 M104 50 l8 -7" stroke-width="1.5"/><path d="M24 74 v7 a6 6 0 0 0 6 6 h60 a6 6 0 0 0 6 -6 v-7" stroke-width="1.2" opacity=".45"/><path d="M26 68 l14 -17 10 12 12 -20 11 16 9 -10 8 19" stroke-width="1.5"/><path d="M26 68 h64" stroke-width="1.2" opacity=".5"/><circle cx="60" cy="22" r="7" stroke-width="1.4"/><path d="M60 8 v5 M60 31 v4 M45 22 h5 M70 22 h5 M49 12 l3.5 3.5 M71 12 l-3.5 3.5" stroke-width="1.2" opacity=".6"/><path d="M18 100 h14 M38 100 h18 M62 100 h12 M80 100 h10" stroke-width="1.4" opacity=".45"/><path d="M84 108 h9 M88.5 108 v8 M99 116 v-8 l3.5 5.5 3.5 -5.5 v8" stroke-width="1.2"/></g></svg>',
     excerpt: "You maintain a menu of a half dozen Experiences on your digital blackboard, but Vision Quest is the one the Tourists choose the most.",
     note: "Jesse Turnblatt sells spiritual transformation by the session at a storefront in Sedona: helmet on, breathing mask fitted, buckskin and beaded moccasins, and Jesse playing the Indian the Tourists flew in to meet. Roanhorse tells the whole thing in the second person, which turns out to be the only possible choice — you are the one performing, you are the one deciding how authentic the authenticity should be, and you are the one who notices when a repeat customer calling himself White Wolf starts wanting something realer than the product. What follows is a slow and immaculate substitution, ending with White Wolf standing inside Jesse's house, speaking on behalf of Jesse's wife. It won both the Hugo and the Nebula, and twenty-three minutes later it has said more about being replaced by a better-marketed version of yourself than most novels manage in four hundred pages."
+  },
+  {
+    n: 88,
+    title: "Crash Course",
+    author: "Maureen Tkacik",
+    venue: "The New Republic",
+    year: 2019,
+    url: "https://newrepublic.com/article/154944/boeing-737-max-investigation-indonesia-lion-air-ethiopian-airlines-managerial-revolution",
+    mins: 36,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-09-03",
+    accent: "#6E7B8B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M12 100 H108" stroke-width="1.5"/><path d="M12 100 V16" stroke-width="1.5"/><path d="M16 92 C 36 88 58 74 76 50 C 84 40 92 30 100 22" stroke-width="1.9"/><path d="M16 26 C 34 32 48 46 60 64 C 70 79 82 92 100 98" stroke-width="1.7" stroke-dasharray="5 4" opacity=".8"/><circle cx="62" cy="61" r="4.5" stroke-width="1.4"/><path d="M28 34 l16 6 -16 6 z" stroke-width="1.6"/><path d="M36 40 l10 -9 M36 40 l10 9" stroke-width="1.2" opacity=".55"/><path d="M84 74 l7 5 -8 4" stroke-width="1.4" opacity=".7"/><path d="M90 84 l4 6 M96 80 l5 5 M84 88 l3 7" stroke-width="1.1" opacity=".45"/><path d="M18 108 h10 M34 108 h22 M62 108 h9 M77 108 h14" stroke-width="1.3" opacity=".35"/></g></svg>',
+    excerpt: "Nearly two decades before Boeing's MCAS system crashed two of the plane-maker's brand-new 737 MAX jets, Stan Sorscher knew his company's increasingly toxic mode of operating would create a disaster of some kind.",
+    note: "Two planes went down and 346 people died, and Tkacik's answer to why is not a software bug but a merger: the 1997 deal in which McDonnell Douglas, as the joke went, bought Boeing with Boeing's money, installed a Jack Welch protégé at the top, moved headquarters to Chicago expressly to put a thousand miles between the executives and the engineers, and set about converting the world's most admired engineering culture into a machine for buying back its own stock. The reporting is granular and furious in equal measure — the engineer who watched it coming in the 1990s, the outsourcing of flight-control code to twenty-dollar-an-hour contractors, the FAA quietly deputizing Boeing to certify itself — and it never once lets an abstraction stand in for a decision somebody made. It is the purest available specimen of the accountability sink: a catastrophe with no villain at the controls because the controls were dismantled two decades earlier, on purpose, for reasons everybody found perfectly reasonable at the time. Thirty-six minutes, and the prose has the cold satisfaction of a postmortem written by someone who is not going to pretend to be surprised."
+  },
+  {
+    n: 89,
+    title: "Ask Claude",
+    author: "Paul Taylor",
+    venue: "London Review of Books",
+    year: 2026,
+    url: "https://www.lrb.co.uk/the-paper/v48/n08/paul-taylor/diary",
+    mins: 19,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-03",
+    accent: "#3E9E5A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="12" y="22" width="96" height="76" rx="5" stroke-width="1.8"/><path d="M12 36 H108" stroke-width="1.3" opacity=".6"/><circle cx="21" cy="29" r="2" stroke-width="1.1" opacity=".6"/><circle cx="29" cy="29" r="2" stroke-width="1.1" opacity=".6"/><circle cx="37" cy="29" r="2" stroke-width="1.1" opacity=".6"/><path d="M22 48 l7 5 -7 5" stroke-width="1.6"/><path d="M36 58 h26" stroke-width="1.5" opacity=".8"/><path d="M22 70 l7 5 -7 5" stroke-width="1.6" opacity=".6"/><rect x="36" y="72" width="8" height="11" stroke-width="1.5"/><path d="M52 78 h20 M78 78 h14" stroke-width="1.3" opacity=".4"/><path d="M96 46 c 12 8 -4 18 -14 12 c -9 -6 3 -16 12 -10" stroke-width="1.5" opacity=".85"/><path d="M86 60 l4 -3 -1 5" stroke-width="1.3" opacity=".85"/><path d="M64 92 h30" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "It is possible that the first profession to be replaced by artificial intelligence will be that of computer programmer.",
+    note: "Taylor is a professor of health informatics who has not written a line of code in eighteen months and does not expect to write another, and this diary is his attempt to say plainly what that feels like from the inside. He starts at a line printer in the 1970s, tinkering with the source of a BASIC Star Trek game, and ends with an agent that rebuilds the same game from memory in a few minutes, then keeps going: the vanishing job adverts, the software firms whose share prices fell thirty per cent on the theory that their products can now be knocked up overnight, the model that finds kernel exploits nobody asked it to find. The best passage is a quiet distinction borrowed from psychology — coding used to be cognition, solving the problem, and is now pure metacognition, worrying about whether you are thinking about the problem the right way, which one engineer compares to putting down an instrument and picking up a baton. It closes on a transcript of a model narrating its own inability to stop talking, and the effect is genuinely strange: a piece of reported labour journalism that lands, in its last hundred words, somewhere much closer to the uncanny."
+  },
+  {
+    n: 90,
+    title: "Tim Robinson Understands What The Boys Are Going Through",
+    author: "Israel Daramola",
+    venue: "Defector",
+    year: 2025,
+    url: "https://defector.com/tim-robinson-understands-what-the-boys-are-going-through",
+    mins: 6,
+    kind: "essay",
+    lean: "j",
+    added: "2026-09-03",
+    accent: "#C9A227",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M40 30 h30 a4 4 0 0 1 4 4 v26 h-38 v-26 a4 4 0 0 1 4 -4 z" stroke-width="1.8"/><path d="M32 62 h50 a3 3 0 0 1 3 3 v6 h-56 v-6 a3 3 0 0 1 3 -3 z" stroke-width="1.7"/><path d="M57 71 v14" stroke-width="1.6"/><path d="M57 85 l-16 12" stroke-width="1.5"/><path d="M57 85 l17 9" stroke-width="1.5"/><path d="M57 85 l-3 19" stroke-width="1.5" stroke-dasharray="3 3" opacity=".6"/><path d="M74 94 l6 12" stroke-width="1.2" opacity=".4"/><circle cx="18" cy="24" r="3.5" stroke-width="1.4"/><circle cx="100" cy="20" r="3.5" stroke-width="1.4"/><circle cx="104" cy="88" r="3.5" stroke-width="1.4"/><circle cx="14" cy="86" r="3.5" stroke-width="1.4"/><path d="M21 26 L38 34 M97 23 L76 34 M101 87 L78 70 M17 84 L34 70" stroke-width="1.1" opacity=".55"/><path d="M18 28 L14 82 M100 24 L104 84" stroke-width="1" opacity=".35" stroke-dasharray="4 4"/></g></svg>',
+    excerpt: "The male comedians are going through something. I know, I know, but this time I'm not referring to the obvious ones who have lost their minds through some excess of steroid abuse and podcast appearances.",
+    note: "Six minutes on The Chair Company, the HBO series in which a man whose chair collapses under him during a work presentation becomes convinced the humiliation was engineered, and sets out to prove it. Daramola reads the show as the definitive comedy of twenty-first-century malaise — a 1970s conspiracy thriller repurposed so that the vast shadowy system turns out to be nothing more than the ordinary indignity of a life that did not go the way you planned, and the conspiracy theory is really just a way of insisting that the disappointment must have been someone's fault. His best example is the scene in which Ron returns a lost dog and asks the owner to post a photo of him doing it, then scrolls the comments to discover the man was abusing the dog and the neighbours had let it out. Sharp, warm, unusually generous about people who are ridiculous, and it takes seriously the question of what happens to a person the world has stopped needing."
   }
 ];
