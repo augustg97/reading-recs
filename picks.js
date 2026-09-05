@@ -1445,5 +1445,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M40 30 h30 a4 4 0 0 1 4 4 v26 h-38 v-26 a4 4 0 0 1 4 -4 z" stroke-width="1.8"/><path d="M32 62 h50 a3 3 0 0 1 3 3 v6 h-56 v-6 a3 3 0 0 1 3 -3 z" stroke-width="1.7"/><path d="M57 71 v14" stroke-width="1.6"/><path d="M57 85 l-16 12" stroke-width="1.5"/><path d="M57 85 l17 9" stroke-width="1.5"/><path d="M57 85 l-3 19" stroke-width="1.5" stroke-dasharray="3 3" opacity=".6"/><path d="M74 94 l6 12" stroke-width="1.2" opacity=".4"/><circle cx="18" cy="24" r="3.5" stroke-width="1.4"/><circle cx="100" cy="20" r="3.5" stroke-width="1.4"/><circle cx="104" cy="88" r="3.5" stroke-width="1.4"/><circle cx="14" cy="86" r="3.5" stroke-width="1.4"/><path d="M21 26 L38 34 M97 23 L76 34 M101 87 L78 70 M17 84 L34 70" stroke-width="1.1" opacity=".55"/><path d="M18 28 L14 82 M100 24 L104 84" stroke-width="1" opacity=".35" stroke-dasharray="4 4"/></g></svg>',
     excerpt: "The male comedians are going through something. I know, I know, but this time I'm not referring to the obvious ones who have lost their minds through some excess of steroid abuse and podcast appearances.",
     note: "Six minutes on The Chair Company, the HBO series in which a man whose chair collapses under him during a work presentation becomes convinced the humiliation was engineered, and sets out to prove it. Daramola reads the show as the definitive comedy of twenty-first-century malaise — a 1970s conspiracy thriller repurposed so that the vast shadowy system turns out to be nothing more than the ordinary indignity of a life that did not go the way you planned, and the conspiracy theory is really just a way of insisting that the disappointment must have been someone's fault. His best example is the scene in which Ron returns a lost dog and asks the owner to post a photo of him doing it, then scrolls the comments to discover the man was abusing the dog and the neighbours had let it out. Sharp, warm, unusually generous about people who are ridiculous, and it takes seriously the question of what happens to a person the world has stopped needing."
+  },
+  {
+    n: 91,
+    title: "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
+    author: "Jill Lepore",
+    venue: "The Guardian",
+    year: 2026,
+    url: "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
+    mins: 17,
+    kind: "essay",
+    lean: "b",
+    added: "2026-09-05",
+    accent: "#4A6FA5",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M18 18 h50 l10 10 v34 h-60 z" stroke-width="1.8"/><path d="M68 18 v10 h10" stroke-width="1.4" opacity=".7"/><path d="M24 32 h8 M38 32 h5 M49 32 h10 M65 32 h6" stroke-width="2.4" opacity=".5"/><path d="M24 41 h5 M35 41 h10 M51 41 h5 M62 41 h11" stroke-width="2.4" opacity=".5"/><path d="M24 50 h11 M41 50 h5 M52 50 h9 M67 50 h6" stroke-width="2.4" opacity=".5"/><path d="M90 34 l6 -11 6 11 z" stroke-width="1.5" opacity=".85"/><circle cx="96" cy="31" r="1.1" stroke-width="1.2" opacity=".85"/><path d="M16 104 h92" stroke-width="1.3" opacity=".4"/><path d="M20 104 v-32" stroke-width="1.3" opacity=".4"/><path d="M20 100 C 40 98 56 92 70 80 C 80 72 90 68 100 66" stroke-width="1.7"/><path d="M20 100 C 42 99 62 97 82 95 C 92 94 98 93 102 92" stroke-width="1.4" stroke-dasharray="4 3" opacity=".6"/><circle cx="101" cy="65" r="3" stroke-width="1.4"/></g></svg>',
+    excerpt: "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society.",
+    note: "In the 1950s the arrival of the computer was supposed to deliver computopia: a citizenry so thoroughly polled, modelled and informed that self-government would finally become a matter of arithmetic. Lepore traces what arrived instead, from the Simulmatics Corporation's Cold War experiments in simulating the American electorate through to an automated state in which consequential decisions are made by systems nobody voted for and almost nobody can inspect. The charge in the piece comes from the fact that the warnings were all issued at the time, in plain language, by people who could see precisely where this went, and were shelved as cranks and scolds. It is history written as slow-motion institutional horror — archival dread, machines organising the field around them, and the sentence-level control of a first-rate narrative historian."
+  },
+  {
+    n: 92,
+    title: "A Catalog of Storms",
+    author: "Fran Wilde",
+    venue: "Uncanny Magazine",
+    year: 2019,
+    url: "https://www.uncannymagazine.com/article/a-catalog-of-storms/",
+    mins: 23,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-09-05",
+    accent: "#8E3B63",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M62 44 C 74 44 80 51 80 59 C 80 69 70 75 60 75 C 47 75 38 66 38 54 C 38 39 51 29 66 29 C 84 29 96 42 96 60" stroke-width="1.8"/><circle cx="62" cy="57" r="3.6" stroke-width="1.5"/><circle cx="24" cy="70" r="4" stroke-width="1.5"/><path d="M24 74 v9" stroke-width="1.4"/><path d="M29 68 c 7 -7 14 -11 21 -13" stroke-width="1.3" stroke-dasharray="3 3" opacity=".7"/><path d="M28 88 l-5 11 M42 88 l-5 11 M56 88 l-5 11 M70 88 l-5 11 M84 88 l-5 11 M98 88 l-5 11" stroke-width="1.4" opacity=".55"/><path d="M14 24 h16 M14 32 h9" stroke-width="1.5" opacity=".4"/><path d="M16 106 h88" stroke-width="1.2" opacity=".3"/><path d="M16 113 h28 M52 113 h18 M78 113 h14" stroke-width="1.2" opacity=".25"/></g></svg>',
+    excerpt: "The wind’s moving fast again. The weathermen lean into it, letting it wear away at them until they turn to rain and cloud.",
+    note: "In Sila's town the storms have names, and giving them those names is the work of the weathermen, who walk out into the wind and let it wear at them until they come apart into rain and cloud. Wilde builds the whole story out of that bargain: to describe a storm precisely is to be consumed by it, and this family keeps losing people to the work. When Lillit, the middle sister, turns out to have the gift, the household has to hold pride and grief in the same hand, and the catalog of storms the sisters keep becomes both an inventory and an elegy. It is short, formally strange, and beautifully controlled — a fairy tale about the price of finding exactly the right word for a thing."
+  },
+  {
+    n: 93,
+    title: "Before he wrote AI 2027, he predicted the world in 2026. How did he do?",
+    author: "Daniel Kokotajlo & Clara Collier",
+    venue: "Asterisk (Dagger)",
+    year: 2026,
+    url: "https://asteriskmag.substack.com/p/before-he-wrote-ai-2027-he-predicted",
+    mins: 11,
+    kind: "interview",
+    lean: "a",
+    added: "2026-09-05",
+    accent: "#6B8E23",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M18 100 h90" stroke-width="1.3" opacity=".45"/><path d="M18 100 v-78" stroke-width="1.3" opacity=".45"/><path d="M18 94 C 32 92 42 86 52 74 C 58 66 62 56 66 48" stroke-width="1.4" stroke-dasharray="4 3"/><path d="M18 97 C 33 95 44 88 53 76 C 59 68 63 58 66 50" stroke-width="1.8"/><path d="M66 49 C 76 38 84 34 96 30" stroke-width="1.5" stroke-dasharray="4 3" opacity=".75"/><path d="M66 49 C 78 46 88 44 100 42" stroke-width="1.4" stroke-dasharray="4 3" opacity=".55"/><path d="M66 49 C 76 54 86 58 98 62" stroke-width="1.3" stroke-dasharray="4 3" opacity=".4"/><circle cx="66" cy="49" r="3.2" stroke-width="1.6"/><path d="M34 105 v-6 M52 105 v-6 M70 105 v-6 M88 105 v-6" stroke-width="1.1" opacity=".35"/><path d="M24 32 h12 M24 40 h7" stroke-width="1.3" opacity=".35"/></g></svg>',
+    excerpt: "Daniel Kokotajlo evaluates his 2021 essay, “What 2026 Looks Like.”",
+    note: "In August 2021, more than a year before ChatGPT existed, Kokotajlo published a year-by-year story called “What 2026 Looks Like.” Now that the year has actually arrived, Clara Collier walks back through it with him, and her verdict — that it brings her no joy to say the predictions are frighteningly accurate — sets the tone for a conversation that is half victory lap and half dread. The most interesting stretch is about method: why an invented narrative stuffed with made-up specifics can be a better instrument than a calibrated probability, because a story forces you to check whether the steps actually connect, and why the demand for extraordinary evidence is so often a prior wearing the costume of a principle. Collier, a sensible moderate by her own description, lands the most uncomfortable observation in the piece, which is that on this particular subject the sensible moderates have the worse record."
   }
 ];
