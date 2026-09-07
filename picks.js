@@ -1493,5 +1493,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M18 100 h90" stroke-width="1.3" opacity=".45"/><path d="M18 100 v-78" stroke-width="1.3" opacity=".45"/><path d="M18 94 C 32 92 42 86 52 74 C 58 66 62 56 66 48" stroke-width="1.4" stroke-dasharray="4 3"/><path d="M18 97 C 33 95 44 88 53 76 C 59 68 63 58 66 50" stroke-width="1.8"/><path d="M66 49 C 76 38 84 34 96 30" stroke-width="1.5" stroke-dasharray="4 3" opacity=".75"/><path d="M66 49 C 78 46 88 44 100 42" stroke-width="1.4" stroke-dasharray="4 3" opacity=".55"/><path d="M66 49 C 76 54 86 58 98 62" stroke-width="1.3" stroke-dasharray="4 3" opacity=".4"/><circle cx="66" cy="49" r="3.2" stroke-width="1.6"/><path d="M34 105 v-6 M52 105 v-6 M70 105 v-6 M88 105 v-6" stroke-width="1.1" opacity=".35"/><path d="M24 32 h12 M24 40 h7" stroke-width="1.3" opacity=".35"/></g></svg>',
     excerpt: "Daniel Kokotajlo evaluates his 2021 essay, “What 2026 Looks Like.”",
     note: "In August 2021, more than a year before ChatGPT existed, Kokotajlo published a year-by-year story called “What 2026 Looks Like.” Now that the year has actually arrived, Clara Collier walks back through it with him, and her verdict — that it brings her no joy to say the predictions are frighteningly accurate — sets the tone for a conversation that is half victory lap and half dread. The most interesting stretch is about method: why an invented narrative stuffed with made-up specifics can be a better instrument than a calibrated probability, because a story forces you to check whether the steps actually connect, and why the demand for extraordinary evidence is so often a prior wearing the costume of a principle. Collier, a sensible moderate by her own description, lands the most uncomfortable observation in the piece, which is that on this particular subject the sensible moderates have the worse record."
+  },
+  {
+    n: 94,
+    title: "Build-a-brain",
+    author: "Michael Graziano",
+    venue: "Aeon",
+    year: 2015,
+    url: "https://aeon.co/essays/can-we-make-consciousness-into-an-engineering-problem",
+    mins: 15,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-09-07",
+    accent: "#17A2B8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="20" y="26" width="80" height="62" rx="12" stroke-width="1.8"/><rect x="45" y="45" width="34" height="26" rx="6" stroke-width="1.5"/><rect x="56" y="53" width="13" height="10" rx="3" stroke-width="1.2" opacity=".6"/><path d="M100 46 C 112 55 110 74 96 80 C 87 84 79 79 77 72" stroke-width="1.4" stroke-dasharray="4 3"/><path d="M77 72 l-4 -4 M77 72 l5 -2" stroke-width="1.4"/><path d="M32 88 v10 M48 88 v10 M64 88 v10 M80 88 v10" stroke-width="1.3" opacity=".5"/><path d="M20 40 h-9 M20 56 h-9 M20 72 h-9" stroke-width="1.3" opacity=".5"/><path d="M38 18 a 30 30 0 0 1 44 0" stroke-width="1.3" stroke-dasharray="3 4" opacity=".55"/><circle cx="60" cy="14" r="2.4" stroke-width="1.3" opacity=".7"/></g></svg>',
+    excerpt: "The brain is a machine: a device that processes information. That’s according to the last 100 years of neuroscience.",
+    note: "Graziano's move is to refuse the hard problem's terms. Instead of asking how matter produces experience, he asks what kind of machine would insist that it had some — and argues that any brain carrying a rough, cartoonish model of its own attention will conclude it contains something non-physical, and will not be talked out of it. The essay is built like a spec sheet: here are the components, here is the wiring, here is why the finished machine would report an inner life and mean it. Whether that dissolves the mystery or elegantly sidesteps it is the argument itself, and the uncomfortable part is that the machine's own certainty would count as no evidence either way."
+  },
+  {
+    n: 95,
+    title: "Fat Man",
+    author: "Louis Menand",
+    venue: "The New Yorker",
+    year: 2005,
+    url: "https://www.newyorker.com/magazine/2005/06/27/fat-man",
+    mins: 22,
+    kind: "profile",
+    lean: "a",
+    added: "2026-09-07",
+    accent: "#A8501E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 104 L70 26" stroke-width="1.6"/><path d="M30 104 L84 26" stroke-width="1.6"/><path d="M23 94 h14 M31 82 h14 M40 70 h14 M48 58 h14 M56 46 h14 M64 34 h14" stroke-width="1.4"/><circle cx="88" cy="34" r="7" stroke-width="1.6"/><circle cx="88" cy="34" r="15" stroke-width="1.3" stroke-dasharray="3 4" opacity=".6"/><circle cx="88" cy="34" r="23" stroke-width="1.1" stroke-dasharray="2 5" opacity=".35"/><path d="M72 82 h34 v20 h-34 z" stroke-width="1.2" opacity=".55"/><path d="M89 82 v20 M72 92 h34" stroke-width="1.2" opacity=".45"/><path d="M77 87 h7 M94 87 h7 M77 97 h7 M94 97 h9" stroke-width="1.1" opacity=".4"/><path d="M12 112 h96" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "Herman Kahn and the nuclear age.",
+    note: "Herman Kahn was the heavyweight of what Menand calls the Megadeath Intellectuals — the RAND physicists and game theorists who made it their business to think about the unthinkable and draw up the plan for nuclear war. Kahn's book contains a table of postwar outcomes, one column for the number of dead and one for the years needed to recover, with a question printed underneath it: “Will the survivors envy the dead?” Menand is very good on why the answer had to be no for deterrence to mean anything at all, and on how a man who joked about which delicatessen food keeps best in a fallout shelter ended up as the model for Dr. Strangelove. It doubles as the origin story of a form that is everywhere again — the scenario, the numbered future, the argument made by imagining forward — and as a study of what goes wrong when the adversary is modelled as a machine that only wants to win."
+  },
+  {
+    n: 96,
+    title: "The Em Dash Responds to the AI Allegations",
+    author: "Greg Mania",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2025,
+    url: "https://www.mcsweeneys.net/articles/the-em-dash-responds-to-the-ai-allegations",
+    mins: 2,
+    kind: "humor",
+    lean: "j",
+    added: "2026-09-07",
+    accent: "#2F3A8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 24 v78 h88" stroke-width="1.2" opacity=".35"/><path d="M16 40 h88 M16 60 h88 M16 80 h88" stroke-width="1.1" stroke-dasharray="2 5" opacity=".28"/><path d="M52 40 h11" stroke-width="3.2"/><path d="M47 60 h21" stroke-width="3.2" opacity=".75"/><path d="M38 80 h40" stroke-width="4.6"/><path d="M32 70 h-6 v20 h6" stroke-width="1.6"/><path d="M84 70 h6 v20 h-6" stroke-width="1.6"/><circle cx="96" cy="30" r="9" stroke-width="1.4" opacity=".7"/><path d="M91 30 h10" stroke-width="1.6" opacity=".7"/><path d="M103 37 l8 8" stroke-width="1.6" opacity=".7"/></g></svg>',
+    excerpt: "I would like to address the recent slander circulating on social media, in editorial Slack channels, and in the margins of otherwise decent Substack newsletters.",
+    note: "Somewhere in the last couple of years the em dash acquired a reputation: too many in a paragraph and readers began assuming a machine had been at the keyboard. Mania hands the mark a microphone and lets it defend itself, and it turns out to be furious, well-read and extremely rude, calling Shelley, Dickinson and Wallace as character witnesses before concluding that the real problem is that you do not read enough. Two minutes long, and it lands a serious point sideways — the tells people use to detect machine writing are mostly just the habits of writers trying too hard. The postscript, in which the em dash cheerfully throws the en dash under the bus, is the best line in it."
   }
 ];
