@@ -1541,5 +1541,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 24 v78 h88" stroke-width="1.2" opacity=".35"/><path d="M16 40 h88 M16 60 h88 M16 80 h88" stroke-width="1.1" stroke-dasharray="2 5" opacity=".28"/><path d="M52 40 h11" stroke-width="3.2"/><path d="M47 60 h21" stroke-width="3.2" opacity=".75"/><path d="M38 80 h40" stroke-width="4.6"/><path d="M32 70 h-6 v20 h6" stroke-width="1.6"/><path d="M84 70 h6 v20 h-6" stroke-width="1.6"/><circle cx="96" cy="30" r="9" stroke-width="1.4" opacity=".7"/><path d="M91 30 h10" stroke-width="1.6" opacity=".7"/><path d="M103 37 l8 8" stroke-width="1.6" opacity=".7"/></g></svg>',
     excerpt: "I would like to address the recent slander circulating on social media, in editorial Slack channels, and in the margins of otherwise decent Substack newsletters.",
     note: "Somewhere in the last couple of years the em dash acquired a reputation: too many in a paragraph and readers began assuming a machine had been at the keyboard. Mania hands the mark a microphone and lets it defend itself, and it turns out to be furious, well-read and extremely rude, calling Shelley, Dickinson and Wallace as character witnesses before concluding that the real problem is that you do not read enough. Two minutes long, and it lands a serious point sideways — the tells people use to detect machine writing are mostly just the habits of writers trying too hard. The postscript, in which the em dash cheerfully throws the en dash under the bus, is the best line in it."
+  },
+  {
+    n: 97,
+    title: "Kicking Robots",
+    author: "James Vincent",
+    venue: "Harper's Magazine",
+    year: 2025,
+    url: "https://harpers.org/archive/2025/12/kicking-robots-james-vincent-humanoids/",
+    mins: 36,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-09-09",
+    accent: "#D9557A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M10 100 h100" stroke-width="1.2" opacity=".35"/><ellipse cx="66" cy="100" rx="30" ry="5" stroke-width="1" opacity=".22"/><circle cx="66" cy="30" r="9" stroke-width="1.5"/><path d="M66 39 v26" stroke-width="1.5"/><path d="M66 46 l-13 10 M66 46 l13 10" stroke-width="1.3"/><path d="M66 65 l-9 17 -2 18 M66 65 l10 16 3 19" stroke-width="1.3"/><circle cx="53" cy="56" r="2.2" stroke-width="1.1"/><circle cx="79" cy="56" r="2.2" stroke-width="1.1"/><circle cx="57" cy="82" r="2.2" stroke-width="1.1"/><circle cx="76" cy="81" r="2.2" stroke-width="1.1"/><path d="M14 88 q12 -16 30 -10" stroke-width="1.3" stroke-dasharray="3 4" opacity=".8"/><path d="M44 78 l-7 -2 M44 78 l-1 -7" stroke-width="1.3" opacity=".8"/><path d="M92 26 a14 14 0 0 1 0 20" stroke-width="1.1" opacity=".45"/><path d="M98 20 a22 22 0 0 1 0 32" stroke-width="1.1" opacity=".3"/></g></svg>',
+    excerpt: "You can learn a surprising amount by kicking things. It’s an epistemological method you often see deployed by small children, who target furniture, pets, and their peers in the hope of answering important questions about the world.",
+    note: "Vincent's subject is the humanoid robot — the machine built deliberately in our shape — and the industry that keeps insisting it is nearly here. He opens with a small essay on kicking things as a way of finding out what they actually are, which turns out to be the method of the whole piece: go to the labs and the trade shows, watch the demo, and ask what is left standing once the promise is subtracted. The gap between the two is where the comedy lives, and he is very funny in it without ever settling for mere debunking. Underneath sits the better question, which is why the shape matters so much to us at all — what our insistence on building machines with hands and faces reveals about what we think a person is."
+  },
+  {
+    n: 98,
+    title: "The Texan Ideology",
+    author: "Fred Turner",
+    venue: "The Baffler",
+    year: 2026,
+    url: "https://thebaffler.com/salvos/the-texan-ideology-turner",
+    mins: 22,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-09",
+    accent: "#7D4E9E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M8 96 h104" stroke-width="1.2" opacity=".35"/><path d="M26 96 L38 34 L50 96" stroke-width="1.5"/><path d="M30 76 h16 M32 63 h12 M34 50 h8" stroke-width="1.1" opacity=".75"/><path d="M38 34 v-10" stroke-width="1.3"/><path d="M32 26 h12" stroke-width="1.3"/><rect x="66" y="56" width="40" height="12" stroke-width="1.3"/><rect x="66" y="72" width="40" height="12" stroke-width="1.3"/><path d="M72 62 h6 M84 62 h14 M72 78 h14 M92 78 h6" stroke-width="1.1" opacity=".6"/><path d="M86 56 v-14" stroke-width="1.2" opacity=".6"/><circle cx="86" cy="32" r="10" stroke-width="1.2" opacity=".55"/><path d="M86 22 v20 M76 32 h20" stroke-width="1.1" opacity=".55"/><path d="M8 104 q28 -8 56 0 t48 0" stroke-width="1.1" stroke-dasharray="3 5" opacity=".3"/></g></svg>',
+    excerpt: "Alongside the curves of the Colorado River, surrounded by flatlands and scrub, Tesla’s Gigafactory sprawls over 2,500 acres outside Austin, Texas. From the air it looks like a landing pad for aliens.",
+    note: "Thirty years ago Richard Barbrook and Andy Cameron named the Californian Ideology — hippie utopianism welded to entrepreneurial zeal — and Turner, who wrote the history of how that fusion happened, argues here that it has been quietly superseded. What replaced it is older and stranger: an ideology of extraction grown from the Texas oil patch and its wildcatter Christianity, now playing host to Stargate in Abilene and to bitcoin mines whose cooling fans howl across whole counties. His method is to read the Gigafactory as a translation device, converting a century of cowboy and oilman mythology into a claim about who deserves to build the future, and the essay's best turn is a detour through Margaret Atwood's Church of PetrOleum, which reads less like satire every year. Intellectual history written at speed about something still in motion, and it closes on an undergraduate manifesto calling for the conquest of Greenland and Mars."
+  },
+  {
+    n: 99,
+    title: "Stone Prayers",
+    author: "Kate Alice Marshall",
+    venue: "Beneath Ceaseless Skies",
+    year: 2015,
+    url: "https://www.beneath-ceaseless-skies.com/stories/stone-prayers/",
+    mins: 17,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-09-09",
+    accent: "#8B6F47",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M20 36 q40 -22 80 0" stroke-width="1.3" opacity=".5"/><path d="M20 36 v8 M100 36 v8" stroke-width="1.2" opacity=".5"/><circle cx="60" cy="46" r="6" stroke-width="1.3" opacity=".7"/><path d="M60 52 v14" stroke-width="1.1" stroke-dasharray="2 4" opacity=".55"/><rect x="24" y="52" width="72" height="54" stroke-width="1.3" opacity=".8"/><path d="M24 70 h72 M24 88 h72 M48 52 v54 M72 52 v54" stroke-width="1.1" opacity=".45"/><rect x="48" y="70" width="24" height="18" stroke-width="1.8"/><path d="M30 58 h12 M30 62 h9 M78 58 h12 M78 62 h7 M30 94 h12 M30 98 h8 M78 94 h11 M78 98 h6" stroke-width="1" opacity=".5"/></g></svg>',
+    excerpt: "Mattar comes to the house of Anaharesh in search of a single word; a word to end a war.",
+    note: "Mattar is a witch-mother and the mother of a conquering king, and she has spent years walking the roads of his empire collecting words — the sound arrows make falling on a shield, the thirteen names for what she is — because the gods she prays to demand absolute precision and will not act on a wish that is merely felt. To end her son's war she needs one word that has never been spoken. Marshall builds an entire cosmology around that premise: a dead soldier who has not been told he is dead and can therefore be walked along the ghost roads, a city that keeps its emperor in a palace on the back of a living tortoise, gods small enough to be killed and stitched under a man's skin to make him strong. It is mythic-dark in the register of a folktale that knows exactly what it is doing, and the quiet horror at its center is a prayer a young mother once made in a language she did not fully understand, using the word for strength that happened to be drenched in blood."
   }
 ];
