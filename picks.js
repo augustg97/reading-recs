@@ -1589,5 +1589,37 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M20 36 q40 -22 80 0" stroke-width="1.3" opacity=".5"/><path d="M20 36 v8 M100 36 v8" stroke-width="1.2" opacity=".5"/><circle cx="60" cy="46" r="6" stroke-width="1.3" opacity=".7"/><path d="M60 52 v14" stroke-width="1.1" stroke-dasharray="2 4" opacity=".55"/><rect x="24" y="52" width="72" height="54" stroke-width="1.3" opacity=".8"/><path d="M24 70 h72 M24 88 h72 M48 52 v54 M72 52 v54" stroke-width="1.1" opacity=".45"/><rect x="48" y="70" width="24" height="18" stroke-width="1.8"/><path d="M30 58 h12 M30 62 h9 M78 58 h12 M78 62 h7 M30 94 h12 M30 98 h8 M78 94 h11 M78 98 h6" stroke-width="1" opacity=".5"/></g></svg>',
     excerpt: "Mattar comes to the house of Anaharesh in search of a single word; a word to end a war.",
     note: "Mattar is a witch-mother and the mother of a conquering king, and she has spent years walking the roads of his empire collecting words — the sound arrows make falling on a shield, the thirteen names for what she is — because the gods she prays to demand absolute precision and will not act on a wish that is merely felt. To end her son's war she needs one word that has never been spoken. Marshall builds an entire cosmology around that premise: a dead soldier who has not been told he is dead and can therefore be walked along the ghost roads, a city that keeps its emperor in a palace on the back of a living tortoise, gods small enough to be killed and stitched under a man's skin to make him strong. It is mythic-dark in the register of a folktale that knows exactly what it is doing, and the quiet horror at its center is a prayer a young mother once made in a language she did not fully understand, using the word for strength that happened to be drenched in blood."
+  },
+  {
+    n: 100,
+    title: "Conscious exotica",
+    author: "Murray Shanahan",
+    venue: "Aeon",
+    year: 2016,
+    url: "https://aeon.co/essays/beyond-humans-what-other-kinds-of-minds-might-be-out-there",
+    mins: 42,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-09-11",
+    accent: "#0F8A7E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M20 100 H104" stroke-width="1.3"/><path d="M20 100 V16" stroke-width="1.3"/><path d="M104 100 l-6 -3.5 M104 100 l-6 3.5" stroke-width="1.1" opacity=".7"/><path d="M20 16 l-3.5 6 M20 16 l3.5 6" stroke-width="1.1" opacity=".7"/><path d="M26 92 q26 -4 40 -26 q14 -22 34 -30" stroke-width="1.1" stroke-dasharray="3 5" opacity=".45"/><circle cx="34" cy="86" r="4" stroke-width="1.2" opacity=".8"/><circle cx="53" cy="70" r="6.5" stroke-width="1.2" opacity=".7"/><circle cx="45" cy="45" r="3" stroke-width="1.2" opacity=".55"/><circle cx="72" cy="57" r="8.5" stroke-width="1.4"/><circle cx="90" cy="33" r="5" stroke-width="1.2" opacity=".65"/><circle cx="65" cy="27" r="2.5" stroke-width="1.1" opacity=".5"/><rect x="80" y="72" width="24" height="22" stroke-width="1.7"/><path d="M80 83 h24 M92 72 v22" stroke-width="1" opacity=".4"/></g></svg>',
+    excerpt: "In 1984, the philosopher Aaron Sloman invited scholars to describe ‘the space of possible minds’. Sloman’s phrase alludes to the fact that human minds, in all their variety, are not the only sorts of minds.",
+    note: "Sloman's 1984 invitation was to describe the space of possible minds, and Shanahan takes it literally: he draws the space as a map with two axes, human-likeness and capacity for consciousness, then populates it with octopuses, AlphaGo, a Roomba, uploaded mind children, and a zombie AGI that behaves impeccably with nobody home. The argument builds by pressure — Nagel's bat, Wittgenstein's line that his attitude towards another is an attitude towards a soul, the unreachable ocean of Solaris — until it arrives at a sealed white box that passes every test anyone knows how to set and still admits no verdict. Its sharpest move is what he calls the Garland Test, built from Alex Garland's own direction note about how Ava regards the man studying her in Ex Machina: the question is not whether a machine can pass for human, but whether knowing it is a machine changes what you owe it. Forty-two minutes of patient philosophy that never once loses its nerve or its strangeness."
+  },
+  {
+    n: 101,
+    title: "Why We Must Return to the Office to Use AI in Person",
+    author: "Jonathan Zeller",
+    venue: "McSweeney's Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    mins: 5,
+    kind: "humor",
+    lean: "j",
+    added: "2026-09-11",
+    accent: "#C9A227",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M12 20 H108" stroke-width="1.1" opacity=".45"/><circle cx="20" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="36" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="52" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="68" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="84" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="100" cy="20" r="4" stroke-width="1.2" opacity=".8"/><path d="M20 24 L60 48 M36 24 L60 48 M52 24 L60 48 M68 24 L60 48 M84 24 L60 48 M100 24 L60 48" stroke-width="1" opacity=".5"/><path d="M42 48 H78 L68 70 H52 Z" stroke-width="1.4"/><path d="M60 70 V78" stroke-width="1.3"/><path d="M60 80 l5 8 a5 5 0 0 1 -10 0 z" stroke-width="1.3"/><circle cx="60" cy="104" r="9" stroke-width="1.5"/><path d="M55 101 h3 M62 101 h3" stroke-width="1.2" opacity=".8"/><path d="M55 108 q5 3 10 0" stroke-width="1.2" opacity=".8"/></g></svg>',
+    excerpt: "When I awoke on RTO Day (officially “Remain to Office,” since management maintained that I’d misremembered and we’d always been in office six days a week), I was not as excited as I should have been.",
+    note: "A newly promoted Associate Slop Doula explains, in the grateful cadence of a hostage video, why the return-to-office mandate at Mondo Mayo was the right call — Mondo Mayo being a mayonnaise company that now also sells software and surveillance technology and is one of three corporations left on Earth. The joke keeps compounding: his job is clicking GENERATE and then APPROVE several thousand times a day, headquarters has been under construction for twenty years, the company's mortal rival swaps identity between all-hands meetings, and the Core Principles begin with \"Good things are better than bad things.\" Zeller holds the voice perfectly level while the mayonnaise starts coming out of the air vents, which is why the ending lands instead of merely escalating. Published this month and already reading like a memo someone will forward without irony."
   }
 ];
