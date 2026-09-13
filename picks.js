@@ -1621,5 +1621,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M12 20 H108" stroke-width="1.1" opacity=".45"/><circle cx="20" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="36" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="52" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="68" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="84" cy="20" r="4" stroke-width="1.2" opacity=".8"/><circle cx="100" cy="20" r="4" stroke-width="1.2" opacity=".8"/><path d="M20 24 L60 48 M36 24 L60 48 M52 24 L60 48 M68 24 L60 48 M84 24 L60 48 M100 24 L60 48" stroke-width="1" opacity=".5"/><path d="M42 48 H78 L68 70 H52 Z" stroke-width="1.4"/><path d="M60 70 V78" stroke-width="1.3"/><path d="M60 80 l5 8 a5 5 0 0 1 -10 0 z" stroke-width="1.3"/><circle cx="60" cy="104" r="9" stroke-width="1.5"/><path d="M55 101 h3 M62 101 h3" stroke-width="1.2" opacity=".8"/><path d="M55 108 q5 3 10 0" stroke-width="1.2" opacity=".8"/></g></svg>',
     excerpt: "When I awoke on RTO Day (officially “Remain to Office,” since management maintained that I’d misremembered and we’d always been in office six days a week), I was not as excited as I should have been.",
     note: "A newly promoted Associate Slop Doula explains, in the grateful cadence of a hostage video, why the return-to-office mandate at Mondo Mayo was the right call — Mondo Mayo being a mayonnaise company that now also sells software and surveillance technology and is one of three corporations left on Earth. The joke keeps compounding: his job is clicking GENERATE and then APPROVE several thousand times a day, headquarters has been under construction for twenty years, the company's mortal rival swaps identity between all-hands meetings, and the Core Principles begin with \"Good things are better than bad things.\" Zeller holds the voice perfectly level while the mayonnaise starts coming out of the air vents, which is why the ending lands instead of merely escalating. Published this month and already reading like a memo someone will forward without irony."
+  },
+  {
+    n: 102,
+    title: "The world of tomorrow",
+    author: "Virginia Postrel",
+    venue: "Works in Progress",
+    year: 2024,
+    url: "https://worksinprogress.co/issue/the-world-of-tomorrow/",
+    mins: 40,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-13",
+    accent: "#7FA1C3",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M10 98 H110" stroke-width="1.3"/><path d="M44 98 L52 24 L60 98 Z" stroke-width="1.6"/><circle cx="82" cy="78" r="18" stroke-width="1.6"/><path d="M64 78 H100" stroke-width="1" opacity=".4"/><path d="M82 60 V96" stroke-width="1" opacity=".4"/><circle cx="52" cy="18" r="2.6" stroke-width="1.3"/><path d="M54 22 q24 -6 42 6" stroke-width="1.1" stroke-dasharray="3 5" opacity=".55"/><path d="M50 22 q-22 4 -34 20" stroke-width="1.1" stroke-dasharray="3 5" opacity=".35"/><rect x="14" y="86" width="11" height="12" stroke-width="1.2" opacity=".55"/><rect x="29" y="90" width="9" height="8" stroke-width="1.2" opacity=".35"/></g></svg>',
+    excerpt: "Progress used to be glamorous. For the first two thirds of the twentieth-century, the terms modern, future, and world of tomorrow shimmered with promise.",
+    note: "For most of the twentieth century the future was not a forecast but a style — chrome, streamlined, backlit, and above all desirable. Postrel traces how that glamour was manufactured, through World's Fair pavilions and refrigerator advertisements and the promise that ordinary life would stop being drudgery, and why each marvel dissolved its own allure on arrival: a vacuum cleaner is easier than beating a rug, and still nobody finds vacuuming glamorous. The essay turns serious where the people selling tomorrow and the people who had to live in it stop wanting the same thing, and whole downtowns get cleared in the name of a future nobody had asked for. Ten thousand words of cultural history that double as an explanation for why today's forecasts, however rigorous their numbers, no longer shimmer."
+  },
+  {
+    n: 103,
+    title: "The Seventh Sally, or How Trurl's Own Perfection Led to No Good",
+    author: "Stanisław Lem",
+    venue: "The Cyberiad",
+    year: 1965,
+    url: "https://home.sandiego.edu/~baber/analytic/Lem1979.html",
+    mins: 15,
+    kind: "fiction",
+    lean: "b",
+    added: "2026-09-13",
+    accent: "#B03A2E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="20" y="60" width="74" height="42" stroke-width="1.7"/><path d="M20 70 H94" stroke-width="1.1" opacity=".5"/><path d="M20 60 L32 50 H106 L94 60" stroke-width="1.2" opacity=".6"/><path d="M94 102 L106 92 V50" stroke-width="1.2" opacity=".6"/><circle cx="60" cy="26" r="11" stroke-width="1.5"/><path d="M60 11 V4 M45 17 l-4 -4 M75 17 l4 -4" stroke-width="1.1" opacity=".45"/><path d="M54 23 h4 M62 23 h4" stroke-width="1.2" opacity=".8"/><path d="M54 32 h12" stroke-width="1.2" opacity=".8"/></g><g fill="var(--accent)" opacity=".7"><circle cx="31" cy="82" r="1.6"/><circle cx="41" cy="90" r="1.6"/><circle cx="51" cy="78" r="1.6"/><circle cx="57" cy="88" r="1.6"/><circle cx="66" cy="94" r="1.6"/><circle cx="72" cy="80" r="1.6"/><circle cx="83" cy="90" r="1.6"/><circle cx="87" cy="77" r="1.6"/></g></svg>',
+    excerpt: "The Universe is infinite but bounded, and therefore a beam of light, in whatever direction it may travel, will after billions of centuries return—if powerful enough—to the point of its departure…",
+    note: "A robot constructor finds a deposed tyrant marooned on an asteroid and, rather than loose him on real subjects again, builds him a civilization in a box: towns, armies, taxes, traitors, one messiah, one great poet, and control knobs for martial law and the death penalty. His friend Klapaucius takes one look and turns the fairy tale into a philosophy seminar — if the imitation is perfect, what is left to distinguish simulated suffering from the genuine article, and what exactly was created inside that box? Lem wrote it in 1965, long before anyone needed the question professionally, and Michael Kandel's English translation is a gleeful baroque invention in its own right. Fifteen minutes, one of the great closing images in science fiction, and an argument that has not aged a day."
+  },
+  {
+    n: 104,
+    title: "Pocosin",
+    author: "Ursula Vernon",
+    venue: "Apex Magazine",
+    year: 2015,
+    url: "https://www.apexbookcompany.com/blogs/apex-magazine/pocosin",
+    mins: 20,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-09-13",
+    accent: "#4A6B52",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="84" cy="30" r="14" stroke-width="1.2" opacity=".35"/><path d="M10 96 H110" stroke-width="1.3" opacity=".7"/><path d="M12 102 q14 -4 28 0 q14 4 28 0 q14 -4 28 0" stroke-width="1" opacity=".3"/><path d="M34 96 V58 q0 -10 8 -12 q8 2 8 12 V96" stroke-width="1.6"/><path d="M34 58 q8 6 16 0" stroke-width="1.2" opacity=".55"/><path d="M58 96 V68 q0 -8 6 -10 q6 2 6 10 V96" stroke-width="1.4" opacity=".8"/><path d="M76 96 V74 q0 -7 5 -8 q5 1 5 8 V96" stroke-width="1.3" opacity=".55"/><path d="M22 96 q-5 -22 4 -36" stroke-width="1.1" opacity=".5"/></g><g fill="var(--accent)" opacity=".8"><circle cx="27" cy="56" r="1.7"/><circle cx="25" cy="64" r="1.6"/><circle cx="23" cy="72" r="1.5"/><circle cx="23" cy="80" r="1.4"/></g></svg>',
+    excerpt: "This is the place of the carnivores, the pool ringed with sundews and the fat funnels of the pitcher plants.",
+    note: "A god turns up at a witch's door in a Carolina peat bog wearing the body of a possum, dying of snakebite, with God and the Devil both close behind him and each certain of his claim. Maggie Grey hears the two of them out and refuses them both, which is the whole argument: a short, exact fable about who has standing to judge a creature, and by whose rules, answered in the flattest and most practical voice imaginable. Vernon — who writes longer books as T. Kingfisher — is very funny right up to the moment she isn't, and she makes the swamp's carnivorous plants do real thematic labor. Five thousand words, and the figure who finally arrives to settle it is the best thing in the story."
   }
 ];
