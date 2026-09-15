@@ -1669,5 +1669,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="84" cy="30" r="14" stroke-width="1.2" opacity=".35"/><path d="M10 96 H110" stroke-width="1.3" opacity=".7"/><path d="M12 102 q14 -4 28 0 q14 4 28 0 q14 -4 28 0" stroke-width="1" opacity=".3"/><path d="M34 96 V58 q0 -10 8 -12 q8 2 8 12 V96" stroke-width="1.6"/><path d="M34 58 q8 6 16 0" stroke-width="1.2" opacity=".55"/><path d="M58 96 V68 q0 -8 6 -10 q6 2 6 10 V96" stroke-width="1.4" opacity=".8"/><path d="M76 96 V74 q0 -7 5 -8 q5 1 5 8 V96" stroke-width="1.3" opacity=".55"/><path d="M22 96 q-5 -22 4 -36" stroke-width="1.1" opacity=".5"/></g><g fill="var(--accent)" opacity=".8"><circle cx="27" cy="56" r="1.7"/><circle cx="25" cy="64" r="1.6"/><circle cx="23" cy="72" r="1.5"/><circle cx="23" cy="80" r="1.4"/></g></svg>',
     excerpt: "This is the place of the carnivores, the pool ringed with sundews and the fat funnels of the pitcher plants.",
     note: "A god turns up at a witch's door in a Carolina peat bog wearing the body of a possum, dying of snakebite, with God and the Devil both close behind him and each certain of his claim. Maggie Grey hears the two of them out and refuses them both, which is the whole argument: a short, exact fable about who has standing to judge a creature, and by whose rules, answered in the flattest and most practical voice imaginable. Vernon — who writes longer books as T. Kingfisher — is very funny right up to the moment she isn't, and she makes the swamp's carnivorous plants do real thematic labor. Five thousand words, and the figure who finally arrives to settle it is the best thing in the story."
+  },
+  {
+    n: 105,
+    title: "A Loaded Gun",
+    author: "Patrick Radden Keefe",
+    venue: "The New Yorker",
+    year: 2013,
+    url: "https://www.newyorker.com/magazine/2013/02/11/a-loaded-gun",
+    mins: 57,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-09-15",
+    accent: "#6B5B95",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="14" r="4" stroke-width="1.4"/><path d="M60 18 V26 M32 26 H88 M32 26 V34 M88 26 V34" stroke-width="1.1" opacity=".7"/><circle cx="32" cy="38" r="4" stroke-width="1.3"/><circle cx="88" cy="38" r="4" stroke-width="1.3"/><path d="M32 42 V50 M20 50 H44 M20 50 V56 M44 50 V56" stroke-width="1.1" stroke-dasharray="3 4" opacity=".5"/><circle cx="20" cy="60" r="3" stroke-width="1.2" opacity=".6"/><circle cx="44" cy="60" r="3" stroke-width="1.2" opacity=".6"/><path d="M88 42 V56" stroke-width="1.1" opacity=".5"/><circle cx="88" cy="60" r="3" stroke-width="1.2" opacity=".6"/><ellipse cx="60" cy="92" rx="36" ry="13" stroke-width="1.6"/><circle cx="30" cy="80" r="3.2" stroke-width="1.2" opacity=".75"/><circle cx="60" cy="76" r="3.2" stroke-width="1.2" opacity=".75"/><circle cx="90" cy="80" r="3.2" stroke-width="1.2" opacity=".75"/><circle cx="34" cy="106" r="3.2" stroke-width="1.2" stroke-dasharray="2 3" opacity=".5"/><circle cx="60" cy="108" r="3.2" stroke-width="1.2" stroke-dasharray="2 3" opacity=".5"/><circle cx="86" cy="106" r="3.2" stroke-width="1.2" stroke-dasharray="2 3" opacity=".5"/></g></svg>',
+    excerpt: "Amy Bishop, a neurobiologist at the University of Alabama in Huntsville, sat down at the conference table just moments before the faculty meeting began.",
+    note: "On a February afternoon in 2010 a neurobiologist sat through most of a routine faculty meeting in Huntsville, Alabama, then stood up and shot six colleagues, killing three. Within hours a police chief in Massachusetts was on the phone explaining that the same woman had shot her brother dead in 1986 and been released without charge. Keefe reconstructs the twenty-four years in between, and what emerges is less a portrait of a killer than an account of the long chain of deans, detectives, prosecutors and department chairs who each looked at the file, decided it belonged to somebody else, and handed it on. Institutional failure told at the resolution of individual decisions, in prose that never once raises its voice. Close to an hour, and the longest piece on this list."
+  },
+  {
+    n: 106,
+    title: "Bullshit Bots",
+    author: "Sohini Desai",
+    venue: "The Baffler",
+    year: 2026,
+    url: "https://thebaffler.com/latest/bullshit-bots-desai",
+    mins: 9,
+    kind: "essay",
+    lean: "b",
+    added: "2026-09-15",
+    accent: "#1FA8C9",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="12" y="18" width="96" height="58" rx="8" stroke-width="1.5"/><ellipse cx="60" cy="47" rx="30" ry="18" stroke-width="1.1" opacity=".35"/><ellipse cx="54" cy="50" rx="13" ry="9" stroke-width="1.3" stroke-dasharray="3 4" opacity=".8"/><path d="M66 46 l7 -3 l-1.5 6.5 z" stroke-width="1.3"/><circle cx="48" cy="45" r="2.2" stroke-width="1.1" opacity=".8"/><circle cx="57" cy="57" r="2.2" stroke-width="1.1" opacity=".8"/><circle cx="46" cy="55" r="2.2" stroke-width="1.1" opacity=".6"/><circle cx="60" cy="42" r="2.2" stroke-width="1.1" opacity=".6"/><path d="M14 92 h22 M14 100 h14 M14 108 h7" stroke-width="2.2" opacity=".85"/><path d="M58 110 H108" stroke-width="1.2" opacity=".45"/><path d="M68 104 V110 M80 96 V110 M92 88 V110 M104 84 V110" stroke-width="1.7" opacity=".7"/></g></svg>',
+    excerpt: "Is AI really coming for entry-level jobs first, and the rest of the workforce next? Tech CEOs certainly want you to think so.",
+    note: "The pitch for agentic AI is that an autonomous assistant will buy the concert tickets, message the friends and plan the anniversary trip; the price is administrative-level access to every part of a person's digital life. Desai takes the trade seriously enough to follow the money behind it — an industry that spent something like $560 billion to earn $35 billion, running short of the human-written text its models eat, hunting a return anywhere it can find one. The sharpest passage is Klarna, which replaced seven hundred customer service workers with an agent, quietly rehired humans when that failed, and kept the agent anyway, now as a reason to convert full-time jobs into gig work. The argument is that AI is less a job-stealer than a pretext, a story about inevitability told to justify decisions management already wanted to make. Nine minutes, and it rhymes exactly with Graeber."
+  },
+  {
+    n: 107,
+    title: "AI's Scale",
+    author: "Donald MacKenzie",
+    venue: "London Review of Books",
+    year: 2026,
+    url: "https://www.lrb.co.uk/the-paper/v48/n02/donald-mackenzie/ai-s-scale",
+    mins: 7,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-15",
+    accent: "#E2661F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 104 H110" stroke-width="1.3"/><path d="M14 104 V14" stroke-width="1.3"/><path d="M14 96 q26 -56 92 -66" stroke-width="1.8"/><path d="M40 104 V94 M62 104 V78 M84 104 V58 M106 104 V34" stroke-width="1" stroke-dasharray="2 4" opacity=".3"/><rect x="18" y="92" width="7" height="7" stroke-width="1.1" opacity=".8"/><rect x="32" y="84" width="12" height="15" stroke-width="1.2" opacity=".7"/><rect x="52" y="70" width="20" height="29" stroke-width="1.3" opacity=".6"/><rect x="80" y="52" width="30" height="47" stroke-width="1.4" opacity=".5"/><path d="M92 52 V34 q0 -4 4 -4 q4 0 4 4 V52" stroke-width="1.2" opacity=".7"/><path d="M96 28 q-4 -6 1 -10 q5 -4 1 -10" stroke-width="1.1" opacity=".55"/></g></svg>',
+    excerpt: "Hyperion is the name that Meta has chosen for a huge AI data centre it is building in Louisiana. In July, a striking image circulated on social media of Hyperion's footprint superimposed on an aerial view of Manhattan.",
+    note: "Meta's Louisiana data centre is called Hyperion, and Mark Zuckerberg was pleased enough with its footprint to post a picture of it laid over Manhattan, covering the island river to river. MacKenzie — a sociologist of technology rather than a technologist — treats that image as the end point of a short, exact history: how neural networks were the unfashionable bet, how a student won the 2012 ImageNet competition running his system on two gaming chips in his bedroom, and how a field that concluded scale was the whole answer has been multiplying its compute four or fivefold a year ever since. The essay turns on a single word in a Sam Altman blog post — \"log\" — and on what a logarithmic curve implies about what the next trillion dollars actually buys. Under two thousand words, and it ends at a gas plant in Pennsylvania built to draw slightly more power than the whole of Scotland does on a winter evening."
   }
 ];
