@@ -1717,5 +1717,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 104 H110" stroke-width="1.3"/><path d="M14 104 V14" stroke-width="1.3"/><path d="M14 96 q26 -56 92 -66" stroke-width="1.8"/><path d="M40 104 V94 M62 104 V78 M84 104 V58 M106 104 V34" stroke-width="1" stroke-dasharray="2 4" opacity=".3"/><rect x="18" y="92" width="7" height="7" stroke-width="1.1" opacity=".8"/><rect x="32" y="84" width="12" height="15" stroke-width="1.2" opacity=".7"/><rect x="52" y="70" width="20" height="29" stroke-width="1.3" opacity=".6"/><rect x="80" y="52" width="30" height="47" stroke-width="1.4" opacity=".5"/><path d="M92 52 V34 q0 -4 4 -4 q4 0 4 4 V52" stroke-width="1.2" opacity=".7"/><path d="M96 28 q-4 -6 1 -10 q5 -4 1 -10" stroke-width="1.1" opacity=".55"/></g></svg>',
     excerpt: "Hyperion is the name that Meta has chosen for a huge AI data centre it is building in Louisiana. In July, a striking image circulated on social media of Hyperion's footprint superimposed on an aerial view of Manhattan.",
     note: "Meta's Louisiana data centre is called Hyperion, and Mark Zuckerberg was pleased enough with its footprint to post a picture of it laid over Manhattan, covering the island river to river. MacKenzie — a sociologist of technology rather than a technologist — treats that image as the end point of a short, exact history: how neural networks were the unfashionable bet, how a student won the 2012 ImageNet competition running his system on two gaming chips in his bedroom, and how a field that concluded scale was the whole answer has been multiplying its compute four or fivefold a year ever since. The essay turns on a single word in a Sam Altman blog post — \"log\" — and on what a logarithmic curve implies about what the next trillion dollars actually buys. Under two thousand words, and it ends at a gas plant in Pennsylvania built to draw slightly more power than the whole of Scotland does on a winter evening."
+  },
+  {
+    n: 108,
+    title: "A Note from Your Editor Regarding the Entirely Routine Authentication of Your Humanity",
+    author: "Seema Yasmin",
+    venue: "McSweeney's Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/a-note-from-your-editor-regarding-the-entirely-routine-authentication-of-your-humanity",
+    mins: 2,
+    kind: "humor",
+    lean: "b",
+    added: "2026-09-17",
+    accent: "#B5316B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M10 30 V10 H30 M90 10 H110 V30 M110 90 V110 H90 M30 110 H10 V90" stroke-width="1.5" opacity=".45"/><path d="M32 22 H78 l10 10 V94 H32 Z" stroke-width="1.5"/><path d="M78 22 V32 H88" stroke-width="1.2" opacity=".7"/><path d="M40 44 h36 M40 52 h36 M40 60 h22" stroke-width="1.3" opacity=".5"/><rect x="40" y="72" width="9" height="9" stroke-width="1.3"/><rect x="55" y="72" width="9" height="9" stroke-width="1.3" opacity=".8"/><rect x="70" y="72" width="9" height="9" stroke-width="1.3" opacity=".6"/><path d="M42 77 l2.5 3 l4.5 -6" stroke-width="1.4"/><path d="M57 74 l5 5 M62 74 l-5 5" stroke-width="1.4" opacity=".8"/><path d="M72.5 76.5 q2 -3 4 0 q0 2 -2 3" stroke-width="1.3" opacity=".7"/></g></svg>',
+    excerpt: "Thank you for submitting your manuscript. Before we proceed, we require confirmation that it was written by you, a person, rather than a technology trained on books written by you without your knowledge or consent.",
+    note: "A book editor writes to an author with one small procedural request: proof that a human wrote the manuscript. What follows is a form letter that eats itself — the detector returns 79 percent human when the text is pasted, 33 percent as a Word file, 7 percent as a PDF; passages are flagged for being too predictable and, elsewhere, for being too original; the sentence \"She returned home\" scores 92.23 percent machine-generated. The editor goes on to request sixteen months of browser history, the author's childhood diaries, and a statement from the obstetrician present at their birth, then explains, gently, that white writers who admit to using AI are interrogating the human-machine interface while this particular denial constitutes fraud. Five hundred words of bureaucratic passive aggression played entirely straight, with a one-line italic kicker at the bottom that does the rest of the work."
+  },
+  {
+    n: 109,
+    title: "The Glow-in-the-Dark Girls",
+    author: "Senaa Ahmad",
+    venue: "Strange Horizons",
+    year: 2018,
+    url: "https://strangehorizons.com/wordpress/fiction/the-glow-in-the-dark-girls/",
+    mins: 17,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-09-17",
+    accent: "#8CC63F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 104 H106" stroke-width="1.2" opacity=".5"/><circle cx="52" cy="72" r="18" stroke-width="1.1" opacity=".5"/><circle cx="52" cy="72" r="30" stroke-width="1" opacity=".3"/><circle cx="52" cy="72" r="42" stroke-width="0.9" opacity=".18"/><circle cx="26" cy="62" r="5" stroke-width="1.4"/><path d="M26 67 V96 M18 76 l8 -5 l8 5 M20 104 l6 -8 l6 8" stroke-width="1.4"/><circle cx="52" cy="62" r="5" stroke-width="1.5"/><path d="M52 67 V96 M44 76 l8 -5 l8 5 M46 104 l6 -8 l6 8" stroke-width="1.5"/><circle cx="78" cy="62" r="5" stroke-width="1.3" stroke-dasharray="2.5 3"/><path d="M78 67 V96 M70 76 l8 -5 l8 5 M72 104 l6 -8 l6 8" stroke-width="1.3" stroke-dasharray="2.5 3"/><circle cx="98" cy="70" r="1.6" stroke-width="1" opacity=".7"/><circle cx="104" cy="84" r="1.6" stroke-width="1" opacity=".5"/><circle cx="94" cy="92" r="1.6" stroke-width="1" opacity=".38"/><circle cx="103" cy="56" r="1.6" stroke-width="1" opacity=".55"/></g></svg>',
+    excerpt: "At twenty-two, we are crones, becoming dust, tasting bitter. We watch Moscow burn on the lounge TV.",
+    note: "The narrators speak as one, always \"we\" — girls recruited as teenagers out of poor, war-adjacent neighborhoods and chemically remade into something that ignites on contact, then sent abroad to walk into crowds. By the time the story opens they are twenty-two and decommissioned, parked in a dormitory watching Moscow burn on a lounge television while the first of them dies of radiation cancer in slow, unflinching detail. Ahmad writes it as domestic life pressed flat against atrocity: a grandmother's recipe book read aloud in the bunkroom, setting each other alight as a gesture of affection, a press cycle that converts poor young girls into the dragons under the bed. It is a Sunburst winner and one of the few short stories that makes being a weapon feel like having a job — and the radium girls the title invokes are not a metaphor the story lets anyone off easy about."
+  },
+  {
+    n: 110,
+    title: "Beware the Permanent Periphery",
+    author: "Anton Leicht",
+    venue: "Asterisk",
+    year: 2026,
+    url: "https://asteriskmag.com/issues/15/beware-the-permanent-periphery",
+    mins: 19,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-17",
+    accent: "#34497E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="46" cy="56" r="7" stroke-width="2"/><circle cx="46" cy="56" r="18" stroke-width="1.4" opacity=".8"/><circle cx="46" cy="56" r="30" stroke-width="1.2" opacity=".55" stroke-dasharray="5 4"/><circle cx="46" cy="56" r="42" stroke-width="1" opacity=".3" stroke-dasharray="3 5"/><path d="M46 56 L92 94" stroke-width="1.2" stroke-dasharray="3 3" opacity=".75"/><circle cx="92" cy="94" r="3.4" stroke-width="1.4"/><circle cx="104" cy="66" r="2.4" stroke-width="1.1" opacity=".6"/><circle cx="96" cy="26" r="2.4" stroke-width="1.1" opacity=".5"/><circle cx="110" cy="44" r="2" stroke-width="1" opacity=".4"/><circle cx="76" cy="110" r="2.4" stroke-width="1.1" opacity=".45"/><circle cx="30" cy="112" r="2" stroke-width="1" opacity=".35"/><circle cx="8" cy="98" r="2" stroke-width="1" opacity=".3"/><circle cx="106" cy="104" r="2" stroke-width="1" opacity=".35"/></g></svg>',
+    excerpt: "Most countries will never have frontier AI. They're the ones who should be worrying.",
+    note: "The essay opens by redrawing the map of who should actually be afraid of AI. Anxiety runs hottest where the technology is built and cools with distance, which Leicht argues is exactly backwards: lab employees and American workers have domestic backstops, while the roughly 193 countries with no frontier developer of their own have none at all. The trap he identifies is the seductive response — AI sovereignty, buy-domestic procurement mandates, a national champion — which worked for the Asian Tigers only because catch-up growth made protectionism survivable, and will not work for middle powers now. His alternative is unsentimental and specific: trade datacenter sites, power and political tolerance for guaranteed frontier access, adopt Danish-style flexicurity at home, and hold whatever bottleneck you happen to own, whether that is Dutch lithography or Korean memory."
   }
 ];
