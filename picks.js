@@ -1765,5 +1765,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="46" cy="56" r="7" stroke-width="2"/><circle cx="46" cy="56" r="18" stroke-width="1.4" opacity=".8"/><circle cx="46" cy="56" r="30" stroke-width="1.2" opacity=".55" stroke-dasharray="5 4"/><circle cx="46" cy="56" r="42" stroke-width="1" opacity=".3" stroke-dasharray="3 5"/><path d="M46 56 L92 94" stroke-width="1.2" stroke-dasharray="3 3" opacity=".75"/><circle cx="92" cy="94" r="3.4" stroke-width="1.4"/><circle cx="104" cy="66" r="2.4" stroke-width="1.1" opacity=".6"/><circle cx="96" cy="26" r="2.4" stroke-width="1.1" opacity=".5"/><circle cx="110" cy="44" r="2" stroke-width="1" opacity=".4"/><circle cx="76" cy="110" r="2.4" stroke-width="1.1" opacity=".45"/><circle cx="30" cy="112" r="2" stroke-width="1" opacity=".35"/><circle cx="8" cy="98" r="2" stroke-width="1" opacity=".3"/><circle cx="106" cy="104" r="2" stroke-width="1" opacity=".35"/></g></svg>',
     excerpt: "Most countries will never have frontier AI. They're the ones who should be worrying.",
     note: "The essay opens by redrawing the map of who should actually be afraid of AI. Anxiety runs hottest where the technology is built and cools with distance, which Leicht argues is exactly backwards: lab employees and American workers have domestic backstops, while the roughly 193 countries with no frontier developer of their own have none at all. The trap he identifies is the seductive response — AI sovereignty, buy-domestic procurement mandates, a national champion — which worked for the Asian Tigers only because catch-up growth made protectionism survivable, and will not work for middle powers now. His alternative is unsentimental and specific: trade datacenter sites, power and political tolerance for guaranteed frontier access, adopt Danish-style flexicurity at home, and hold whatever bottleneck you happen to own, whether that is Dutch lithography or Korean memory."
+  },
+  {
+    n: 111,
+    title: "Seeing and somethingness",
+    author: "Nicholas Humphrey",
+    venue: "Aeon",
+    year: 2022,
+    url: "https://aeon.co/essays/how-blindsight-answers-the-hard-problem-of-consciousness",
+    mins: 19,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-09-19",
+    accent: "#C62828",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M20 38 q40 -27 80 0 q-40 27 -80 0Z" stroke-width="1.6"/><circle cx="60" cy="38" r="11" stroke-width="1.5"/><circle cx="60" cy="38" r="3.5" stroke-width="2"/><path d="M12 24 l9 6 M10 38 h10 M12 52 l9 -6" stroke-width="1.2" stroke-dasharray="2.5 3" opacity=".45"/><path d="M108 24 l-9 6 M110 38 h-10 M108 52 l-9 -6" stroke-width="1.3" opacity=".85"/><path d="M60 49 V62" stroke-width="1.2" opacity=".7"/><path d="M78 84 a18 18 0 1 1 -13 -17" stroke-width="1.5"/><path d="M65 67 l-1.5 6.5 M65 67 l6.5 1.5" stroke-width="1.4"/><circle cx="60" cy="84" r="10" stroke-width="1.2" opacity=".6"/><circle cx="60" cy="84" r="4" stroke-width="1.4" opacity=".4"/><circle cx="60" cy="84" r="27" stroke-width="1" stroke-dasharray="3 5" opacity=".28"/></g></svg>',
+    excerpt: "The cover of New Scientist magazine 50 years ago showed a picture of a rhesus monkey, with the headline ‘A Blind Monkey That Sees Everything’.",
+    note: "Fifty years ago a rhesus monkey named Helen, her primary visual cortex surgically removed, learned to run an obstacle course and pick peanuts off the floor while remaining, by every clinical account, blind. Humphrey was the graduate student who coaxed her into it, and this essay is the theory he spent the next five decades building on that afternoon: that the real puzzle is not the missing sensation in blindsight but the mysterious extra something present in ordinary sight — the redness of red, the paininess of pain. His answer is evolutionary and unusually concrete, tracing a path from an amoeba that wriggles redly at a patch of light, to a brain feeding copies of its own responses back on themselves until the loop thickens into a moment you can live inside and a self appears inside it. Then he follows the argument where it leads, which is somewhere uncomfortable: sentience is a recent invention, most animals lack both the brain and the use for it, octopuses almost certainly do not have it — and a machine built the same way might."
+  },
+  {
+    n: 112,
+    title: "The Life and Times of an American Tween",
+    author: "Anna Wiener",
+    venue: "The New Yorker",
+    year: 2026,
+    url: "https://www.newyorker.com/magazine/2026/05/11/the-life-and-times-of-an-american-tween",
+    mins: 31,
+    kind: "profile",
+    lean: "j",
+    added: "2026-09-19",
+    accent: "#00A896",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 20 H106" stroke-width="1.2" opacity=".45"/><path d="M30 20 v11" stroke-width="1" opacity=".65"/><circle cx="30" cy="35" r="4" stroke-width="1.3"/><path d="M48 20 v15" stroke-width="1" opacity=".65"/><rect x="44" y="35" width="8" height="8" stroke-width="1.3" opacity=".85"/><path d="M66 20 v9" stroke-width="1" opacity=".65"/><path d="M66 29 l5.5 6.5 -5.5 6.5 -5.5 -6.5Z" stroke-width="1.3" opacity=".7"/><path d="M84 20 v13" stroke-width="1" opacity=".65"/><path d="M84 41 c-9 -6 -5 -12 0 -7 c5 -5 9 1 0 7Z" stroke-width="1.3" opacity=".6"/><path d="M22 58 V102 M98 58 V102" stroke-width="1.5"/><path d="M20 60 H100" stroke-width="2.2"/><path d="M28 94 q32 -34 64 -10" stroke-width="1.2" stroke-dasharray="3.5 4" opacity=".55"/><circle cx="60" cy="78" r="5" stroke-width="1.6"/><path d="M14 108 q11 -5 22 0 t22 0 t22 0 t22 0" stroke-width="1.2" opacity=".5"/></g></svg>',
+    excerpt: "Every Wednesday, at exactly 2:15 P.M., the electronic bell at San Francisco’s A. P. Giannini Middle School sounds with a dull, droning buzz, and hundreds of students stream from the building.",
+    note: "Wiener spends a school year in San Francisco's Outer Sunset with Mira, a twelve-year-old at A. P. Giannini Middle School, and comes back with a portrait of an age rather than a person — though Mira is emphatically a person, tracking a twelve-dollar allowance in Excel, sinking fifty-nine dollars into a kit to launch a gel-manicure business, training on the aerial hoop, wearing an Apple Watch because a watch is a bridge from childhood to adulthood while a phone would be a portal. The reporting is close enough to catch the texture of the thing: backpacks dripping with charms, hydrocolloid stickers on interloping zits, magenta Starbucks drinks nobody should be able to finish, a Shein order that turns into a conversation about Xinjiang, a boy asking whether you're straight by proxy across a playground. Erikson and Neil Postman get their turn on the collapsing boundary between childhood and adulthood, but the essay's real argument is quieter and built entirely out of observation — the world these kids are inheriting is visibly cracked, and being twelve is still, somehow, mostly great. It ends at the spring dance, under the limbo bar, which is the right image and the writer knows it."
+  },
+  {
+    n: 113,
+    title: "Human(oid) Potential",
+    author: "James Vincent & Matthew Sherrill",
+    venue: "Harper's Magazine",
+    year: 2025,
+    url: "https://harpers.org/2025/12/general-interest-humanoid-potential-james-vincent-matthew-sherrill/",
+    mins: 9,
+    kind: "interview",
+    lean: "a",
+    added: "2026-09-19",
+    accent: "#C9A227",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="12" y="16" width="80" height="60" rx="4" stroke-width="1.5"/><path d="M12 28 H92" stroke-width="1.1" opacity=".5"/><circle cx="19" cy="22" r="1.8" stroke-width="1.1" opacity=".7"/><circle cx="26" cy="22" r="1.8" stroke-width="1.1" opacity=".5"/><circle cx="52" cy="52" r="19" stroke-width="1.1" stroke-dasharray="4 4" opacity=".45"/><circle cx="52" cy="37" r="4" stroke-width="1.5"/><path d="M52 41 v12 M43 45 l9 -3 9 3 M45 62 l7 -9 7 9" stroke-width="1.5"/><path d="M69 48 l4.5 4 -4.5 4" stroke-width="1.3" opacity=".8"/><path d="M56 90 a15 9 0 0 0 30 0" stroke-width="1.6"/><path d="M56 90 h30" stroke-width="1.3" opacity=".65"/><path d="M86 90 h18" stroke-width="1.6"/><ellipse cx="71" cy="93" rx="6.5" ry="3.2" stroke-width="1.3" opacity=".85"/><circle cx="71" cy="93" r="1.8" stroke-width="1.3" opacity=".55"/><path d="M14 88 h26 M14 98 h18 M14 108 h30" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "Every few weeks, it seems, a certain type of video will make the rounds on the internet.",
+    note: "A short, sharp exchange between a Harper's editor and the writer who spent months trying to get robotics companies to let him stand near their humanoids, mostly without success. Vincent's account of why is the useful part: the secrecy is less about trade secrets than narrative control, and a firm confident in its machine does not need to hand-pick which reporters watch it walk. The line that sticks is his description of the capability curve as jagged — you can build a robot that backflips like Simone Biles and still cannot get it to flip an egg — closely followed by the moment he shoves an Apptronik humanoid as hard as he can, it simply stays upright, and he finds himself feeling what he felt the first time he saw a gorilla. He lands somewhere more interesting than either boosterism or debunking: what frightens him is not a robot uprising but the people who will own the robots, and the leverage labor loses on the day the machines finally work."
   }
 ];
