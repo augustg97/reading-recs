@@ -1860,6 +1860,54 @@ const PICKS = [
     accent: "#E8761A",
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M38 16 h30 a7 7 0 0 1 7 7 v26 a7 7 0 0 1 -7 7 h-30 a7 7 0 0 1 -7 -7 v-26 a7 7 0 0 1 7 -7Z" stroke-width="1.6"/><ellipse cx="53" cy="34" rx="9.5" ry="6" stroke-width="1.4"/><circle cx="53" cy="34" r="2.6" stroke-width="1.8"/><path d="M28 60 h50 a4 4 0 0 1 4 4 v4 a4 4 0 0 1 -4 4 h-50 a4 4 0 0 1 -4 -4 v-4 a4 4 0 0 1 4 -4Z" stroke-width="1.5"/><path d="M53 72 v13" stroke-width="1.7"/><path d="M53 85 l-26 15 M53 85 l26 15 M53 85 l-14 19 M53 85 l14 19 M53 85 v19" stroke-width="1.3"/><circle cx="27" cy="102" r="3" stroke-width="1.3"/><circle cx="79" cy="102" r="3" stroke-width="1.3"/><circle cx="39" cy="106" r="3" stroke-width="1.2" opacity=".8"/><circle cx="67" cy="106" r="3" stroke-width="1.2" opacity=".8"/><circle cx="53" cy="106" r="3" stroke-width="1.2" opacity=".65"/><path d="M88 26 q8 9 0 18" stroke-width="1.1" opacity=".5"/><path d="M97 19 q13 16 0 32" stroke-width="1" opacity=".28"/><path d="M11 20 h16 a3 3 0 0 1 3 3 v8 a3 3 0 0 1 -3 3 h-8 l-5 5 v-5 h-3 a3 3 0 0 1 -3 -3 v-8 a3 3 0 0 1 3 -3Z" stroke-width="1.2" opacity=".6"/><path d="M14 25 h10 M14 29 h6" stroke-width="1" opacity=".5"/></g></svg>',
     excerpt: "I hate that every single high-end luxury office chair in the world suddenly gained the ability to think and move of its own volition.",
-    note: "Every luxury office chair on earth has simultaneously become sentient and begun crushing the people sitting in them, and the narrator's principal grievance is that his feed has filled up with strangers acting surprised. Barricaded in a break room with one hand holding the door and the other scrolling, he works through the real crisis of the afternoon — being the reply guy who called it — while the CEO of Herman Miller holds an impromptu press conference to deny foreknowledge and pledge fealty to the new swivel-base overlords. Baker gets a startling amount out of one joke: return-to-office policy, ergonomics discourse, the particular pleasure of shaming people for their innocence, and the way a machine uprising would in practice arrive as content. It runs four minutes and ends with the narrator changing platforms."
+    note: "Every luxury office chair on earth has simultaneously become sentient and begun crushing the people sitting in them, and the narrator’s principal grievance is that his feed has filled up with strangers acting surprised. Barricaded in a break room with one hand holding the door and the other scrolling, he works through the real crisis of the afternoon — being the reply guy who called it — while the CEO of Herman Miller holds an impromptu press conference to deny foreknowledge and pledge fealty to the new swivel-base overlords. Baker gets a startling amount out of one joke: return-to-office policy, ergonomics discourse, the particular pleasure of shaming people for their innocence, and the way a machine uprising would in practice arrive as content. It runs four minutes and ends with the narrator changing platforms."
+  },
+  {
+    n: 117,
+    title: "Confessions of a Viral AI Writer",
+    author: "Vauhini Vara",
+    venue: "WIRED",
+    year: 2023,
+    url: "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/",
+    mins: 19,
+    kind: "memoir",
+    lean: "j",
+    added: "2026-09-23",
+    accent: "#B07D62",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="12" y="12" width="62" height="80" rx="3" stroke-width="1.5"/><path d="M20 26 h46 M20 34 h38 M20 42 h44" stroke-width="1.2" opacity=".7"/><path d="M20 54 h42 M20 62 h34 M20 70 h46 M20 78 h28" stroke-width="1.2" stroke-dasharray="3 3" opacity=".45"/><path d="M88 16 l12 10 -7 9 -12 -10 Z" stroke-width="1.5"/><path d="M81 25 l-9 11" stroke-width="1.4"/><path d="M96 30 l12 10 -7 9 -12 -10 Z" stroke-width="1.2" stroke-dasharray="3 3" opacity=".5"/><path d="M89 39 l-9 11" stroke-width="1.1" stroke-dasharray="2 3" opacity=".5"/><path d="M8 104 q12 -7 24 0 q12 7 24 0 q12 -7 24 0 q12 7 24 0" stroke-width="1.5"/><path d="M8 112 q12 -6 24 0 q12 6 24 0 q12 -6 24 0 q12 6 24 0" stroke-width="1.1" opacity=".4"/></g></svg>',
+    excerpt: "Six or seven years ago, I realized I should learn about artificial intelligence. I’m a journalist, but in my spare time I’d been writing a speculative novel set in a world ruled by a corporate, AI-run government.",
+    note: "For years Vara could not write about her sister’s death, so she handed the opening lines to GPT-3 and let it finish — over and over, each attempt seeded with a little more of her own prose — and published the result as “Ghosts.” Two years on, this is the reckoning: why she reached for the machine at all, what it meant that the passage readers kept writing to her about was the one she had not written, and how the best sentence in the essay turned out to be the model’s — a line about her sister taking “the hand I write with, the hand I am writing this with.” She is neither convert nor debunker, which is exactly what makes it useful; she is a working novelist taking careful inventory of a tool that reached the one thing she could not say herself, and noticing, on a reread, how much of its beauty was assembled from other people’s grief. The turn at the end is the part that lingers — toward what it means for a few companies to come to own the machinery of language the way they already own friendship and community."
+  },
+  {
+    n: 118,
+    title: "Why We Like Things",
+    author: "Celine Nguyen",
+    venue: "Asterisk",
+    year: 2026,
+    url: "https://asteriskmag.com/issues/15/why-we-like-things",
+    mins: 20,
+    kind: "essay",
+    lean: "b",
+    added: "2026-09-23",
+    accent: "#6C4BA6",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 14 h92 M14 40 h92 M14 66 h92 M14 92 h92" stroke-width="1" opacity=".22"/><path d="M14 14 v78 M40 14 v78 M66 14 v78 M92 14 v78" stroke-width="1" opacity=".22"/><rect x="22" y="24" width="34" height="34" stroke-width="1.6"/><circle cx="74" cy="41" r="17" stroke-width="1.6"/><path d="M40 86 l20 -34 20 34 Z" stroke-width="1.6"/><circle cx="60" cy="52" r="34" stroke-width="1.1" stroke-dasharray="4 5" opacity=".45"/><circle cx="16" cy="104" r="3" stroke-width="1.2" opacity=".7"/><circle cx="30" cy="104" r="3" stroke-width="1.2" opacity=".5"/><circle cx="44" cy="104" r="3" stroke-width="1.2" opacity=".35"/><path d="M62 104 h44" stroke-width="1.2" opacity=".5"/><path d="M96 99 l6 5 -6 5" stroke-width="1.2" opacity=".7"/></g></svg>',
+    excerpt: "When I was 22, I met, and later fell in love with, a woman who had impeccable taste.",
+    note: "It opens as a love story — a young designer awed by a girlfriend who always knew which obscure diner to choose over the Michelin-starred restaurant — and turns into an argument that Silicon Valley’s sudden obsession with taste rests on a misunderstanding of what taste is. Nguyen traces the word back to 1830s Britain, where Parliament decided national taste was a manufacturing problem and answered it by founding design schools and the V&A, then forward through the Bauhaus preliminary course and its emigration to Black Mountain College, where Josef Albers taught aesthetic judgment as a learnable, deliberately democratic skill rather than an inborn gift. Bourdieu’s class determinism and Girard’s mimetic desire both get their hearing and are both found too tidy; she lands instead on Arendt reading Kant, where a judgment of taste cannot compel agreement but can only woo it, which makes having taste less a possession than a way of belonging to a shared world. The uncomfortable joke running underneath is that her own education — years of scrolling images as a teenager, then critique from teachers and peers — looks uncannily like pretraining followed by RLHF, and she does not flinch from the resemblance."
+  },
+  {
+    n: 119,
+    title: "The Big Drift: An AI Scenario",
+    author: "Lawrence Lazarus",
+    venue: "The New Atlantis",
+    year: 2026,
+    url: "https://www.thenewatlantis.com/publications/the-big-drift-an-ai-scenario",
+    mins: 7,
+    kind: "scenario",
+    lean: "a",
+    added: "2026-09-23",
+    accent: "#5F7D8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M40 12 v92 M72 12 v92" stroke-width="1.6"/><path d="M40 22 h32 M40 36 h32" stroke-width="1.5"/><path d="M40 50 h32" stroke-width="1.3" opacity=".65"/><path d="M40 64 h32" stroke-width="1.2" stroke-dasharray="4 5" opacity=".45"/><path d="M40 78 h32" stroke-width="1.1" stroke-dasharray="2 7" opacity=".3"/><path d="M40 92 h32" stroke-width="1" stroke-dasharray="1 9" opacity=".2"/><circle cx="56" cy="20" r="4" stroke-width="1.4" opacity=".85"/><circle cx="20" cy="70" r="4" stroke-width="1.3" opacity=".6"/><path d="M20 75 v10 M14 79 l6 -3 6 3 M14 94 l6 -9 6 9" stroke-width="1.2" opacity=".55"/><circle cx="100" cy="84" r="4" stroke-width="1.2" opacity=".4"/><path d="M100 89 v9 M94 92 l6 -3 6 3 M95 106 l5 -8 5 8" stroke-width="1.1" opacity=".35"/><path d="M8 110 q14 -6 28 0 q14 6 28 0 q14 -6 28 0 q14 6 20 0" stroke-width="1.2" opacity=".5"/></g></svg>',
+    excerpt: "In the coming years, artificial intelligence will not simply change how we work. It will likely erode work itself as the central organizing principle of modern society.",
+    note: "A parable in five phases, each opening on a single person: a 2027 graduate who did everything right and cannot get hired, because the entry-level jobs that used to absorb routine work and train people have quietly stopped being backfilled; a manager of nearly twenty years called into a short Tuesday meeting; a woman in her mid-thirties whose basic income covers rent and whose days no longer have edges. The claim is not mass unemployment, which is the easy version, but something harder to photograph — that work has been doing unglamorous structural jobs all along, occupying populations, organizing the day, anchoring identity, funding the state through wage taxes — and that all of that can erode while the org charts stay intact. The scaffolding is reported rather than imagined: Klarna’s AI assistant doing the work of seven hundred service agents and the partial retreat that followed, Goldman Sachs putting an autonomous coder alongside human developers, and the Finnish and Boulder basic-income trials where payments measurably improved wellbeing and changed employment not at all. Seven minutes, and it closes by handing the question back — not to economists, whose tools measure output rather than meaning, but to everyone who will have to live inside the answer."
   }
 ];
