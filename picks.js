@@ -1909,5 +1909,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M40 12 v92 M72 12 v92" stroke-width="1.6"/><path d="M40 22 h32 M40 36 h32" stroke-width="1.5"/><path d="M40 50 h32" stroke-width="1.3" opacity=".65"/><path d="M40 64 h32" stroke-width="1.2" stroke-dasharray="4 5" opacity=".45"/><path d="M40 78 h32" stroke-width="1.1" stroke-dasharray="2 7" opacity=".3"/><path d="M40 92 h32" stroke-width="1" stroke-dasharray="1 9" opacity=".2"/><circle cx="56" cy="20" r="4" stroke-width="1.4" opacity=".85"/><circle cx="20" cy="70" r="4" stroke-width="1.3" opacity=".6"/><path d="M20 75 v10 M14 79 l6 -3 6 3 M14 94 l6 -9 6 9" stroke-width="1.2" opacity=".55"/><circle cx="100" cy="84" r="4" stroke-width="1.2" opacity=".4"/><path d="M100 89 v9 M94 92 l6 -3 6 3 M95 106 l5 -8 5 8" stroke-width="1.1" opacity=".35"/><path d="M8 110 q14 -6 28 0 q14 6 28 0 q14 -6 28 0 q14 6 20 0" stroke-width="1.2" opacity=".5"/></g></svg>',
     excerpt: "In the coming years, artificial intelligence will not simply change how we work. It will likely erode work itself as the central organizing principle of modern society.",
     note: "A parable in five phases, each opening on a single person: a 2027 graduate who did everything right and cannot get hired, because the entry-level jobs that used to absorb routine work and train people have quietly stopped being backfilled; a manager of nearly twenty years called into a short Tuesday meeting; a woman in her mid-thirties whose basic income covers rent and whose days no longer have edges. The claim is not mass unemployment, which is the easy version, but something harder to photograph — that work has been doing unglamorous structural jobs all along, occupying populations, organizing the day, anchoring identity, funding the state through wage taxes — and that all of that can erode while the org charts stay intact. The scaffolding is reported rather than imagined: Klarna’s AI assistant doing the work of seven hundred service agents and the partial retreat that followed, Goldman Sachs putting an autonomous coder alongside human developers, and the Finnish and Boulder basic-income trials where payments measurably improved wellbeing and changed employment not at all. Seven minutes, and it closes by handing the question back — not to economists, whose tools measure output rather than meaning, but to everyone who will have to live inside the answer."
+  },
+  {
+    n: 120,
+    title: "Our Talons Can Crush Galaxies",
+    author: "Brooke Bolander",
+    venue: "Uncanny Magazine",
+    year: 2016,
+    url: "https://www.uncannymagazine.com/article/talons-can-crush-galaxies/",
+    mins: 5,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-09-25",
+    accent: "#B5122E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="68" cy="64" r="27" stroke-width="1.1" opacity=".3"/><circle cx="68" cy="64" r="17" stroke-width="1.1" opacity=".5"/><circle cx="68" cy="64" r="7" stroke-width="1.6"/><path d="M68 37 a27 27 0 0 1 25 19" stroke-width="1.6"/><path d="M68 91 a27 27 0 0 1 -25 -19" stroke-width="1.6"/><path d="M12 12 q26 14 34 40" stroke-width="1.8"/><path d="M26 8 q22 20 24 44" stroke-width="1.5" opacity=".8"/><path d="M42 6 q14 24 11 46" stroke-width="1.3" opacity=".6"/><path d="M46 52 l-9 5 M50 54 l-7 8 M53 51 l-3 10" stroke-width="1.2" opacity=".7"/><path d="M10 92 l20 -11 M10 100 l28 -15 M14 108 l30 -16" stroke-width="1.2" opacity=".4"/><circle cx="104" cy="20" r="2" stroke-width="1.2" opacity=".6"/><circle cx="94" cy="32" r="1.5" stroke-width="1.1" opacity=".45"/><circle cx="112" cy="38" r="1.5" stroke-width="1.1" opacity=".3"/><path d="M90 96 l12 12 M102 96 l-12 12" stroke-width="1.2" opacity=".45"/></g></svg>',
+    excerpt: "This is not the story of how he killed me, thank fuck.",
+    note: "A woman who has been murdered declines, in her first breath, to tell the story of her murder — and then tells a different one. Over thirteen hundred words it emerges that she is one of four raptor-sisters, something older than the lion-brides of Babylon, playing at mortality this century because she likes cigarettes and shawarma and the fact that nobody judges you for sitting down with a book. Her sisters incubate her back into being, she hatches anew, and the four of them come for her killer in a 1967 Mercury Cougar with a great deal of folded wingspan in the back seat — and what happens inside the house is pointedly not described, because the whole piece is an argument about which stories get told and which victims get flattened into narrative rungs for villains to climb. Bolander writes profane and cosmic in the same sentence, and the close, a promise to sing this story from the last withered tree on the last star-blasted planet after everything else has gone dark, is the most exhilarating refusal of the dead-girl genre anyone has managed at this length."
+  },
+  {
+    n: 121,
+    title: "Coyote v. Acme",
+    author: "Ian Frazier",
+    venue: "The New Yorker",
+    year: 1990,
+    url: "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+    mins: 7,
+    kind: "humor",
+    lean: "b",
+    added: "2026-09-25",
+    accent: "#D4A017",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="9" y="12" width="46" height="62" rx="2" stroke-width="1.5"/><path d="M16 24 h32 M16 31 h32 M16 38 h23" stroke-width="1.2" opacity=".7"/><path d="M16 48 h32 M16 55 h26 M16 62 h30" stroke-width="1.1" stroke-dasharray="3 3" opacity=".45"/><circle cx="45" cy="66" r="6" stroke-width="1.2" opacity=".6"/><path d="M41 66 h8 M45 62 v8" stroke-width="1" opacity=".5"/><path d="M57 60 q19 -48 44 -12" stroke-width="1.4" stroke-dasharray="4 4"/><path d="M95 42 l11 11 M106 42 l-11 11" stroke-width="1.4"/><path d="M100 34 v-8 M109 48 h9 M91 35 l-6 -6 M112 60 l6 6" stroke-width="1.2" opacity=".7"/><path d="M58 104 h54" stroke-width="1.5"/><path d="M64 104 v-15 h15 v15" stroke-width="1.3" opacity=".7"/><path d="M86 104 v-24 h21 v24" stroke-width="1.2" opacity=".5"/><rect x="10" y="86" width="26" height="22" stroke-width="1.5"/><path d="M10 95 h26 M23 86 v22" stroke-width="1.1" opacity=".55"/><path d="M6 112 h108" stroke-width="1" opacity=".3"/></g></svg>',
+    excerpt: "Much as he has come to mistrust Defendant’s products, Mr. Coyote has no other domestic source of supply to which to turn.",
+    note: "A products-liability complaint, filed in the United States District Court for the Southwestern District at Tempe, Arizona, on behalf of one Mr. Coyote against the Acme Company — and the joke is that Frazier never once winks. The document proceeds in immaculate legal prose through the Rocket Sled that stretched the plaintiff’s forelimbs to a length of fifty feet, the Spring-Powered Shoes that hurled the boulder away rather than the purchaser toward his prey, and explosives on occasions too numerous to list, each mishap itemized with the flat clinical cruelty of a physician’s report: flattening of the cranium, sideways displacement of the tongue, compression of vertebrae from base of tail to head. Underneath the slapstick runs a real and surprisingly angry argument about monopoly — the defendant has a virtual lock on the equipment the plaintiff’s profession requires, so he goes on buying the products that maim him because there is nowhere else to buy, and the prayer for relief asks the court to censure Acme in the only language its directors and shareholders understand. Seven minutes, thirty-six years old, and still the definitive account of what it is to be a captive customer of a company that keeps blowing you up."
+  },
+  {
+    n: 122,
+    title: "Computers that want things",
+    author: "James Meek",
+    venue: "London Review of Books",
+    year: 2025,
+    url: "https://www.lrb.co.uk/the-paper/v47/n18/james-meek/computers-that-want-things",
+    mins: 27,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-25",
+    accent: "#1D6F63",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 16 h74 M14 34 h74 M14 52 h74 M14 70 h74 M14 88 h74" stroke-width="1" opacity=".33"/><path d="M14 16 v72 M32 16 v72 M50 16 v72 M68 16 v72 M86 16 v72" stroke-width="1" opacity=".33"/><circle cx="32" cy="34" r="5.5" stroke-width="1.6"/><circle cx="50" cy="52" r="5.5" stroke-width="1.6"/><circle cx="68" cy="70" r="5.5" stroke-width="1.6"/><circle cx="68" cy="34" r="5.5" stroke-width="1.2" stroke-dasharray="3 3" opacity=".6"/><circle cx="50" cy="70" r="5.5" stroke-width="1.2" stroke-dasharray="3 3" opacity=".6"/><circle cx="50" cy="52" r="24" stroke-width="1" stroke-dasharray="4 6" opacity=".4"/><path d="M88 52 h21" stroke-width="1.5"/><path d="M103 46 l6 6 -6 6" stroke-width="1.5"/><path d="M96 100 q7 -13 0 -22" stroke-width="1.2" opacity=".5"/><path d="M105 104 q9 -17 0 -32" stroke-width="1.1" opacity=".28"/><path d="M12 100 h22 M12 107 h13" stroke-width="1.2" opacity=".45"/></g></svg>',
+    excerpt: "One day in March 2016, the young Go grandmaster Lee Sedol stepped away from the game he was playing against an artificial intelligence called AlphaGo. He wanted a cigarette.",
+    note: "It opens on the cigarette Lee Sedol stepped outside to smoke in the middle of his 2016 match against AlphaGo, and uses that small human interruption to sharpen a question the industry mostly talks around: not whether a machine can think, but whether it can want. Meek’s argument is that anything worth calling general intelligence would need artificial desire alongside artificial intelligence, and that nobody building these systems has a credible account of where that would come from — a gap he works through by way of Bostrom and Yudkowsky on misaligned superintelligence, and Yann LeCun’s flat verdict that large language models are not intelligent systems at all, lacking perception, persistent memory, reasoning and the capacity to act. What lifts it above a survey is that Meek is a novelist, so the technical history of scaling and its limits keeps opening onto the older question of what it means for anything at all to have purposes of its own. He ends somewhere bleaker and more interesting than the usual doom: if a machine ever does come to want something, it will have inherited those wants from Hassabis, Altman, Thiel and Musk, and what it will possess is a slave’s power — the ability to solve problems it was never permitted to frame."
   }
 ];
