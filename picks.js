@@ -1957,5 +1957,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 16 h74 M14 34 h74 M14 52 h74 M14 70 h74 M14 88 h74" stroke-width="1" opacity=".33"/><path d="M14 16 v72 M32 16 v72 M50 16 v72 M68 16 v72 M86 16 v72" stroke-width="1" opacity=".33"/><circle cx="32" cy="34" r="5.5" stroke-width="1.6"/><circle cx="50" cy="52" r="5.5" stroke-width="1.6"/><circle cx="68" cy="70" r="5.5" stroke-width="1.6"/><circle cx="68" cy="34" r="5.5" stroke-width="1.2" stroke-dasharray="3 3" opacity=".6"/><circle cx="50" cy="70" r="5.5" stroke-width="1.2" stroke-dasharray="3 3" opacity=".6"/><circle cx="50" cy="52" r="24" stroke-width="1" stroke-dasharray="4 6" opacity=".4"/><path d="M88 52 h21" stroke-width="1.5"/><path d="M103 46 l6 6 -6 6" stroke-width="1.5"/><path d="M96 100 q7 -13 0 -22" stroke-width="1.2" opacity=".5"/><path d="M105 104 q9 -17 0 -32" stroke-width="1.1" opacity=".28"/><path d="M12 100 h22 M12 107 h13" stroke-width="1.2" opacity=".45"/></g></svg>',
     excerpt: "One day in March 2016, the young Go grandmaster Lee Sedol stepped away from the game he was playing against an artificial intelligence called AlphaGo. He wanted a cigarette.",
     note: "It opens on the cigarette Lee Sedol stepped outside to smoke in the middle of his 2016 match against AlphaGo, and uses that small human interruption to sharpen a question the industry mostly talks around: not whether a machine can think, but whether it can want. Meek’s argument is that anything worth calling general intelligence would need artificial desire alongside artificial intelligence, and that nobody building these systems has a credible account of where that would come from — a gap he works through by way of Bostrom and Yudkowsky on misaligned superintelligence, and Yann LeCun’s flat verdict that large language models are not intelligent systems at all, lacking perception, persistent memory, reasoning and the capacity to act. What lifts it above a survey is that Meek is a novelist, so the technical history of scaling and its limits keeps opening onto the older question of what it means for anything at all to have purposes of its own. He ends somewhere bleaker and more interesting than the usual doom: if a machine ever does come to want something, it will have inherited those wants from Hassabis, Altman, Thiel and Musk, and what it will possess is a slave’s power — the ability to solve problems it was never permitted to frame."
+  },
+  {
+    n: 123,
+    title: "‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence",
+    author: "Samanth Subramanian",
+    venue: "The Guardian",
+    year: 2026,
+    url: "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence",
+    mins: 18,
+    kind: "journalism",
+    lean: "a",
+    added: "2026-09-27",
+    accent: "#86942C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="60" r="46" stroke-width="1" stroke-dasharray="3 5" opacity=".45"/><path d="M30 34 h24 v20 h20 v22" stroke-width="1" opacity=".33"/><path d="M30 86 h18 v-22 h-8" stroke-width="1" opacity=".33"/><path d="M86 30 v26 h-14" stroke-width="1" opacity=".33"/><path d="M60 60 C52 50 44 46 34 44" stroke-width="1.7"/><path d="M60 60 C66 48 76 42 86 40" stroke-width="1.7"/><path d="M60 60 C58 72 50 80 40 84" stroke-width="1.5"/><path d="M60 60 C70 68 78 74 84 84" stroke-width="1.5"/><path d="M60 60 C64 58 70 57 78 60" stroke-width="1.2" opacity=".7"/><circle cx="60" cy="60" r="4" stroke-width="1.6"/><circle cx="34" cy="44" r="3" stroke-width="1.4"/><circle cx="86" cy="40" r="3" stroke-width="1.4"/><circle cx="40" cy="84" r="3" stroke-width="1.4"/><circle cx="84" cy="84" r="3" stroke-width="1.4"/><circle cx="78" cy="60" r="2.2" stroke-width="1.2" opacity=".7"/></g></svg>',
+    excerpt: "Forty years ago, as an undergraduate in Hokkaido, Toshiyuki Nakagaki came upon a lemon-yellow stain in a petri dish.",
+    note: "A single cell with no brain solves mazes, keeps time, and lays out a rail network very nearly as efficient as Tokyo’s — and biologists have spent decades fighting bitterly over whether any of that earns the word ‘intelligence.’ Subramanian reports the feud from inside it: neuropurists on one side insisting cognition requires neurons, the biogenic camp on the other insisting it runs all the way down to the single cell, with hate mail and lost funding passing between them. The reporting is unusually alive because he orders his own Physarum off Etsy and builds it a cardboard maze, and because the AI question keeps surfacing sideways — one scientist observes that there is no better way to treat humans as machines than to start treating machines as humans. It closes with him going back and forth between the mould in its dish and his five-month-old son on the changing mat, trying to work out how he feels about the claim that the two of them sit on one spectrum."
+  },
+  {
+    n: 124,
+    title: "A Matter of Words",
+    author: "Megan Fritts",
+    venue: "The Point",
+    year: 2025,
+    url: "https://thepointmag.com/examined-life/a-matter-of-words/",
+    mins: 13,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-09-27",
+    accent: "#2F4B7C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M28 26 q-9 9 -9 20 q0 11 9 18" stroke-width="1.6"/><path d="M92 26 q9 9 9 20 q0 11 -9 18" stroke-width="1.6"/><path d="M38 38 h44 M38 48 h44 M38 58 h30" stroke-width="1.2" opacity=".55"/><circle cx="32" cy="92" r="11" stroke-width="1.6"/><path d="M32 86 v12 M27 92 h10" stroke-width="1" opacity=".45"/><path d="M45 88 h16" stroke-width="1.2" stroke-dasharray="3 4" opacity=".6"/><rect x="66" y="78" width="34" height="24" rx="6" stroke-width="1.5"/><path d="M74 102 l-1 9 l9 -9" stroke-width="1.5"/><path d="M74 86 h18 M74 93 h11" stroke-width="1.1" opacity=".5"/></g></svg>',
+    excerpt: "Over the course of the past two years, university committees focused on the impact of artificial intelligence have assembled across the country.",
+    note: "Megan Fritts teaches philosophy at Arkansas–Little Rock and sits on two of her university’s AI response committees, and this essay is what she noticed while they met: that all the wrangling over detectors and syllabus wording was circling a question nobody would say out loud, until she said it out loud — do students still need to learn to write a paper? The committee-room comedy is exact, down to the awkward pause that followed. But the argument underneath is a serious one in the analytic tradition, running through Wittgenstein on forms of life and MacIntyre on moral language to the claim that learning to use words just is learning to think, so that handing expression to a machine hollows out the inward life and not merely the essay. Thirteen minutes that treat a bureaucratic process and a theory of mind as the same subject, which they turn out to be."
+  },
+  {
+    n: 125,
+    title: "Roger Ebert: The Essential Man",
+    author: "Chris Jones",
+    venue: "Esquire",
+    year: 2010,
+    url: "https://www.esquire.com/news-politics/a6945/roger-ebert-0310/",
+    mins: 27,
+    kind: "profile",
+    lean: "j",
+    added: "2026-09-27",
+    accent: "#B3391F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="56" y="18" width="48" height="34" rx="2" stroke-width="1.6"/><path d="M64 28 h32 M64 36 h24 M64 44 h32" stroke-width="1" opacity=".33"/><rect x="18" y="28" width="22" height="16" rx="2" stroke-width="1.5"/><circle cx="29" cy="22" r="6" stroke-width="1.3" opacity=".7"/><path d="M40 30 L56 20 M40 42 L56 50" stroke-width="1.2" stroke-dasharray="4 4" opacity=".6"/><path d="M14 84 h16" stroke-width="1.5"/><path d="M30 84 l4 -14 l4 22 l5 -20 l4 16 l5 -22 l4 20 l5 -12 l4 10" stroke-width="1.7"/><path d="M65 84 h24" stroke-width="1.4" stroke-dasharray="3 5" opacity=".5"/><path d="M89 84 h14" stroke-width="1.2" opacity=".25"/><path d="M46 104 q16 9 32 0" stroke-width="1.2" opacity=".45"/></g></svg>',
+    excerpt: "For the 281st time in the last ten months, Roger Ebert is sitting down to watch a movie in the Lake Street Screening Room, on the sixteenth floor of what used to pass for a skyscraper in the Loop.",
+    note: "Chris Jones spent months with Roger Ebert after cancer took his jaw, his speech and his ability to eat or drink, and found a man who had somehow become more prolific and more recognisably himself than before. The profile is built out of whatever replaced the voice — a laptop that speaks for him in a borrowed synthetic approximation, yellow Post-it notes passed across a room, a blog that turned into the best writing of his life, and a wife who reads his eyes faster than any machine can render them. Jones sets down the physical facts plainly and without flinching, then keeps catching the comedy Ebert insists on, the thumbs held aloft, the silent shaking laugh. What makes it last is the question left sitting in the room: how much of a person survives losing the instrument they were known by, and whether the thing that answers in their place is still them."
   }
 ];
