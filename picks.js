@@ -2003,7 +2003,54 @@ const PICKS = [
     added: "2026-09-27",
     accent: "#B3391F",
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="56" y="18" width="48" height="34" rx="2" stroke-width="1.6"/><path d="M64 28 h32 M64 36 h24 M64 44 h32" stroke-width="1" opacity=".33"/><rect x="18" y="28" width="22" height="16" rx="2" stroke-width="1.5"/><circle cx="29" cy="22" r="6" stroke-width="1.3" opacity=".7"/><path d="M40 30 L56 20 M40 42 L56 50" stroke-width="1.2" stroke-dasharray="4 4" opacity=".6"/><path d="M14 84 h16" stroke-width="1.5"/><path d="M30 84 l4 -14 l4 22 l5 -20 l4 16 l5 -22 l4 20 l5 -12 l4 10" stroke-width="1.7"/><path d="M65 84 h24" stroke-width="1.4" stroke-dasharray="3 5" opacity=".5"/><path d="M89 84 h14" stroke-width="1.2" opacity=".25"/><path d="M46 104 q16 9 32 0" stroke-width="1.2" opacity=".45"/></g></svg>',
-    excerpt: "For the 281st time in the last ten months, Roger Ebert is sitting down to watch a movie in the Lake Street Screening Room, on the sixteenth floor of what used to pass for a skyscraper in the Loop.",
-    note: "Chris Jones spent months with Roger Ebert after cancer took his jaw, his speech and his ability to eat or drink, and found a man who had somehow become more prolific and more recognisably himself than before. The profile is built out of whatever replaced the voice — a laptop that speaks for him in a borrowed synthetic approximation, yellow Post-it notes passed across a room, a blog that turned into the best writing of his life, and a wife who reads his eyes faster than any machine can render them. Jones sets down the physical facts plainly and without flinching, then keeps catching the comedy Ebert insists on, the thumbs held aloft, the silent shaking laugh. What makes it last is the question left sitting in the room: how much of a person survives losing the instrument they were known by, and whether the thing that answers in their place is still them."
+    excerpt: "For the 281st time in the last ten months, Roger Ebert is sitting down to watch a movie in the Lake Street Screening Room, on the sixteenth floor of what used to pass for a skyscraper in the Loop.",    note: "Chris Jones spent months with Roger Ebert after cancer took his jaw, his speech and his ability to eat or drink, and found a man who had somehow become more prolific and more recognisably himself than before. The profile is built out of whatever replaced the voice — a laptop that speaks for him in a borrowed synthetic approximation, yellow Post-it notes passed across a room, a blog that turned into the best writing of his life, and a wife who reads his eyes faster than any machine can render them. Jones sets down the physical facts plainly and without flinching, then keeps catching the comedy Ebert insists on, the thumbs held aloft, the silent shaking laugh. What makes it last is the question left sitting in the room: how much of a person survives losing the instrument they were known by, and whether the thing that answers in their place is still them."
+  },
+  {
+    n: 126,
+    title: "Stack Underflow: Losing the Craft of Coding",
+    author: "Jarett Malouf",
+    venue: "The New Atlantis",
+    year: 2026,
+    url: "https://www.thenewatlantis.com/publications/stack-underflow-losing-the-craft-of-coding",
+    mins: 8,
+    kind: "essay",
+    lean: "a",
+    added: "2026-09-29",
+    accent: "#8E3B6B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="30" y="18" width="60" height="13" rx="2" stroke-width="1.7"/><rect x="30" y="36" width="60" height="13" rx="2" stroke-width="1.4" opacity=".8"/><rect x="30" y="54" width="60" height="13" rx="2" stroke-width="1.2" stroke-dasharray="5 4" opacity=".55"/><rect x="30" y="72" width="60" height="13" rx="2" stroke-width="1.1" stroke-dasharray="3 6" opacity=".32"/><rect x="30" y="90" width="60" height="13" rx="2" stroke-width="1" stroke-dasharray="2 8" opacity=".16"/><path d="M37 24.5 h9 M37 42.5 h7 M37 60.5 h5" stroke-width="1.2" opacity=".7"/><path d="M96 19 v11" stroke-width="1.5" opacity=".75"/><path d="M18 18 v88" stroke-width="1" stroke-dasharray="2 5" opacity=".4"/><path d="M102 18 v88" stroke-width="1" stroke-dasharray="2 5" opacity=".2"/></g></svg>',
+    excerpt: "As a software engineer at a big tech company, I accomplish a non-trivial portion of my work with ⌘+C, ⌘+V — plugging the contents into my AI agent and letting it do all the thinking and execution for me.",
+    note: "Jarett Malouf writes software at a large tech company and has watched the job quietly turn into something else: paste the problem into an agent, let the agent think, approve the result. The essay is precise about what that trades away — not the job itself, at least not yet, but the tacit knowledge that only accumulates through the tedium of doing the thing by hand, and which you need most at the moment the machine returns something subtly wrong. What keeps it from becoming a lament about the kids is that Malouf is describing his own erosion and can feel it happening in real time. Eight minutes on the strange position of managing work you are steadily forgetting how to do."
+  },
+  {
+    n: 127,
+    title: "Theseus Files a Boat Insurance Claim",
+    author: "Alexander B. Joy",
+    venue: "McSweeney's Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/theseus-files-a-boat-insurance-claim",
+    mins: 2,
+    kind: "humor",
+    lean: "b",
+    added: "2026-09-29",
+    accent: "#1F7A99",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 50 h92" stroke-width="1.6"/><path d="M14 50 q46 42 92 0" stroke-width="1.7"/><path d="M30 54 v14 M44 56 v19 M58 57 v22 M72 56 v19 M86 54 v14" stroke-width="1" opacity=".55"/><path d="M37 55 v17 M51 57 v21 M65 57 v21 M79 55 v17" stroke-width="1" stroke-dasharray="3 3" opacity=".5"/><path d="M60 50 v-32" stroke-width="1.5"/><path d="M60 20 l17 13 l-17 6 z" stroke-width="1.3" opacity=".75"/><path d="M26 90 h68" stroke-width="1" stroke-dasharray="4 5" opacity=".33"/><path d="M26 90 q34 30 68 0" stroke-width="1.1" stroke-dasharray="4 5" opacity=".33"/><path d="M38 110 q22 8 44 0" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "Thanks for submitting your claim. We’re sorry to hear that your ship sank in the localized typhoon that recently demolished the Athenian harbor.",
+    note: "A claims adjuster at Eristikos Insurance needs Theseus to clarify a few routine matters before his sunken ship can be reimbursed, and the ten questions that follow are the identity problem in its purest bureaucratic form. The joke Alexander B. Joy is making is that the form is not being obtuse — every question is one a philosopher would ask too, and the adjuster is simply the first party to attach a payout to the answer. It ends on a signature link and a CAPTCHA that asks the claimant to specify how many points Achilles must pass to overtake the tortoise. Two minutes, and a small proof that metaphysics gets funnier the moment money is riding on it."
+  },
+  {
+    n: 128,
+    title: "Thirteen Ways of Looking at Space/Time",
+    author: "Catherynne M. Valente",
+    venue: "Clarkesworld Magazine",
+    year: 2010,
+    url: "https://clarkesworldmagazine.com/valente_08_10/",
+    mins: 20,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-09-29",
+    accent: "#5B2C83",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="60" r="2.6" stroke-width="1.9"/><circle cx="60" cy="60" r="12" stroke-width="1.4" opacity=".85"/><circle cx="60" cy="60" r="24" stroke-width="1.2" opacity=".6"/><circle cx="60" cy="60" r="36" stroke-width="1.1" stroke-dasharray="5 6" opacity=".42"/><circle cx="60" cy="60" r="48" stroke-width="1" stroke-dasharray="3 8" opacity=".25"/><g stroke-width="1.1" opacity=".65"><path d="M60 43 v-9"/><path d="M74 51 l8 -5"/><path d="M74 69 l8 5"/><path d="M60 77 v9"/><path d="M46 69 l-8 5"/><path d="M46 51 l-8 -5"/></g><path d="M60 24 a36 36 0 0 1 31 18" stroke-width="1.6"/><path d="M60 96 a36 36 0 0 1 -31 -18" stroke-width="1.6"/></g></svg>',
+    excerpt: "In the beginning was the Word and the Word was with God and the Word was a high-density pre-baryogenesis singularity.",
+    note: "Thirteen numbered sections, each retelling a creation myth in the vocabulary of modern cosmology: Genesis as baryogenesis, Izanagi and Izanami in the hyperspatial matrix, Coatlicue and Quetzalcoatl, Heimdallr, all of it running on entropy, wave-particle duality and an event horizon nobody can look back across. The conceit holds because neither vocabulary is being mocked — the two turn out to describe the same handful of gestures, something dividing from nothing, a body becoming a world, a descent undone by turning to look. Threaded through the cosmogony is a quieter human story about birth and what does not survive it, which is what gives the incantation its weight. Valente writes it dense and liturgical, and the structure does the argument, so it accumulates rather than resolves."
   }
 ];
