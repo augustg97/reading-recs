@@ -2052,5 +2052,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="60" r="2.6" stroke-width="1.9"/><circle cx="60" cy="60" r="12" stroke-width="1.4" opacity=".85"/><circle cx="60" cy="60" r="24" stroke-width="1.2" opacity=".6"/><circle cx="60" cy="60" r="36" stroke-width="1.1" stroke-dasharray="5 6" opacity=".42"/><circle cx="60" cy="60" r="48" stroke-width="1" stroke-dasharray="3 8" opacity=".25"/><g stroke-width="1.1" opacity=".65"><path d="M60 43 v-9"/><path d="M74 51 l8 -5"/><path d="M74 69 l8 5"/><path d="M60 77 v9"/><path d="M46 69 l-8 5"/><path d="M46 51 l-8 -5"/></g><path d="M60 24 a36 36 0 0 1 31 18" stroke-width="1.6"/><path d="M60 96 a36 36 0 0 1 -31 -18" stroke-width="1.6"/></g></svg>',
     excerpt: "In the beginning was the Word and the Word was with God and the Word was a high-density pre-baryogenesis singularity.",
     note: "Thirteen numbered sections, each retelling a creation myth in the vocabulary of modern cosmology: Genesis as baryogenesis, Izanagi and Izanami in the hyperspatial matrix, Coatlicue and Quetzalcoatl, Heimdallr, all of it running on entropy, wave-particle duality and an event horizon nobody can look back across. The conceit holds because neither vocabulary is being mocked — the two turn out to describe the same handful of gestures, something dividing from nothing, a body becoming a world, a descent undone by turning to look. Threaded through the cosmogony is a quieter human story about birth and what does not survive it, which is what gives the incantation its weight. Valente writes it dense and liturgical, and the structure does the argument, so it accumulates rather than resolves."
+  },
+  {
+    n: 129,
+    title: "Johnny Knoxville, America’s God of Mischief",
+    author: "Molly Young",
+    venue: "The New Yorker",
+    year: 2026,
+    url: "https://www.newyorker.com/magazine/2026/08/03/johnny-knoxville-profile",
+    mins: 27,
+    kind: "profile",
+    lean: "j",
+    added: "2026-10-01",
+    accent: "#C2541F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 94 q30 -72 68 -28" stroke-width="1.7"/><path d="M14 94 q26 -62 60 -24" stroke-width="1.1" stroke-dasharray="4 5" opacity=".45"/><path d="M14 94 q22 -52 52 -20" stroke-width="1" stroke-dasharray="3 6" opacity=".25"/><circle cx="86" cy="70" r="9" stroke-width="1.6"/><circle cx="86" cy="70" r="17" stroke-width="1.2" opacity=".6"/><circle cx="86" cy="70" r="25" stroke-width="1" stroke-dasharray="4 6" opacity=".33"/><g stroke-width="1.3" opacity=".8"><path d="M86 46 v-9"/><path d="M103 53 l7 -7"/><path d="M110 70 h9"/><path d="M103 87 l7 7"/><path d="M86 94 v9"/></g><path d="M8 106 h104" stroke-width="1.2" opacity=".4"/></g></svg>',
+    excerpt: "Johnny Knoxville doesn’t keep track of how many bones he’s broken.",
+    note: "Sixteen concussions, and he stopped counting the fractures a long time ago. Molly Young takes seriously the question the Jackass films have always declined to ask — what makes a person volunteer, for twenty-five years, to be injured in front of a camera — and follows it through his father’s pranks, the skateboard culture the franchise grew out of, and the specific euphoria of having just survived something, which turns out to be the thing he is actually chasing. What lifts it above a damage inventory is how lucid and unbothered Knoxville is about the arithmetic, while the new film is the first one that looks like the bill arriving. A comic subject reported with a completely straight face, which is the only way the comedy holds."
+  },
+  {
+    n: 130,
+    title: "The Sea of Crises",
+    author: "Brian Phillips",
+    venue: "Grantland",
+    year: 2014,
+    url: "https://grantland.com/features/sumo-wrestling-tokyo-japan-hakuho-yukio-mishima-novelist-seppuku/",
+    mins: 68,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-10-01",
+    accent: "#46617F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="60" cy="60" r="40" stroke-width="1.7"/><circle cx="60" cy="60" r="31" stroke-width="1" stroke-dasharray="3 6" opacity=".45"/><circle cx="76" cy="44" r="13" stroke-width="1.3" opacity=".8"/><circle cx="76" cy="44" r="7" stroke-width="1" stroke-dasharray="2 4" opacity=".5"/><path d="M60 12 v44" stroke-width="1.6"/><path d="M54 56 h12" stroke-width="1.4" opacity=".85"/><path d="M6 86 h108" stroke-width="1.1" stroke-dasharray="6 6" opacity=".4"/><path d="M38 74 q22 14 44 0" stroke-width="1.2" opacity=".55"/></g></svg>',
+    excerpt: "When he comes into the ring, Hakuho, the greatest sumotori in the world, perhaps the greatest in the history of the world, dances like a tropical bird, like a bird of paradise.",
+    note: "Brian Phillips went to Tokyo to watch a sumo tournament and came back with something much stranger: a two-track essay in which Hakuho, the greatest sumotori alive, moves through the biggest basho of the year while Phillips tries to find Hiroyasu Koga — the young man who beheaded Yukio Mishima after the novelist’s absurd, failed coup in 1970, and who then went on living quietly under another name. The halves rhyme without ever being forced to. A ritual sport where everything is settled in four seconds sits beside a ritual death whose meaning nobody has finished arguing about, and both are being performed for an audience that cannot quite read them. Phillips is candid that he is one of those spectators, and that refusal to pretend otherwise is what keeps the whole thing from curdling into mystique."
+  },
+  {
+    n: 131,
+    title: "Boarding China’s Last Bus",
+    author: "Zilan Qian",
+    venue: "Asterisk",
+    year: 2026,
+    url: "https://asteriskmag.com/issues/15/chinas-last-bus",
+    mins: 13,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-01",
+    accent: "#9E2B2B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M72 34 h40 v30 h-40 z" stroke-width="1.7"/><path d="M80 40 h10 v10 h-10 z" stroke-width="1.1" opacity=".65"/><path d="M96 40 h10 v10 h-10 z" stroke-width="1.1" opacity=".65"/><circle cx="82" cy="70" r="5" stroke-width="1.3"/><circle cx="104" cy="70" r="5" stroke-width="1.3"/><path d="M62 38 h-18 M58 48 h-26 M54 58 h-18" stroke-width="1.1" stroke-dasharray="5 5" opacity=".5"/><path d="M14 94 v-16" stroke-width="1.5" opacity=".9"/><path d="M26 94 v-13" stroke-width="1.3" opacity=".65"/><path d="M38 94 v-10" stroke-width="1.2" opacity=".45"/><path d="M50 94 v-7" stroke-width="1.1" stroke-dasharray="2 3" opacity=".28"/><path d="M6 94 h108" stroke-width="1.3"/></g></svg>',
+    excerpt: "China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.",
+    note: "Surveys keep reporting that the Chinese public is roughly twice as positive about AI as the American one, and Zilan Qian’s argument is that the surveys are measuring something other than what they think. She goes back to the xiagang layoffs of the late 1990s, when more than twenty-four million state-sector workers lost not only wages but the danwei that had supplied their housing, clinics, schools, marriages and standing as socialist workers, and shows a generation learning that upheaval cannot be steered, only boarded. The “last bus” reflex that came out of it — catch this one or be left behind forever — runs through the stadium English-screaming of the early 2000s, the rush into computer science, and the queues outside tech offices to have an AI agent installed on a phone the state has just issued warnings about. Enthusiasm and dread turn out to be indistinguishable from the outside, which makes this less a dispatch about a rival than a description of a mirror."
   }
 ];
