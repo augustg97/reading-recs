@@ -2100,5 +2100,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M72 34 h40 v30 h-40 z" stroke-width="1.7"/><path d="M80 40 h10 v10 h-10 z" stroke-width="1.1" opacity=".65"/><path d="M96 40 h10 v10 h-10 z" stroke-width="1.1" opacity=".65"/><circle cx="82" cy="70" r="5" stroke-width="1.3"/><circle cx="104" cy="70" r="5" stroke-width="1.3"/><path d="M62 38 h-18 M58 48 h-26 M54 58 h-18" stroke-width="1.1" stroke-dasharray="5 5" opacity=".5"/><path d="M14 94 v-16" stroke-width="1.5" opacity=".9"/><path d="M26 94 v-13" stroke-width="1.3" opacity=".65"/><path d="M38 94 v-10" stroke-width="1.2" opacity=".45"/><path d="M50 94 v-7" stroke-width="1.1" stroke-dasharray="2 3" opacity=".28"/><path d="M6 94 h108" stroke-width="1.3"/></g></svg>',
     excerpt: "China’s AI enthusiasm seems real. But for a population that lived through the mass layoffs of the 1990s, optimism and fear can look identical from the outside.",
     note: "Surveys keep reporting that the Chinese public is roughly twice as positive about AI as the American one, and Zilan Qian’s argument is that the surveys are measuring something other than what they think. She goes back to the xiagang layoffs of the late 1990s, when more than twenty-four million state-sector workers lost not only wages but the danwei that had supplied their housing, clinics, schools, marriages and standing as socialist workers, and shows a generation learning that upheaval cannot be steered, only boarded. The “last bus” reflex that came out of it — catch this one or be left behind forever — runs through the stadium English-screaming of the early 2000s, the rush into computer science, and the queues outside tech offices to have an AI agent installed on a phone the state has just issued warnings about. Enthusiasm and dread turn out to be indistinguishable from the outside, which makes this less a dispatch about a rival than a description of a mirror."
+  },
+  {
+    n: 132,
+    title: "Why Don’t We Just Kill the Kid In the Omelas Hole",
+    author: "Isabel J. Kim",
+    venue: "Clarkesworld Magazine",
+    year: 2024,
+    url: "https://clarkesworldmagazine.com/kim_02_24/",
+    mins: 13,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-10-07",
+    accent: "#6E7F3A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M8 66 h104" stroke-width="1.4"/><path d="M22 66 v-22 h16 v22" stroke-width="1.6"/><path d="M46 66 v-34 h14 v34" stroke-width="1.5"/><path d="M68 66 v-26 h18 v26" stroke-width="1.5" opacity=".85"/><path d="M27 52 h6 M51 44 h5 M74 50 h7" stroke-width="1.1" opacity=".6"/><path d="M50 84 h20 v18 h-20 z" stroke-width="1.7"/><circle cx="60" cy="93" r="3.5" stroke-width="1.2"/><path d="M60 84 v-18" stroke-width="1.2" stroke-dasharray="3 4" opacity=".55"/><path d="M50 84 L30 66" stroke-width="1" stroke-dasharray="3 5" opacity=".4"/><path d="M70 84 L90 66" stroke-width="1" stroke-dasharray="3 5" opacity=".4"/><path d="M40 102 h40" stroke-width="1.1" opacity=".3"/></g></svg>',
+    excerpt: "So they broke into the hole in the ground, and they killed the kid, and all the lights went out in Omelas: click, click, click.",
+    note: "Le Guin’s Omelas offered two options — stay and benefit, or walk away — and this story opens by taking a third: somebody breaks into the hole in the ground and kills the child, and all the lights go out. Then Omelas selects another child, and another, and the story becomes a chronicle of how a city metabolizes its own atrocity, through op-eds and discourse cycles and a fourth killer who turns out to be an accelerationist arguing that the murders are the point. Kim writes in a flat, fast register that reads like a timeline refreshing, so the comedy and the moral horror keep arriving in the same sentence. It won the Nebula, the BSFA and the Locus for best short story, and it is the rare answer to a canonical text that leaves the original feeling unfinished."
+  },
+  {
+    n: 133,
+    title: "We Must Create the Shit Machine",
+    author: "Pete Reynolds",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
+    mins: 3,
+    kind: "humor",
+    lean: "b",
+    added: "2026-10-07",
+    accent: "#8B5A2B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M34 20 h52 v20 h-52 z" stroke-width="1.7"/><path d="M52 40 l8 12 l8 -12" stroke-width="1.4"/><path d="M42 28 h8 M70 28 h8" stroke-width="1.1" opacity=".6"/><path d="M32 66 q2 -12 14 -11 q3 -10 15 -9 q14 0 16 11 q9 1 9 9" stroke-width="1.5"/><path d="M32 66 h54" stroke-width="1.2" opacity=".7"/><path d="M36 72 v9 M47 72 v13 M58 72 v9 M69 72 v14 M80 72 v8" stroke-width="1.2" stroke-dasharray="3 4" opacity=".6"/><path d="M38 102 q22 -17 44 0" stroke-width="1.6"/><path d="M60 102 v13" stroke-width="1.3"/><path d="M60 115 q6 0 6 -5" stroke-width="1.1" opacity=".7"/></g></svg>',
+    excerpt: "For as long as humans have created SHIT with our BODIES AND BUTTS, we have been asking this FUNDAMENTAL QUESTION: What if there were a COMPUTER that could ALSO SHIT?",
+    note: "A product announcement for a machine that makes shit, delivered in the exact cadence of a frontier lab unveiling a model: all-caps compound nouns, an IRONCLADCERTAINTY about demand nobody has checked, and a benefits list consisting of “Business things,” “Other stuff,” and “WE MUST CREATE IT.” Reynolds keeps the satire structural rather than topical, so the best jokes are the load-bearing ones — the subscription-only SHITBRELLA whose terms of service disclaim protection against the river of blazing shit, the companion app that identifies shit and may flag non-shit as shit anyway, and the one-line paragraph announcing that CHINA MUST NOT OBTAIN THE SHIT MACHINE. Three minutes long, profane from the first clause, and unerring about every tic of the hype cycle it is wearing."
+  },
+  {
+    n: 134,
+    title: "Gentleness and the artificial Other",
+    author: "Joe Carlsmith",
+    venue: "joecarlsmith.com",
+    year: 2024,
+    url: "https://joecarlsmith.com/2024/01/02/gentleness-and-the-artificial-other/",
+    mins: 15,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-07",
+    accent: "#1A5E5A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M60 8 v104" stroke-width="1.1" stroke-dasharray="4 6" opacity=".45"/><path d="M78 38 q18 10 14 28 q-3 16 -18 18 q-12 2 -14 -9 q-1 -8 8 -9 q7 0 6 6" stroke-width="1.6"/><circle cx="84" cy="30" r="7" stroke-width="1.3"/><circle cx="84" cy="30" r="2" stroke-width="1.1" opacity=".7"/><path d="M12 60 q14 -12 30 -3" stroke-width="1.5"/><path d="M42 57 l10 4 M42 57 l9 -6 M42 57 l4 -11" stroke-width="1.3" opacity=".85"/><circle cx="56" cy="61" r="2.5" stroke-width="1.2"/><path d="M20 86 q20 8 36 -14" stroke-width="1" stroke-dasharray="3 5" opacity=".4"/></g></svg>',
+    excerpt: "The most succinct argument for AI risk, in my opinion, is the “second species” argument.",
+    note: "The standard case for AI risk runs on a single intuition — a second, more powerful species is arriving on Earth — and Carlsmith’s objection is not that it is wrong but that it is built entirely out of fear, which is a narrow way to meet a new kind of mind. So the argument proceeds through three films rather than three premises: My Octopus Teacher, for what it costs to touch something genuinely Other; Arrival, for the moment two species write to each other across glass; and Grizzly Man, for Herzog’s verdict that behind the bear’s eyes there is only “the overwhelming indifference of nature.” The essay then refuses the comfort available on either side, because the AIs will not be humans in costume but they will not be dead-eyed factories either, and a thing that can kill you may still have an underneath. What it asks for is the register the risk literature almost never permits itself — wonder and dread held at once, with neither allowed to win."
   }
 ];
