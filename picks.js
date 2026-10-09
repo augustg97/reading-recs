@@ -2148,5 +2148,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M60 8 v104" stroke-width="1.1" stroke-dasharray="4 6" opacity=".45"/><path d="M78 38 q18 10 14 28 q-3 16 -18 18 q-12 2 -14 -9 q-1 -8 8 -9 q7 0 6 6" stroke-width="1.6"/><circle cx="84" cy="30" r="7" stroke-width="1.3"/><circle cx="84" cy="30" r="2" stroke-width="1.1" opacity=".7"/><path d="M12 60 q14 -12 30 -3" stroke-width="1.5"/><path d="M42 57 l10 4 M42 57 l9 -6 M42 57 l4 -11" stroke-width="1.3" opacity=".85"/><circle cx="56" cy="61" r="2.5" stroke-width="1.2"/><path d="M20 86 q20 8 36 -14" stroke-width="1" stroke-dasharray="3 5" opacity=".4"/></g></svg>',
     excerpt: "The most succinct argument for AI risk, in my opinion, is the “second species” argument.",
     note: "The standard case for AI risk runs on a single intuition — a second, more powerful species is arriving on Earth — and Carlsmith’s objection is not that it is wrong but that it is built entirely out of fear, which is a narrow way to meet a new kind of mind. So the argument proceeds through three films rather than three premises: My Octopus Teacher, for what it costs to touch something genuinely Other; Arrival, for the moment two species write to each other across glass; and Grizzly Man, for Herzog’s verdict that behind the bear’s eyes there is only “the overwhelming indifference of nature.” The essay then refuses the comfort available on either side, because the AIs will not be humans in costume but they will not be dead-eyed factories either, and a thing that can kill you may still have an underneath. What it asks for is the register the risk literature almost never permits itself — wonder and dread held at once, with neither allowed to win."
+  },
+  {
+    n: 135,
+    title: "What If It All Came Out?",
+    author: "Bridget Read",
+    venue: "New York Magazine",
+    year: 2026,
+    url: "https://nymag.com/intelligencer/article/your-digital-self-is-vulnerable.html",
+    mins: 31,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-10-09",
+    accent: "#B3245C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="22" y="18" width="74" height="84" rx="4" stroke-width="1.3"/><path d="M32 32 h40 M32 42 h48 M32 52 h30" stroke-width="1.1" opacity=".55"/><path d="M32 78 h42 M32 88 h24" stroke-width="1.1" opacity=".55"/><path d="M22 62 l13 4 l-8 6 l18 3 l-10 6 l22 2 l-6 5 l35 1" stroke-width="1.6"/><circle cx="106" cy="50" r="2" stroke-width="1.1" opacity=".8"/><circle cx="113" cy="66" r="1.5" stroke-width="1" opacity=".6"/><circle cx="103" cy="80" r="2.5" stroke-width="1.1" opacity=".7"/><path d="M98 58 q10 -4 16 -1" stroke-width="1" stroke-dasharray="3 4" opacity=".45"/></g></svg>',
+    excerpt: "The nightmare began with an annoyance as benign and commonplace as a housefly. “Hi there Matt,” the July 11, 2024, email read.",
+    note: "Everyone is now carrying an archive they never meant to assemble — years of texts, Slacks, searches and photographs — and Read’s subject is the widening number of ways that archive gets pried open: ransom emails, discovery in civil litigation, breaches that dump the whole thing at once. She follows people whose private record was forced into public view and finds that the damage rarely turns on having done anything wrong; it is the collapse of context that does the work, the joke that cannot survive being read by a stranger. The reporting is calm and procedural, which is what makes it land, and it keeps circling a question larger than security: what a self amounts to once it can be read back to you in full."
+  },
+  {
+    n: 136,
+    title: "The Man Who Would Teach Machines to Think",
+    author: "James Somers",
+    venue: "The Atlantic",
+    year: 2013,
+    url: "https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/",
+    mins: 30,
+    kind: "profile",
+    lean: "b",
+    added: "2026-10-09",
+    accent: "#3B3FA3",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M16 56 L32 24 L48 56 Z" stroke-width="1.5"/><circle cx="88" cy="40" r="15" stroke-width="1.5"/><path d="M32 24 q28 -14 56 1" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/><path d="M16 56 q32 12 57 0" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/><path d="M60 110 q-22 0 -22 -12 q0 -12 22 -12 q22 0 22 -12 q0 -12 -22 -12" stroke-width="1.4"/><circle cx="32" cy="24" r="2" stroke-width="1.1"/><circle cx="88" cy="25" r="2" stroke-width="1.1"/><path d="M38 86 h44" stroke-width="1" stroke-dasharray="2 5" opacity=".4"/></g></svg>',
+    excerpt: "Douglas Hofstadter, the Pulitzer Prize–winning author of Gödel, Escher, Bach, thinks we’ve lost sight of what artificial intelligence really means.",
+    note: "Somers goes to Bloomington and finds the author of Gödel, Escher, Bach running a small lab that almost nobody in artificial intelligence pays attention to any more, still convinced that the whole of thinking reduces to analogy, still writing tiny programs designed to make mistakes the way people do. The field around him has gone the other way — statistics, scale, benchmarks — and Hofstadter’s complaint is not that it fails but that it succeeds while explaining nothing. It is a profile about intellectual loneliness, written with real affection and a good ear for how a celebrated man talks once the conversation has moved on without him. Thirteen years later it reads less like a period piece than an unretired question: whether a machine that answers correctly has understood anything at all."
+  },
+  {
+    n: 137,
+    title: "ASML: The World’s Most Complex Lithography Machine",
+    author: "Neil Hacker",
+    venue: "Works in Progress",
+    year: 2026,
+    url: "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+    mins: 22,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-09",
+    accent: "#D4A017",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="24" cy="20" r="4" stroke-width="1.4"/><path d="M14 30 l8 6 M34 30 l-8 6 M24 34 v8 M17 24 l-7 -5 M31 24 l7 -5" stroke-width="1.2" opacity=".8"/><path d="M24 44 L92 34" stroke-width="1.5"/><path d="M97 26 q10 8 0 16" stroke-width="1.6"/><path d="M92 42 L30 62" stroke-width="1.5"/><path d="M24 54 q-9 8 0 16" stroke-width="1.6"/><path d="M30 70 L94 84" stroke-width="1.5"/><path d="M100 76 q9 8 0 16" stroke-width="1.6"/><path d="M94 92 L38 100" stroke-width="1.5" opacity=".9"/><path d="M14 106 h92" stroke-width="1.3"/><path d="M30 111 h60" stroke-width="1" stroke-dasharray="3 4" opacity=".45"/></g></svg>',
+    excerpt: "The phones we carry around in our pockets have two million times more memory and are thousands of times faster than the room-sized computers that guided the Apollo mission to the Moon.",
+    note: "The object at the center of this is comfortably the strangest industrial artifact in the world: roughly the size of a double-decker bus, more than a hundred thousand components, mirrors so nearly perfect that scaled up to the size of Germany their flaws would be measured in millimeters, and a light source that works by vaporizing falling droplets of tin into plasma. Hacker’s account of how one near-bankrupt Dutch spinout became the only firm on Earth that can build it is a study in institutional nerve — outsourcing its core components while German engineers warned it was ‘asking for trouble’, selling nearly a quarter of itself to its own three largest customers, and sinking twenty years and twenty billion industry dollars into a physics bet that might simply have failed. What lingers is the chokepoint, and an ASML engineer’s remark that a rival could not reproduce the machine even if it were handed the blueprints."
   }
 ];
