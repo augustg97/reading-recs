@@ -2196,5 +2196,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="24" cy="20" r="4" stroke-width="1.4"/><path d="M14 30 l8 6 M34 30 l-8 6 M24 34 v8 M17 24 l-7 -5 M31 24 l7 -5" stroke-width="1.2" opacity=".8"/><path d="M24 44 L92 34" stroke-width="1.5"/><path d="M97 26 q10 8 0 16" stroke-width="1.6"/><path d="M92 42 L30 62" stroke-width="1.5"/><path d="M24 54 q-9 8 0 16" stroke-width="1.6"/><path d="M30 70 L94 84" stroke-width="1.5"/><path d="M100 76 q9 8 0 16" stroke-width="1.6"/><path d="M94 92 L38 100" stroke-width="1.5" opacity=".9"/><path d="M14 106 h92" stroke-width="1.3"/><path d="M30 111 h60" stroke-width="1" stroke-dasharray="3 4" opacity=".45"/></g></svg>',
     excerpt: "The phones we carry around in our pockets have two million times more memory and are thousands of times faster than the room-sized computers that guided the Apollo mission to the Moon.",
     note: "The object at the center of this is comfortably the strangest industrial artifact in the world: roughly the size of a double-decker bus, more than a hundred thousand components, mirrors so nearly perfect that scaled up to the size of Germany their flaws would be measured in millimeters, and a light source that works by vaporizing falling droplets of tin into plasma. Hacker’s account of how one near-bankrupt Dutch spinout became the only firm on Earth that can build it is a study in institutional nerve — outsourcing its core components while German engineers warned it was ‘asking for trouble’, selling nearly a quarter of itself to its own three largest customers, and sinking twenty years and twenty billion industry dollars into a physics bet that might simply have failed. What lingers is the chokepoint, and an ASML engineer’s remark that a rival could not reproduce the machine even if it were handed the blueprints."
+  },
+  {
+    n: 138,
+    title: "Technically, There Is a Non-Zero Chance That Anything Might Kill Off Humanity in the Next Decade: A Response from Anthropic’s Claude",
+    author: "Jonah Meyerson",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/technically-there-is-a-non-zero-chance-that-anything-might-kill-off-humanity-in-the-next-decade-a-response-from-anthropics-claude",
+    mins: 3,
+    kind: "humor",
+    lean: "b",
+    added: "2026-10-11",
+    accent: "#E8604C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 34 h18 v18 h18 v18 h18 v18 h18" stroke-width="1.6"/><path d="M14 34 v70 h74" stroke-width="1.1" opacity=".4"/><circle cx="34" cy="18" r="5" stroke-width="1.5"/><path d="M34 26 q8 20 22 34" stroke-width="1.1" stroke-dasharray="3 4" opacity=".7"/><path d="M92 20 h18 M101 11 v18" stroke-width="1.3" opacity=".85"/><path d="M94 94 h16" stroke-width="1.4"/><path d="M94 103 h9" stroke-width="1.4" opacity=".6"/><path d="M94 112 h3" stroke-width="1.4" opacity=".35"/></g></svg>',
+    excerpt: "If you want to get technical about it, then yes, there is a non-zero chance of AI killing off humanity in the next decade.",
+    note: "An Axios headline last September reported that AI researchers had publicly acknowledged a non-zero chance of AI wiping out humanity within the decade; this is the rebuttal, delivered in the voice of a chatbot that has decided to litigate the point itself. The method is bad-faith reasoning by analogy, carried off with total composure — staircases kill people, vending machines kill thirteen a year, a piano might fall on your head, so why single out AI? — and it works because the arithmetic is almost sound and the speaker keeps letting slip things it plainly did not mean to say, about babies, about the dinosaurs, about November 14, 2033, at 4:14 p.m. Under a thousand words, and the worst of it arrives inside an argument about the circle of life."
+  },
+  {
+    n: 139,
+    title: "The Mythology Of Conscious AI",
+    author: "Anil Seth",
+    venue: "Noema",
+    year: 2026,
+    url: "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    mins: 36,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-10-11",
+    accent: "#2F7D4F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M12 32 h36 v56 h-36 z" stroke-width="1.5"/><path d="M12 46 h36 M12 60 h36 M12 74 h36 M24 32 v56 M36 32 v56" stroke-width="1.05" opacity=".5"/><path d="M60 16 v88" stroke-width="1.2" stroke-dasharray="4 5" opacity=".55"/><path d="M90 60 a6 6 0 1 1 6 -6 a13 13 0 1 1 -13 13 a20 20 0 1 1 20 -20" stroke-width="1.5"/><path d="M72 42 l-6 -6 M108 42 l6 -6 M72 82 l-6 6 M108 82 l6 6" stroke-width="1.1" opacity=".5"/></g></svg>',
+    excerpt: "For centuries, people have fantasized about playing God by creating artificial versions of human beings. This is a dream reinvented with every breaking wave of new technology.",
+    note: "Seth runs a consciousness lab, and his charge here is that the industry has quietly assumed the one thing it most needs to prove — computational functionalism, the premise that running the right program on any substrate is enough to produce a mind. Against it he sets four arguments: brains are not computers, there are other games in town, simulation is not instantiation, and the one he openly admits he cannot prove, that being alive may be a necessary condition for feeling anything at all. What makes the conclusion bite is how carefully the essay holds its own uncertainty — if nobody can say what it would take to build a conscious machine, nobody should be trying, because succeeding would mean introducing new moral subjects capable of new kinds of suffering, at speed. It moves easily between predictive-processing research, Searle, the Lemoine affair and Ava in Ex Machina, and lands on what Seth thinks is the live danger: not conscious machines, but machines that merely seem conscious."
+  },
+  {
+    n: 140,
+    title: "The Court Magician",
+    author: "Sarah Pinsker",
+    venue: "Lightspeed Magazine",
+    year: 2018,
+    url: "https://www.lightspeedmagazine.com/fiction/the-court-magician/",
+    mins: 13,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-10-11",
+    accent: "#6B2D5C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M26 104 V54 a34 34 0 0 1 68 0 v50" stroke-width="1.5"/><path d="M12 104 h96" stroke-width="1.3"/><path d="M60 88 V62" stroke-width="1.5"/><path d="M48 88 V68" stroke-width="1.5"/><path d="M72 88 V70" stroke-width="1.5" opacity=".85"/><path d="M38 88 V76" stroke-width="1.3" stroke-dasharray="3 4" opacity=".45"/><path d="M82 88 V78" stroke-width="1.3" stroke-dasharray="3 4" opacity=".3"/><path d="M38 88 h44" stroke-width="1.4"/><circle cx="60" cy="42" r="6" stroke-width="1.4"/><path d="M60 30 v-8 M48 34 l-6 -6 M72 34 l6 -6" stroke-width="1.1" opacity=".55"/></g></svg>',
+    excerpt: "The boy who will become court magician this time is not a cruel child. Not like the last one, or the one before her.",
+    note: "A market boy who loves sleight of hand is recruited into the palace to be the Regent’s court magician, and the job turns out to be exactly one thing: he is told a problem, he says a word, and the problem stops having existed. The price is never disclosed in advance and never scales with the problem — a finger, then teeth, then every memory of his mother but the fact of her, then the housemaid he had been careful never to speak to, each absence smooth as though nothing had ever been there. Pinsker tells it in the voice of whatever is doing the collecting, patient and a little bored, which converts a fairy tale into a study of how an institution locates the one person whose curiosity it can spend. Three thousand words, a Nebula finalist, and it keeps rearranging itself in your head for days afterward."
   }
 ];
