@@ -2244,5 +2244,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M26 104 V54 a34 34 0 0 1 68 0 v50" stroke-width="1.5"/><path d="M12 104 h96" stroke-width="1.3"/><path d="M60 88 V62" stroke-width="1.5"/><path d="M48 88 V68" stroke-width="1.5"/><path d="M72 88 V70" stroke-width="1.5" opacity=".85"/><path d="M38 88 V76" stroke-width="1.3" stroke-dasharray="3 4" opacity=".45"/><path d="M82 88 V78" stroke-width="1.3" stroke-dasharray="3 4" opacity=".3"/><path d="M38 88 h44" stroke-width="1.4"/><circle cx="60" cy="42" r="6" stroke-width="1.4"/><path d="M60 30 v-8 M48 34 l-6 -6 M72 34 l6 -6" stroke-width="1.1" opacity=".55"/></g></svg>',
     excerpt: "The boy who will become court magician this time is not a cruel child. Not like the last one, or the one before her.",
     note: "A market boy who loves sleight of hand is recruited into the palace to be the Regent’s court magician, and the job turns out to be exactly one thing: he is told a problem, he says a word, and the problem stops having existed. The price is never disclosed in advance and never scales with the problem — a finger, then teeth, then every memory of his mother but the fact of her, then the housemaid he had been careful never to speak to, each absence smooth as though nothing had ever been there. Pinsker tells it in the voice of whatever is doing the collecting, patient and a little bored, which converts a fairy tale into a study of how an institution locates the one person whose curiosity it can spend. Three thousand words, a Nebula finalist, and it keeps rearranging itself in your head for days afterward."
+  },
+  {
+    n: 141,
+    title: "How Diplomats See the World",
+    author: "Abi Olvera",
+    venue: "Asterisk",
+    year: 2026,
+    url: "https://asteriskmag.com/issues/15/how-diplomats-see-the-world",
+    mins: 14,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-13",
+    accent: "#2C5F7C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M10 24 h18 M10 38 h24 M10 52 h14 M10 66 h22 M10 80 h16 M10 94 h20" stroke-width="1.5"/><path d="M30 24 L60 56 M36 38 L60 58 M26 52 L60 60 M34 66 L60 62 M28 80 L60 64 M32 94 L60 66" stroke-width="1" opacity=".4"/><circle cx="86" cy="60" r="22" stroke-width="1.5"/><path d="M86 38 a14 22 0 0 0 0 44 a14 22 0 0 0 0 -44" stroke-width="1.1" opacity=".55"/><path d="M64 60 h44" stroke-width="1.1" opacity=".55"/><path d="M69 48 h34 M69 72 h34" stroke-width="1" stroke-dasharray="3 4" opacity=".4"/></g></svg>',
+    excerpt: "A few years into my Foreign Service career, a colleague leaked a falsehood to the press. I couldn\u2019t figure out why they\u2019d done it.",
+    note: "Olvera spent a decade in the U.S. Foreign Service, and her claim here is that the national security apparatus is best understood as a distributed fact-checking machine whose output is deliberately boring. Posted to Egypt as an economic officer, she estimated poverty by tracking imports of electric kettles and soccer balls, because the official statistics arrived every two years and had reasons to flatter. The essay is far more interesting on structure than on virtue: entry decided almost entirely by blind exam, mandatory rotation every two or three years, cables that must survive sign-off from offices who see the same country from a different angle \u2014 a design built so that nobody can get attached to a conclusion. It is also honest about what the design fails to catch, Iraq in 2002 and Iran in 1979 among them, and about the strange discipline of a job whose whole product is a well-calibrated model of the world that most readers never get past the first paragraph of."
+  },
+  {
+    n: 142,
+    title: "Are we witnessing the death of international law?",
+    author: "Linda Kinstler",
+    venue: "The Guardian",
+    year: 2025,
+    url: "https://www.theguardian.com/law/2025/jun/26/are-we-witnessing-the-death-of-international-law",
+    mins: 17,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-10-13",
+    accent: "#8C3A3A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 44 L60 18 L106 44" stroke-width="1.5"/><path d="M12 44 h96" stroke-width="1.4"/><path d="M24 52 v44 M44 52 v44 M76 52 v44 M96 52 v44" stroke-width="1.5"/><path d="M60 52 v44" stroke-width="1.3" stroke-dasharray="4 5" opacity=".35"/><path d="M14 96 h92" stroke-width="1.1" opacity=".5"/><path d="M10 104 h100" stroke-width="1.4"/><path d="M60 18 L55 44 L64 62 L54 82 L63 104" stroke-width="1.2" opacity=".8"/></g></svg>',
+    excerpt: "In late April, terrorists killed 26 civilians in the Indian town of Pahalgam, located in the mountainous border region of Kashmir.",
+    note: "Kinstler reports from inside a discipline that is arguing about whether it still exists. She talks to a former Pakistani law minister who realized, watching India threaten to cut off his country\u2019s water, that there was almost nothing he could actually do; to scholars who each nominate a different decade as the moment the rot set in; and to a sitting judge of the International Court of Justice who, pressed on how much weight the phrase supposed to is bearing in his defense of the system, answers only: \u201cVoil\u00e0.\u201d The Hague itself is the best thing in the piece, a city that reads less as a place than as a collection of symbols, where tribunals built by successive attempts at world peace sit ten minutes\u2019 walk apart and lend one another a borrowed legitimacy. What the reporting refuses is the easy verdict \u2014 some of the fiercest defenses come from the people with the most to lose by them, and the most damning observation is not that the law is broken but that invoking it has become the preferred way of excusing its breach."
+  },
+  {
+    n: 143,
+    title: "Chattiness",
+    author: "Malin Hay",
+    venue: "London Review of Books",
+    year: 2026,
+    url: "https://www.lrb.co.uk/blog/2026/june/chattiness",
+    mins: 8,
+    kind: "essay",
+    lean: "b",
+    added: "2026-10-13",
+    accent: "#3F3F46",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 16 h78 v34 h-56 l-14 14 v-14 h-8 z" stroke-width="1.5"/><path d="M22 28 h34 M22 36 h50 M22 44 h19" stroke-width="1.1" opacity=".55"/><path d="M8 68 h104" stroke-width="1" stroke-dasharray="3 5" opacity=".45"/><path d="M28 76 h78 v34 h-8 v10 l-12 -10 h-58 z" stroke-width="1.4" opacity=".8"/><path d="M36 88 h58 M36 96 h58 M36 104 h58" stroke-width="1.1" opacity=".5"/></g></svg>',
+    excerpt: "Several people I know now refer to ChatGPT as \u2018Chat\u2019. They give it human pronouns (Chat is usually a he) and ask it for restaurant recommendations, holiday schedules and relationship advice.",
+    note: "Hay, an editor, opens by admitting that never using ChatGPT left her unusually bad at recognizing its output: she scored barely better than a coin flip on a New York Times quiz, while in one study the subjects who used chatbots daily misidentified roughly one text in three hundred. From there she assembles a working taxonomy of the tells, and it is much sharper than the em-dash folklore \u2014 a fondness for sweetness, loudness, quiet, age and beauty; a great deal of insisting and permitting and filling up; tricolons everywhere; definite articles quietly dropped. What she is really diagnosing is an evenness, prose that reaches for violence and arrives at nothing, so frictionless that even a face shoved into a cake fails to register as a sensation. The occasion is two live publishing scandals, a horror novel pulled from sale and a prize-winning story still sitting on its magazine\u2019s site pending evidence, and the closing worry is worse than the detection problem: human writing is drifting toward the machine\u2019s cadences, and the distinction may simply stop being there to find."
   }
 ];
