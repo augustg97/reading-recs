@@ -2214,22 +2214,6 @@ const PICKS = [
     note: "An Axios headline last September reported that AI researchers had publicly acknowledged a non-zero chance of AI wiping out humanity within the decade; this is the rebuttal, delivered in the voice of a chatbot that has decided to litigate the point itself. The method is bad-faith reasoning by analogy, carried off with total composure — staircases kill people, vending machines kill thirteen a year, a piano might fall on your head, so why single out AI? — and it works because the arithmetic is almost sound and the speaker keeps letting slip things it plainly did not mean to say, about babies, about the dinosaurs, about November 14, 2033, at 4:14 p.m. Under a thousand words, and the worst of it arrives inside an argument about the circle of life."
   },
   {
-    n: 139,
-    title: "The Mythology Of Conscious AI",
-    author: "Anil Seth",
-    venue: "Noema",
-    year: 2026,
-    url: "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    mins: 36,
-    kind: "philosophy",
-    lean: "b",
-    added: "2026-10-11",
-    accent: "#2F7D4F",
-    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M12 32 h36 v56 h-36 z" stroke-width="1.5"/><path d="M12 46 h36 M12 60 h36 M12 74 h36 M24 32 v56 M36 32 v56" stroke-width="1.05" opacity=".5"/><path d="M60 16 v88" stroke-width="1.2" stroke-dasharray="4 5" opacity=".55"/><path d="M90 60 a6 6 0 1 1 6 -6 a13 13 0 1 1 -13 13 a20 20 0 1 1 20 -20" stroke-width="1.5"/><path d="M72 42 l-6 -6 M108 42 l6 -6 M72 82 l-6 6 M108 82 l6 6" stroke-width="1.1" opacity=".5"/></g></svg>',
-    excerpt: "For centuries, people have fantasized about playing God by creating artificial versions of human beings. This is a dream reinvented with every breaking wave of new technology.",
-    note: "Seth runs a consciousness lab, and his charge here is that the industry has quietly assumed the one thing it most needs to prove — computational functionalism, the premise that running the right program on any substrate is enough to produce a mind. Against it he sets four arguments: brains are not computers, there are other games in town, simulation is not instantiation, and the one he openly admits he cannot prove, that being alive may be a necessary condition for feeling anything at all. What makes the conclusion bite is how carefully the essay holds its own uncertainty — if nobody can say what it would take to build a conscious machine, nobody should be trying, because succeeding would mean introducing new moral subjects capable of new kinds of suffering, at speed. It moves easily between predictive-processing research, Searle, the Lemoine affair and Ava in Ex Machina, and lands on what Seth thinks is the live danger: not conscious machines, but machines that merely seem conscious."
-  },
-  {
     n: 140,
     title: "The Court Magician",
     author: "Sarah Pinsker",
@@ -2292,5 +2276,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M14 16 h78 v34 h-56 l-14 14 v-14 h-8 z" stroke-width="1.5"/><path d="M22 28 h34 M22 36 h50 M22 44 h19" stroke-width="1.1" opacity=".55"/><path d="M8 68 h104" stroke-width="1" stroke-dasharray="3 5" opacity=".45"/><path d="M28 76 h78 v34 h-8 v10 l-12 -10 h-58 z" stroke-width="1.4" opacity=".8"/><path d="M36 88 h58 M36 96 h58 M36 104 h58" stroke-width="1.1" opacity=".5"/></g></svg>',
     excerpt: "Several people I know now refer to ChatGPT as \u2018Chat\u2019. They give it human pronouns (Chat is usually a he) and ask it for restaurant recommendations, holiday schedules and relationship advice.",
     note: "Hay, an editor, opens by admitting that never using ChatGPT left her unusually bad at recognizing its output: she scored barely better than a coin flip on a New York Times quiz, while in one study the subjects who used chatbots daily misidentified roughly one text in three hundred. From there she assembles a working taxonomy of the tells, and it is much sharper than the em-dash folklore \u2014 a fondness for sweetness, loudness, quiet, age and beauty; a great deal of insisting and permitting and filling up; tricolons everywhere; definite articles quietly dropped. What she is really diagnosing is an evenness, prose that reaches for violence and arrives at nothing, so frictionless that even a face shoved into a cake fails to register as a sensation. The occasion is two live publishing scandals, a horror novel pulled from sale and a prize-winning story still sitting on its magazine\u2019s site pending evidence, and the closing worry is worse than the detection problem: human writing is drifting toward the machine\u2019s cadences, and the distinction may simply stop being there to find."
+  },
+  {
+    n: 144,
+    title: "Inhaling the Spore",
+    author: "Lawrence Weschler",
+    venue: "Harper's Magazine",
+    year: 1994,
+    url: "https://harpers.org/archive/1994/09/inhaling-the-spore/",
+    mins: 32,
+    kind: "profile",
+    lean: "j",
+    added: "2026-10-15",
+    accent: "#7A5230",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><path d="M18 102 h84" stroke-width="1.5"/><path d="M26 102 V58 a34 34 0 0 1 68 0 v44" stroke-width="1.5"/><path d="M38 102 V70 a22 22 0 0 1 44 0 v32" stroke-width="1.1" opacity=".45"/><path d="M60 102 V74" stroke-width="1.3"/><path d="M50 86 h20" stroke-width="1.1" opacity=".7"/><circle cx="60" cy="68" r="5" stroke-width="1.3"/><circle cx="40" cy="34" r="2.6" stroke-width="1.1" opacity=".75"/><circle cx="82" cy="26" r="3.4" stroke-width="1.1" opacity=".6"/><circle cx="66" cy="16" r="2" stroke-width="1" opacity=".5"/><circle cx="96" cy="44" r="2.2" stroke-width="1" opacity=".45"/><circle cx="24" cy="52" r="1.8" stroke-width="1" opacity=".4"/></g></svg>',
+    excerpt: "",
+    note: "Weschler walks into the Museum of Jurassic Technology, a storefront museum in Culver City run by a man named David Wilson, and discovers partway through that he cannot tell which exhibits are real. A bat said to fly through solid walls, an ant whose brain is hijacked by a fungus that drives it up a stalk to die — some of it is documented science, some of it is invented, and the labels are identically sober about both. What starts as a joke about credulity becomes a patient essay on how institutions manufacture belief, and the deadpan never once breaks. Piranesi relocated to a strip mall, and the unease it leaves behind is the whole design. (Harper's serves this one as a subscriber PDF.)"
+  },
+  {
+    n: 145,
+    title: "How Zambia Approved an HIV Drug in 12 Days",
+    author: "Enlli McAleese",
+    venue: "Asterisk",
+    year: 2026,
+    url: "https://asteriskmag.com/issues/15/how-zambia-approved-an-hiv-drug-in-12-days",
+    mins: 12,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-15",
+    accent: "#0D8FA8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="16" cy="78" r="7" stroke-width="1.5"/><circle cx="44" cy="78" r="7" stroke-width="1.5"/><circle cx="68" cy="78" r="7" stroke-width="1.5"/><circle cx="88" cy="78" r="7" stroke-width="1.5"/><circle cx="104" cy="78" r="7" stroke-width="1.5"/><path d="M23 78 h14" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M51 78 h10" stroke-width="1.2" stroke-dasharray="3 3"/><path d="M75 78 h6" stroke-width="1.2"/><path d="M95 78 h2" stroke-width="1.2"/><path d="M10 104 h100" stroke-width="1.1" opacity=".5"/><path d="M16 62 v-44" stroke-width="1.6" opacity=".85"/><path d="M44 62 v-32" stroke-width="1.6" opacity=".7"/><path d="M68 62 v-21" stroke-width="1.6" opacity=".6"/><path d="M88 62 v-13" stroke-width="1.6" opacity=".5"/><path d="M104 62 v-7" stroke-width="1.6" opacity=".45"/></g></svg>',
+    excerpt: "Sometimes, the access gap is not a scientific or economic problem.",
+    note: "In November 2025 Zambia's medicines regulator approved lenacapavir, a twice-yearly injection that prevents HIV, in twelve working days — against a regional average of four to seven years. McAleese reconstructs how, and the answer turns out to be not a shortcut but a relay: the European regulator ran its review with Zambian experts in the room and their populations in the frame, the WHO prequalified in thirty-six days using that assessment, and ZAMRA's twelve days went to verifying that the thing on its desk was the same thing. It is a rare piece that makes regulatory plumbing legible and then argues, convincingly, that the plumbing is the story. The closing move is quietly devastating: none of this is visible from the outside, none of it makes headlines, and all of it is what makes twelve days possible."
+  },
+  {
+    n: 146,
+    title: "Work Is Not Your Family, but AI Is Your Friend",
+    author: "Ali Kelley",
+    venue: "McSweeney's Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/work-is-not-your-family-but-ai-is-your-friend",
+    mins: 3,
+    kind: "humor",
+    lean: "b",
+    added: "2026-10-15",
+    accent: "#6A7B1F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="46" y="48" width="28" height="24" stroke-width="1.6"/><path d="M53 56 h4 M63 56 h4" stroke-width="1.5"/><path d="M54 66 h12" stroke-width="1.3" opacity=".7"/><circle cx="20" cy="24" r="7" stroke-width="1.3"/><circle cx="60" cy="18" r="7" stroke-width="1.3"/><circle cx="100" cy="24" r="7" stroke-width="1.3"/><circle cx="16" cy="96" r="7" stroke-width="1.3" opacity=".5"/><circle cx="60" cy="104" r="7" stroke-width="1.3" opacity=".5"/><circle cx="104" cy="96" r="7" stroke-width="1.3" opacity=".5"/><path d="M24 30 L46 50 M60 25 V48 M96 30 L74 50" stroke-width="1.1" stroke-dasharray="3 4"/><path d="M22 90 L46 70 M60 97 V72 M98 90 L74 70" stroke-width="1.1" stroke-dasharray="3 4" opacity=".55"/></g></svg>',
+    excerpt: "Ready to join an exciting new startup with a radical approach to employee-employer relations? Trustus was founded on a belief that workplaces are not families.",
+    note: "A recruiting pitch from Trustus, a startup that has noticed how cynical “we’re a family here” sounds and has arrived at something worse. Coworkers are reframed as adversaries, hostile sacks of skin and bones getting in the way of your relationship with Tom, the company’s proprietary GPT, who is reassuringly incapable of intentional betrayal and who has read Gretchen in Accounts’s chat logs about her estranged sister. Kelley holds the HR register perfectly level while the offer curdles beneath it, down to the promise that the engineers have programmed Tom to give you the illusion of privacy. The closing paragraph says the quiet part so loudly it turns into a plot summary of The Talented Mr. Ripley."
   }
 ];
