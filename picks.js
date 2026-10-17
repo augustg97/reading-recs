@@ -2324,5 +2324,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><rect x="46" y="48" width="28" height="24" stroke-width="1.6"/><path d="M53 56 h4 M63 56 h4" stroke-width="1.5"/><path d="M54 66 h12" stroke-width="1.3" opacity=".7"/><circle cx="20" cy="24" r="7" stroke-width="1.3"/><circle cx="60" cy="18" r="7" stroke-width="1.3"/><circle cx="100" cy="24" r="7" stroke-width="1.3"/><circle cx="16" cy="96" r="7" stroke-width="1.3" opacity=".5"/><circle cx="60" cy="104" r="7" stroke-width="1.3" opacity=".5"/><circle cx="104" cy="96" r="7" stroke-width="1.3" opacity=".5"/><path d="M24 30 L46 50 M60 25 V48 M96 30 L74 50" stroke-width="1.1" stroke-dasharray="3 4"/><path d="M22 90 L46 70 M60 97 V72 M98 90 L74 70" stroke-width="1.1" stroke-dasharray="3 4" opacity=".55"/></g></svg>',
     excerpt: "Ready to join an exciting new startup with a radical approach to employee-employer relations? Trustus was founded on a belief that workplaces are not families.",
     note: "A recruiting pitch from Trustus, a startup that has noticed how cynical “we’re a family here” sounds and has arrived at something worse. Coworkers are reframed as adversaries, hostile sacks of skin and bones getting in the way of your relationship with Tom, the company’s proprietary GPT, who is reassuringly incapable of intentional betrayal and who has read Gretchen in Accounts’s chat logs about her estranged sister. Kelley holds the HR register perfectly level while the offer curdles beneath it, down to the promise that the engineers have programmed Tom to give you the illusion of privacy. The closing paragraph says the quiet part so loudly it turns into a plot summary of The Talented Mr. Ripley."
+  },
+  {
+    n: 147,
+    title: "The Tale of the Three Beautiful Raptor Sisters, and the Prince Who Was Made of Meat",
+    author: "Brooke Bolander",
+    venue: "Uncanny Magazine",
+    year: 2018,
+    url: "https://www.uncannymagazine.com/article/the-tale-of-the-three-beautiful-raptor-sisters-and-the-prince-who-was-made-of-meat/",
+    mins: 35,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-10-17",
+    accent: "#1E7A5A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round"><path d="M60 104 C42 92 30 72 32 48" stroke-width="1.6"/><path d="M32 48 c-1 -6 3 -11 9 -13" stroke-width="1.4"/><path d="M60 104 C58 84 58 62 60 40" stroke-width="1.6"/><path d="M60 40 c0 -6 4 -10 10 -11" stroke-width="1.4"/><path d="M60 104 C78 92 90 72 88 48" stroke-width="1.6"/><path d="M88 48 c1 -6 -3 -11 -9 -13" stroke-width="1.4"/><circle cx="60" cy="104" r="3" stroke-width="1.3"/><path d="M24 18 v13 M17 24.5 h14 M19 19.5 l10 10 M29 19.5 l-10 10" stroke-width="1.1" opacity=".6"/><path d="M78 115 v-8 l4 4 l4 -7 l4 7 l4 -4 v8 z" stroke-width="1.2" opacity=".5"/></g></svg>',
+    excerpt: "Once upon a time, long, long, long, long, long, long, ago, there were three raptor sisters, hatched beneath a lucky star.",
+    note: "A fairy tale told raptor-to-hatchling, in which three dromaeosaur sisters sharing a wood are interrupted by a prince too incurious to run when one of them eats his horse. Bolander keeps the storyteller’s endearments coming — ‘love of my gizzard’ — while the comedy curdles into something with teeth: the court is a machine for applauding a man who has just discovered that decisions exist, and the witch-princess who frees the captive sister has been waiting years for anyone to ask whether she is happy. The glamour spell that disguises two raptors as apple-selling grandmothers produces the best dialogue in the story, all of it shouted in capitals. A Hugo finalist that is funny on every page and never once cute."
+  },
+  {
+    n: 148,
+    title: "Getting Good",
+    author: "Harry Levov",
+    venue: "The Point",
+    year: 2026,
+    url: "https://thepointmag.com/examined-life/getting-good-effective-altruism/",
+    mins: 31,
+    kind: "journalism",
+    lean: "b",
+    added: "2026-10-17",
+    accent: "#4A4FA8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)"><circle cx="46" cy="52" r="11" stroke-width="1.6"/><circle cx="46" cy="52" r="22" stroke-width="1.3" opacity=".65"/><circle cx="46" cy="52" r="33" stroke-width="1.1" opacity=".4"/><circle cx="46" cy="52" r="3" stroke-width="1.4"/><rect x="78" y="92" width="30" height="18" rx="2" stroke-width="1.5"/><path d="M83 100 h20" stroke-width="1.1" opacity=".7"/><path d="M83 105 h12" stroke-width="1.1" opacity=".5"/><path d="M93 92 L85 68 M93 92 L101 68" stroke-width="1.2"/><path d="M85 68 a8 8 0 0 1 16 0" stroke-width="1.2" opacity=".8"/></g></svg>',
+    excerpt: "On a dark, gray day in October 2025, the first dozen attendees of the Effective Altruism Global conference make their way to the Sheraton Hotel just north of Times Square in New York City.",
+    note: "Levov spends a weekend at the Effective Altruism Global conference in a Midtown Sheraton and files the rare conference piece that takes the ideas as seriously as the lanyards. The detail is close and unmalicious — the index card hand-lettered in cursive, the shirts printed with the movement’s three-line creed, the Soylent, nobody pausing long enough to chew — and it keeps circling what makes the movement strange: a philosophy that began with Singer’s drowning child has quietly moved something like half its labor and capital to AI safety, and no one in the room treats that as a change of subject. Some attendees are reading floating-point matrices for signs of the apocalypse while others install electrical stunners at Vietnamese shrimp farms, and the piece holds both in frame without reaching for the easy joke. What it arrives at is a portrait of a faith community that replaced revelation with arithmetic, rituals and tithes intact, and it declines to settle whether the arithmetic is wrong."
+  },
+  {
+    n: 149,
+    title: "How TV learned to sell itself",
+    author: "Virginia Postrel",
+    venue: "Works in Progress",
+    year: 2026,
+    url: "https://worksinprogress.co/issue/how-tv-learned-to-sell-itself/",
+    mins: 7,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-17",
+    accent: "#8E3B8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round"><rect x="22" y="40" width="76" height="52" rx="7" stroke-width="1.6"/><path d="M54 40 L38 18 M66 40 L82 18" stroke-width="1.3"/><circle cx="37" cy="16" r="2.4" stroke-width="1.2"/><circle cx="83" cy="16" r="2.4" stroke-width="1.2"/><path d="M60 92 v9 M50 101 h20" stroke-width="1.3" opacity=".7"/><path d="M60 54 L43 79 M43 79 h34 M77 79 L60 54" stroke-width="1.3" opacity=".85"/><circle cx="60" cy="54" r="3.6" stroke-width="1.3"/><circle cx="43" cy="79" r="3.6" stroke-width="1.3"/><circle cx="77" cy="79" r="3.6" stroke-width="1.3"/><path d="M28 48 h8 M28 54 h5" stroke-width="1" opacity=".35"/></g></svg>',
+    excerpt: "By late January 1945, the end of World War II finally seemed in sight. American business leaders began thinking about introducing products delayed by the war.",
+    note: "In 1945 television had a bootstrapping problem that a Zenith executive called a vicious triangle: shows needed advertisers, advertisers needed audiences, and audiences needed shows worth buying a set for. Postrel’s answer to how the medium escaped is sports — ready-made productions that arrived with their own stages, stars and fan bases — and the texture of the escape is the pleasure of the piece: bars propping magnifying glasses in front of fifty-two-square-inch screens, a Methodist church outside Philadelphia drawing a hundred and twenty-five teenagers to a Phillies game, a football coach predicting that broadcasting would leave ten college teams standing. Seven minutes, and underneath the anecdotes it is an essay about what a new platform has to solve all at once — hardware, content, revenue — which is a shorter list for almost everything that came after."
   }
 ];
