@@ -2372,5 +2372,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round"><rect x="22" y="40" width="76" height="52" rx="7" stroke-width="1.6"/><path d="M54 40 L38 18 M66 40 L82 18" stroke-width="1.3"/><circle cx="37" cy="16" r="2.4" stroke-width="1.2"/><circle cx="83" cy="16" r="2.4" stroke-width="1.2"/><path d="M60 92 v9 M50 101 h20" stroke-width="1.3" opacity=".7"/><path d="M60 54 L43 79 M43 79 h34 M77 79 L60 54" stroke-width="1.3" opacity=".85"/><circle cx="60" cy="54" r="3.6" stroke-width="1.3"/><circle cx="43" cy="79" r="3.6" stroke-width="1.3"/><circle cx="77" cy="79" r="3.6" stroke-width="1.3"/><path d="M28 48 h8 M28 54 h5" stroke-width="1" opacity=".35"/></g></svg>',
     excerpt: "By late January 1945, the end of World War II finally seemed in sight. American business leaders began thinking about introducing products delayed by the war.",
     note: "In 1945 television had a bootstrapping problem that a Zenith executive called a vicious triangle: shows needed advertisers, advertisers needed audiences, and audiences needed shows worth buying a set for. Postrel’s answer to how the medium escaped is sports — ready-made productions that arrived with their own stages, stars and fan bases — and the texture of the escape is the pleasure of the piece: bars propping magnifying glasses in front of fifty-two-square-inch screens, a Methodist church outside Philadelphia drawing a hundred and twenty-five teenagers to a Phillies game, a football coach predicting that broadcasting would leave ten college teams standing. Seven minutes, and underneath the anecdotes it is an essay about what a new platform has to solve all at once — hardware, content, revenue — which is a shorter list for almost everything that came after."
+  },
+  {
+    n: 150,
+    title: "Is AI the End of Math As We Know It?",
+    author: "Jordana Cepelewicz",
+    venue: "Quanta Magazine",
+    year: 2026,
+    url: "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+    mins: 16,
+    kind: "essay",
+    lean: "b",
+    added: "2026-10-19",
+    accent: "#C2410C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linejoin="round"><path d="M8 96 L40 44 L58 70 L76 30 L112 96 Z" stroke-width="1.6"/><path d="M68 44 L76 30 L84 46 L76 52 Z" stroke-width="1.2" opacity=".6"/><circle cx="76" cy="22" r="3.4" stroke-width="1.4"/><path d="M14 92 C30 86 34 74 44 72 C52 70 56 64 62 62" stroke-width="1.1" stroke-dasharray="2 6" opacity=".45"/><rect x="69" y="84" width="9" height="9" stroke-width="1.2" opacity=".7"/><path d="M8 106 h104" stroke-width="1" opacity=".35"/></g></svg>',
+    excerpt: "Throughout the summer of 2026, there were plenty of signs of what was to come.",
+    note: "Through the summer of 2026 the models kept producing proofs of long-open conjectures, and Cepelewicz went to find out how mathematicians were taking it. Badly, mostly: a Berkeley colloquium booked for fifty minutes ran past two hours, students lingering afterward to console one another, one researcher likening a colleague’s enthusiasm to Saruman’s. The grief turns out to rest on a precise complaint — machine proofs are verified true and nearly unreadable, eliding the salient steps and wasting pages on the irrelevant, so the field is handed answers while losing the understanding it actually trades in. A dispatch from inside a discipline discovering that its product was never the theorems."
+  },
+  {
+    n: 151,
+    title: "Some Moral and Technical Consequences of Automation",
+    author: "Norbert Wiener",
+    venue: "Science",
+    year: 1960,
+    url: "https://www.cs.umd.edu/users/gasarch/BLOGPAPERS/moral.pdf",
+    mins: 14,
+    kind: "philosophy",
+    lean: "a",
+    added: "2026-10-19",
+    accent: "#7B1E3B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round"><rect x="42" y="42" width="36" height="36" rx="3" stroke-width="1.6"/><path d="M50 54 h8 M62 54 h8 M52 66 h16" stroke-width="1.2" opacity=".7"/><path d="M60 18 A42 42 0 0 1 102 60" stroke-width="1.5"/><path d="M95 51 L102 60 L93 64" stroke-width="1.5"/><path d="M102 60 A42 42 0 0 1 60 102" stroke-width="1.5"/><path d="M60 102 A42 42 0 0 1 18 60" stroke-width="1.2" stroke-dasharray="3 6" opacity=".45"/><path d="M18 60 A42 42 0 0 1 44 21" stroke-width="1.2" stroke-dasharray="3 6" opacity=".28"/><path d="M26 26 l7 7 M20 38 l9 3 M38 18 l3 9" stroke-width="1.1" opacity=".55"/></g></svg>',
+    excerpt: "Some 13 years ago, a book of mine was published by the name of Cybernetics.",
+    note: "Four pages, adapted from a lecture Wiener gave to the AAAS in December 1959, in which the founder of cybernetics states the alignment problem and then reaches for horror stories to explain it. He begins with checkers programs that beat the men who wrote them after ten or twenty hours of play, detours through Nelson and Napoleon and Russell’s barber paradox, and arrives at the sorcerer’s apprentice, the genie in the Arabian Nights, and W. W. Jacobs’s “The Monkey’s Paw” — all of them, he notes, stories about agencies that are literal-minded. The conclusion is that when a machine acts faster than we can intervene, we had better be sure the purpose put into it is the one we really want and not a colorful imitation of it. The link is the original scanned Science pages, which is part of the pleasure."
+  },
+  {
+    n: 152,
+    title: "Making A Great Fantasy Map Is An Art, And Ross Douthat Sucks At It",
+    author: "Albert Burneko",
+    venue: "Defector",
+    year: 2026,
+    url: "https://defector.com/making-a-great-fantasy-map-is-an-art-and-ross-douthat-sucks-at-it",
+    mins: 7,
+    kind: "humor",
+    lean: "j",
+    added: "2026-10-19",
+    accent: "#B08900",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><rect x="12" y="14" width="96" height="92" stroke-width="1.5"/><path d="M12 30 C30 26 34 42 48 40 C62 38 66 52 60 62 C54 72 62 84 56 94 C52 100 36 98 24 104" stroke-width="1.3" opacity=".8"/><path d="M64 46 l7 -11 l7 11 M77 44 l8 -13 l8 13 M70 58 l6 -10 l6 10" stroke-width="1.3"/><path d="M64 78 h38" stroke-width="1.1" stroke-dasharray="4 4" opacity=".5"/><path d="M96 18 v11 M90 23 h12 M92 19 l8 8 M100 19 l-8 8" stroke-width="1" opacity=".55"/><circle cx="84" cy="92" r="2.6" stroke-width="1.2"/><circle cx="100" cy="66" r="2.6" stroke-width="1.2" opacity=".7"/></g></svg>',
+    excerpt: "That is virtually all I will ever know about The Falcon’s Children, and I beseech you, tender reader, to follow my example. I am here today to talk about fantasy maps.",
+    note: "The occasion is the hand-drawn map in Ross Douthat’s new YA fantasy novel; the actual subject is why a map in a fantasy novel is a piece of storytelling rather than a reference aid. Burneko’s case is that the map in The Hobbit works on a third-grader before a page has been read — the Misty Mountains dividing the safe west from the spooky east, the Gap of Rohan sitting there as a bottleneck where something is obviously going to happen — and that Westeros pulls the same trick with a Wall and an improbably straight river. Set against that, Douthat offers a shapeless blob called The Guardians and a town named Darkhaven, which prompts a small aria on how people who actually live somewhere name the places they live. It is funniest exactly where it is most rigorous."
   }
 ];
