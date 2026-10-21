@@ -2420,5 +2420,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><rect x="12" y="14" width="96" height="92" stroke-width="1.5"/><path d="M12 30 C30 26 34 42 48 40 C62 38 66 52 60 62 C54 72 62 84 56 94 C52 100 36 98 24 104" stroke-width="1.3" opacity=".8"/><path d="M64 46 l7 -11 l7 11 M77 44 l8 -13 l8 13 M70 58 l6 -10 l6 10" stroke-width="1.3"/><path d="M64 78 h38" stroke-width="1.1" stroke-dasharray="4 4" opacity=".5"/><path d="M96 18 v11 M90 23 h12 M92 19 l8 8 M100 19 l-8 8" stroke-width="1" opacity=".55"/><circle cx="84" cy="92" r="2.6" stroke-width="1.2"/><circle cx="100" cy="66" r="2.6" stroke-width="1.2" opacity=".7"/></g></svg>',
     excerpt: "That is virtually all I will ever know about The Falcon’s Children, and I beseech you, tender reader, to follow my example. I am here today to talk about fantasy maps.",
     note: "The occasion is the hand-drawn map in Ross Douthat’s new YA fantasy novel; the actual subject is why a map in a fantasy novel is a piece of storytelling rather than a reference aid. Burneko’s case is that the map in The Hobbit works on a third-grader before a page has been read — the Misty Mountains dividing the safe west from the spooky east, the Gap of Rohan sitting there as a bottleneck where something is obviously going to happen — and that Westeros pulls the same trick with a Wall and an improbably straight river. Set against that, Douthat offers a shapeless blob called The Guardians and a town named Darkhaven, which prompts a small aria on how people who actually live somewhere name the places they live. It is funniest exactly where it is most rigorous."
+  },
+  {
+    n: 153,
+    title: "A Human Stain",
+    author: "Kelly Robson",
+    venue: "Tor.com",
+    year: 2017,
+    url: "https://reactormag.com/a-human-stain/",
+    mins: 39,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-10-21",
+    accent: "#4A5D4E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M8 74 h104" stroke-width="1.2" opacity=".5"/><path d="M38 74 V26 h28 v48" stroke-width="1.5"/><path d="M38 26 l14 -12 l14 12" stroke-width="1.4"/><rect x="47" y="34" width="10" height="12" stroke-width="1.3"/><path d="M40 82 v22 M52 82 v26 M64 82 v22" stroke-width="1" stroke-dasharray="3 5" opacity=".45"/><path d="M14 68 c8 -5 14 1 22 -3" stroke-width="1.1" opacity=".55"/><path d="M78 92 l16 10 M78 102 l16 -10 M80 86 v22 M92 86 v22" stroke-width="1.2" opacity=".8"/><circle cx="52" cy="40" r="2" stroke-width="1.1" opacity=".7"/></g></svg>',
+    excerpt: "Peter’s little French nursemaid was just the type of rosy young thing Helen liked, but there was something strange about her mouth.",
+    note: "A British woman at loose ends in 1890s Europe follows a grieving friend to a half-ruined house on a German lake, where an orphaned boy and a beautiful mute nursemaid are waiting. Robson builds the dread almost entirely out of manners — who is permitted to speak, who is merely looked at — and the horror, when it finally arrives, is a matter of what a household will quietly agree to maintain. The prose is cool and exact where the material is lurid, which is what makes it land. It belongs to the small class of gothic stories whose real subject is the architecture of complicity."
+  },
+  {
+    n: 154,
+    title: "We already know what a world without work looks like",
+    author: "Clara Collier",
+    venue: "Asterisk Magazine",
+    year: 2026,
+    url: "https://asteriskmag.substack.com/p/we-already-know-what-a-world-without",
+    mins: 20,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-21",
+    accent: "#5A6B8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><circle cx="60" cy="48" r="32" stroke-width="1.3" opacity=".6"/><circle cx="60" cy="16" r="3" stroke-width="1.4"/><circle cx="88" cy="32" r="3" stroke-width="1.4"/><circle cx="88" cy="64" r="3" stroke-width="1.4"/><circle cx="60" cy="80" r="3" stroke-width="1.4"/><circle cx="32" cy="64" r="3" stroke-width="1.4"/><circle cx="32" cy="32" r="3" stroke-width="1.4"/><path d="M60 16 L88 64 M88 32 L32 64 M32 32 L60 80 M88 32 L60 80" stroke-width="1" opacity=".55"/><path d="M12 100 h96" stroke-width="1.5"/><path d="M24 96 v8 M44 96 v8 M64 96 v8 M84 96 v8 M104 96 v8" stroke-width="1.1" opacity=".7"/></g></svg>',
+    excerpt: "What will people do all day? I mean, of course, if the AIs surpass us at all economically necessary forms of labor.",
+    note: "If machines take over every job that pays, the consoling answer is that our relationships will be what is left — and this essay goes looking for societies that already ran that experiment. It finds the court of Louis XIV, where the most perceptive memoirist of the age spent his life litigating who could wear which hat; Midwestern society women in 1984, volunteering at the symphony for what one of them calls the illusion of being useful; and Italian-American Boston in 1958, warm, close-knit, and merciless to any boy who did too well in school. The pattern is consistent and unflattering: when dignity comes from belonging rather than doing, people spend their days policing who else belongs. An argument about the future built almost entirely out of ethnography, ending on two cautious cheers for the work ethic."
+  },
+  {
+    n: 155,
+    title: "The Gospel according to Peter (Thiel)",
+    author: "David Gibson",
+    venue: "The Verge",
+    year: 2026,
+    url: "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+    mins: 14,
+    kind: "essay",
+    lean: "b",
+    added: "2026-10-21",
+    accent: "#6B21A8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M42 102 V58 c0 -14 8 -24 18 -24 c10 0 18 10 18 24 v44 Z" stroke-width="1.5"/><path d="M60 34 V12" stroke-width="1.2" opacity=".7"/><path d="M60 18 l-16 -8 M60 18 l16 -8 M60 24 l-22 -4 M60 24 l22 -4" stroke-width="1" opacity=".5"/><circle cx="60" cy="68" r="4" stroke-width="1.3"/><path d="M60 72 v12" stroke-width="1.2"/><path d="M14 88 h22 M84 88 h22" stroke-width="1.1" stroke-dasharray="4 4" opacity=".5"/><path d="M24 108 l16 -10 M96 108 l-16 -10" stroke-width="1" opacity=".45"/></g></svg>',
+    excerpt: "It’s a time of apocalyptic worldviews in Silicon Valley.",
+    note: "Since 2025 Peter Thiel has been giving invitation-only, multipart lectures in San Francisco on the Antichrist, and a scholar of religion who has now read them explains what the billionaire actually believes. The argument runs that effective altruism — utilitarian, longtermist, and by now embedded across the AI industry — is the mechanism by which the Antichrist arrives, which makes a venture capitalist the most widely discussed Christian theologian in America. Gibson directs a center on religion and culture, so he takes the eschatology seriously as eschatology rather than as a tic of the very rich, which is exactly what makes the reading so strange. Two apocalypses competing for the same future, each convinced the other is bringing it on."
   }
 ];
