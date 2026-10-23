@@ -2468,5 +2468,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M42 102 V58 c0 -14 8 -24 18 -24 c10 0 18 10 18 24 v44 Z" stroke-width="1.5"/><path d="M60 34 V12" stroke-width="1.2" opacity=".7"/><path d="M60 18 l-16 -8 M60 18 l16 -8 M60 24 l-22 -4 M60 24 l22 -4" stroke-width="1" opacity=".5"/><circle cx="60" cy="68" r="4" stroke-width="1.3"/><path d="M60 72 v12" stroke-width="1.2"/><path d="M14 88 h22 M84 88 h22" stroke-width="1.1" stroke-dasharray="4 4" opacity=".5"/><path d="M24 108 l16 -10 M96 108 l-16 -10" stroke-width="1" opacity=".45"/></g></svg>',
     excerpt: "It’s a time of apocalyptic worldviews in Silicon Valley.",
     note: "Since 2025 Peter Thiel has been giving invitation-only, multipart lectures in San Francisco on the Antichrist, and a scholar of religion who has now read them explains what the billionaire actually believes. The argument runs that effective altruism — utilitarian, longtermist, and by now embedded across the AI industry — is the mechanism by which the Antichrist arrives, which makes a venture capitalist the most widely discussed Christian theologian in America. Gibson directs a center on religion and culture, so he takes the eschatology seriously as eschatology rather than as a tic of the very rich, which is exactly what makes the reading so strange. Two apocalypses competing for the same future, each convinced the other is bringing it on."
+  },
+  {
+    n: 156,
+    title: "Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI",
+    author: "Ben Tarnoff",
+    venue: "The Guardian",
+    year: 2023,
+    url: "https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai",
+    mins: 28,
+    kind: "profile",
+    lean: "b",
+    added: "2026-10-23",
+    accent: "#15727A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M60 10 V110" stroke-width="1" stroke-dasharray="3 5" opacity=".45"/><path d="M18 28 h34 M68 42 h34 M18 56 h28 M68 70 h28" stroke-width="1.6"/><path d="M54 30 l10 10 M64 44 l-10 -10" stroke-width="1" opacity=".5"/><path d="M48 58 l14 10 M62 72 l-14 -10" stroke-width="1" opacity=".5"/><circle cx="26" cy="96" r="7" stroke-width="1.4"/><rect x="80" y="89" width="15" height="15" rx="2" stroke-width="1.4"/><path d="M34 96 h14 M66 96 h14" stroke-width="1.1" opacity=".55"/><path d="M52 96 h8" stroke-width="1" stroke-dasharray="2 3" opacity=".5"/></g></svg>',
+    excerpt: "In 1966, an MIT professor named Joseph Weizenbaum created the first chatbot. He cast it in the role of a psychotherapist.",
+    note: "In 1966 an MIT professor built a program that answered typed sentences the way a psychotherapist might, and then watched his own secretary ask him to leave the room so she could speak to it privately. Tarnoff makes that moment the hinge of a life: the man who stumbled onto what became the Eliza effect went on to call himself a heretic inside the cathedral of modern science, arguing by the 1970s that the computer revolution had been a counter-revolution, strengthening the powers it was supposed to dissolve. The biography earns the argument — a Jewish boyhood in Berlin as the SA filled the streets, a long entanglement with psychoanalysis and transference, a mind that found computers easy and life hard. What survives best is the distinction nobody wanted him to draw: not what a machine is able to decide, but what a person should never hand over."
+  },
+  {
+    n: 157,
+    title: "Man-Computer Symbiosis",
+    author: "J. C. R. Licklider",
+    venue: "IRE Transactions on Human Factors in Electronics",
+    year: 1960,
+    url: "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
+    mins: 23,
+    kind: "essay",
+    lean: "a",
+    added: "2026-10-23",
+    accent: "#9A6B2F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><circle cx="48" cy="60" r="27" stroke-width="1.5"/><rect x="46" y="33" width="54" height="54" rx="3" stroke-width="1.5"/><path d="M56 41 v38 M66 41 v38 M76 41 v38 M86 41 v38" stroke-width=".9" opacity=".4"/><path d="M50 47 h46 M50 60 h46 M50 73 h46" stroke-width=".9" opacity=".4"/><path d="M14 60 c7 -15 20 -15 27 0 c7 15 20 15 27 0" stroke-width="1.3" stroke-dasharray="4 4" opacity=".7"/><circle cx="48" cy="60" r="3.5" stroke-width="1.3"/><path d="M26 96 h68" stroke-width="1.1" opacity=".5"/></g></svg>',
+    excerpt: "The fig tree is pollinated only by the insect Blastophaga grossorun. The larva of the insect lives in the ovary of the fig tree, and there it gets its food.",
+    note: "Published in a journal of human-factors engineering in March 1960, this is the paper that first imagined the computer as a colleague rather than a calculator, and it opens, startlingly, with a fig tree and the wasp that is the only thing able to pollinate it. Licklider's case is that men and machines are so unalike that a tight partnership would think thoughts neither could reach alone, and he arrives there by way of a time-and-motion study of his own working life, in which he found that eighty-five per cent of his thinking time went to getting into a position to think. From there he predicts time-sharing, a network of linked thinking centres, drawing graphs by hand for a machine to read back in clean type, and speech recognition within five years — while conceding, cheerfully, that machines will eventually outdo the human brain at most of what we consider ours. The optimistic twin of the warnings written that same year, and the line it keeps circling back to is Poincaré's: the question is not what is the answer, the question is what is the question."
+  },
+  {
+    n: 158,
+    title: "The Revenge of the Home Page",
+    author: "Kyle Chayka",
+    venue: "The New Yorker",
+    year: 2024,
+    url: "https://www.newyorker.com/culture/infinite-scroll/the-revenge-of-the-home-page",
+    mins: 7,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-10-23",
+    accent: "#BE185D",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><rect x="31" y="26" width="58" height="68" rx="3" stroke-width="1.6"/><path d="M31 40 h58" stroke-width="1.3"/><circle cx="38" cy="33" r="2" stroke-width="1"/><circle cx="46" cy="33" r="2" stroke-width="1"/><path d="M38 50 h44 M38 58 h44 M38 66 h28" stroke-width="1.1" opacity=".65"/><rect x="38" y="74" width="19" height="13" rx="1.5" stroke-width="1.1" opacity=".65"/><rect x="63" y="74" width="19" height="13" rx="1.5" stroke-width="1.1" opacity=".65"/><path d="M12 20 h9 M11 34 l7 6 M9 60 h9 M12 86 l8 -5" stroke-width="1" opacity=".45"/><path d="M102 22 c9 13 9 30 2 41" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/><path d="M108 96 c-8 -6 -12 -14 -12 -23" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/></g></svg>',
+    excerpt: "Nilay Patel, the editor-in-chief of the digital technology publication The Verge, has lately taken to describing theverge.com as “the last Web site on earth.”",
+    note: "The home page was pronounced dead around 2015, when publishers handed distribution to the social platforms; this column reports on its return, by the simple method of asking editors which URLs people actually type. The Verge's editor calls his site the last website on earth and has the loyalty numbers to make the joke stick; Semafor's co-founder, who once ran a newsroom built entirely for Facebook, says home pages were never dead, just resting; three-quarters of Defector's subscriber visits begin at the front door. The strangest witness is Arts & Letters Daily, founded in 1998 and unchanged since, posting three links a day in a format so dated it now reads as fresh. A short, oddly cheerful piece about infrastructure rotting into something better, ending on a line worth keeping: if you stay put long enough, everything returns."
   }
 ];
