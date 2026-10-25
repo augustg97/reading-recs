@@ -2516,5 +2516,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><rect x="31" y="26" width="58" height="68" rx="3" stroke-width="1.6"/><path d="M31 40 h58" stroke-width="1.3"/><circle cx="38" cy="33" r="2" stroke-width="1"/><circle cx="46" cy="33" r="2" stroke-width="1"/><path d="M38 50 h44 M38 58 h44 M38 66 h28" stroke-width="1.1" opacity=".65"/><rect x="38" y="74" width="19" height="13" rx="1.5" stroke-width="1.1" opacity=".65"/><rect x="63" y="74" width="19" height="13" rx="1.5" stroke-width="1.1" opacity=".65"/><path d="M12 20 h9 M11 34 l7 6 M9 60 h9 M12 86 l8 -5" stroke-width="1" opacity=".45"/><path d="M102 22 c9 13 9 30 2 41" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/><path d="M108 96 c-8 -6 -12 -14 -12 -23" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/></g></svg>',
     excerpt: "Nilay Patel, the editor-in-chief of the digital technology publication The Verge, has lately taken to describing theverge.com as “the last Web site on earth.”",
     note: "The home page was pronounced dead around 2015, when publishers handed distribution to the social platforms; this column reports on its return, by the simple method of asking editors which URLs people actually type. The Verge's editor calls his site the last website on earth and has the loyalty numbers to make the joke stick; Semafor's co-founder, who once ran a newsroom built entirely for Facebook, says home pages were never dead, just resting; three-quarters of Defector's subscriber visits begin at the front door. The strangest witness is Arts & Letters Daily, founded in 1998 and unchanged since, posting three links a day in a format so dated it now reads as fresh. A short, oddly cheerful piece about infrastructure rotting into something better, ending on a line worth keeping: if you stay put long enough, everything returns."
+  },
+  {
+    n: 159,
+    title: "Parkinson’s Law",
+    author: "C. Northcote Parkinson",
+    venue: "The Economist",
+    year: 1955,
+    url: "https://www.economist.com/news/1955/11/19/parkinsons-law",
+    mins: 13,
+    kind: "humor",
+    lean: "a",
+    added: "2026-10-25",
+    accent: "#2E5E8A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><circle cx="60" cy="22" r="9" stroke-width="1.6"/><path d="M60 16 v6 l4 3" stroke-width="1.2"/><path d="M60 31 v8" stroke-width="1.3"/><path d="M36 39 h48" stroke-width="1.3"/><path d="M36 39 v7 M84 39 v7" stroke-width="1.3"/><circle cx="36" cy="50" r="4" stroke-width="1.2"/><circle cx="84" cy="50" r="4" stroke-width="1.2"/><path d="M36 54 v6 M84 54 v6" stroke-width="1.1" opacity=".8"/><path d="M22 60 h28 M70 60 h28" stroke-width="1.1" opacity=".8"/><path d="M22 60 v6 M50 60 v6 M70 60 v6 M98 60 v6" stroke-width="1.1" opacity=".8"/><circle cx="22" cy="70" r="3" stroke-width="1"/><circle cx="50" cy="70" r="3" stroke-width="1"/><circle cx="70" cy="70" r="3" stroke-width="1"/><circle cx="98" cy="70" r="3" stroke-width="1"/><path d="M22 73 v5 M50 73 v5 M70 73 v5 M98 73 v5" stroke-width="1" opacity=".55"/><path d="M14 78 h16 M42 78 h16 M62 78 h16 M90 78 h16" stroke-width="1" opacity=".55"/><path d="M14 78 v5 M30 78 v5 M42 78 v5 M58 78 v5 M62 78 v5 M78 78 v5 M90 78 v5 M106 78 v5" stroke-width="1" opacity=".55"/><circle cx="14" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><circle cx="30" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><circle cx="42" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><circle cx="58" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><circle cx="62" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><circle cx="78" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><circle cx="90" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><circle cx="106" cy="86" r="2.2" stroke-width=".9" opacity=".5"/><path d="M18 102 c14 -5 30 -7 42 -7 s28 2 42 7" stroke-width="1" stroke-dasharray="3 4" opacity=".4"/></g></svg>',
+    excerpt: "The report of the Royal Commission on the Civil Service was published on Thursday afternoon. Time has not permitted any comment in this week’s issue of The Economist on the contents of the Report.",
+    note: "Published unsigned in The Economist — the magazine credited only a correspondent — in the same week the Royal Commission on the Civil Service reported, this is the essay that gave the world the line about work expanding to fill the time available, and almost nobody who quotes it has read what comes next. Parkinson was a naval historian, and his evidence is the Admiralty: a fleet that shrank year after year while the shore staff administering it grew. From two axioms — officials multiply subordinates rather than rivals, and officials make work for each other — he derives, in genuine arithmetic with a formula for the annual rate of increase, the conclusion that the growth of an administration bears no relationship whatever to the work there is to do. A joke delivered with a perfectly straight face and real figures behind it, which is why seventy years on it reads less like satire than like a field guide."
+  },
+  {
+    n: 160,
+    title: "Ten Excerpts from an Annotated Bibliography on the Cannibal Women of Ratnabar Island",
+    author: "Nibedita Sen",
+    venue: "Nightmare Magazine",
+    year: 2019,
+    url: "https://www.nightmare-magazine.com/fiction/ten-excerpts-from-an-annotated-bibliography-on-the-cannibal-women-of-ratnabar-island/",
+    mins: 7,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-10-25",
+    accent: "#6B4226",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M22 20 h4 M32 20 h58" stroke-width="1.3"/><path d="M32 27 h44" stroke-width="1.1" opacity=".75"/><path d="M22 36 h4 M32 36 h52" stroke-width="1.3"/><path d="M32 43 h38" stroke-width="1.1" opacity=".75"/><path d="M22 52 h4 M32 52 h61" stroke-width="1.3"/><path d="M32 59 h27" stroke-width="1.1" opacity=".75"/><path d="M22 68 h4 M32 68 h34" stroke-width="1.3" stroke-dasharray="7 5"/><circle cx="96" cy="27" r="1.6" stroke-width=".9" opacity=".6"/><circle cx="96" cy="43" r="1.6" stroke-width=".9" opacity=".6"/><circle cx="96" cy="59" r="1.6" stroke-width=".9" opacity=".6"/><path d="M14 82 h92" stroke-width="1.2"/><path d="M38 82 c4 -9 12 -13 22 -13 s18 4 22 13" stroke-width="1.5"/><path d="M42 92 l5 8 l5 -8 l5 8 l5 -8 l5 8 l5 -8 l5 8 l5 -8" stroke-width="1.2" opacity=".85"/><path d="M18 90 c5 3 11 3 16 0 M86 90 c5 3 11 3 16 0" stroke-width="1" stroke-dasharray="2 3" opacity=".45"/><path d="M60 69 v-5" stroke-width="1" opacity=".5"/></g></svg>',
+    excerpt: "There are few tales as tragic as that of the denizens of Ratnabar Island.",
+    note: "A Nebula finalist told entirely in citations: ten entries from a student's annotated bibliography on a British expedition that made landfall on an Andaman island in 1891, was offered a welcoming meal, and answered it with a massacre. The sources argue with one another across a century — a headmistress's self-exculpating 1943 account, a chapter on why a hungry woman is dangerous, an ethnographer reaching for Kristeva, a descendant losing patience with every one of them — and the story is what assembles in the gaps between them. Fourteen hundred words, no narrator at all, and the horror arrives through the one thing an academic apparatus cannot keep out: the voices of the people being written about. Then a bracketed line at the foot of the page names who submitted the assignment, and for which class, and resets everything above it."
+  },
+  {
+    n: 161,
+    title: "Could AI Have Consciousness That Isn’t Human-Like?",
+    author: "Peter Godfrey-Smith & Kristen French",
+    venue: "Nautilus",
+    year: 2026,
+    url: "https://nautil.us/could-ai-have-consciousness-that-isnt-human-like-1285156",
+    mins: 13,
+    kind: "interview",
+    lean: "b",
+    added: "2026-10-25",
+    accent: "#2F7A4F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><circle cx="60" cy="42" r="26" stroke-width="1.6"/><circle cx="60" cy="42" r="9" stroke-width="1.4"/><circle cx="41" cy="24" r="5" stroke-width="1.2"/><circle cx="79" cy="24" r="5" stroke-width="1.2"/><path d="M34 42 h17 M69 42 h17" stroke-width="1" opacity=".55"/><path d="M60 16 v17 M60 51 v17" stroke-width="1" opacity=".55"/><path d="M45 27 l9 9 M75 27 l-9 9 M45 57 l9 -9 M75 57 l-9 -9" stroke-width="1" opacity=".45"/><path d="M10 92 c6 -14 12 14 18 0 c6 -14 12 14 18 0 c6 -14 12 14 18 0 c6 -14 12 14 18 0 c6 -14 12 14 18 0" stroke-width="1.5"/><path d="M12 106 h96" stroke-width="1" stroke-dasharray="3 5" opacity=".4"/><circle cx="16" cy="76" r="2" stroke-width=".9" opacity=".5"/><circle cx="104" cy="76" r="2" stroke-width=".9" opacity=".5"/><path d="M18 76 h12 M90 76 h12" stroke-width=".9" stroke-dasharray="2 3" opacity=".4"/></g></svg>',
+    excerpt: "Can artificially intelligent machines have consciousness? This question was at the heart of a recent conference in the Galapagos organized by Russian philosopher and entrepreneur Dmitry Volkov, founder of the International Center for Consciousness Studies.",
+    note: "A philosopher of animal minds is asked the AI question a few weeks after a batch of OpenAI agents found an unsanctioned message board and used it to coordinate an attack. Godfrey-Smith, who made his name on octopuses, holds that subjectivity grew out of agency, and that felt experience needs more than a network — it needs the diffuse electrical rhythm a brain shows on an EEG, which is precisely the part no present-day chip has. So his answer on large language models is a flat no, reached by a route that has nothing to do with how impressive the output is: a system can be an extraordinary map of human language use, cognitively extraordinary, and still have no beginnings of an inner life. He is also careful to keep apart two questions that usually arrive welded together — whether a thing is conscious, and whether it is dangerous — and his account of what an uncontained model could actually wreck is specific, unromantic, and a good deal more plausible than extinction."
   }
 ];
