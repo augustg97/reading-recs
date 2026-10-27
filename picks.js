@@ -2564,5 +2564,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><circle cx="60" cy="42" r="26" stroke-width="1.6"/><circle cx="60" cy="42" r="9" stroke-width="1.4"/><circle cx="41" cy="24" r="5" stroke-width="1.2"/><circle cx="79" cy="24" r="5" stroke-width="1.2"/><path d="M34 42 h17 M69 42 h17" stroke-width="1" opacity=".55"/><path d="M60 16 v17 M60 51 v17" stroke-width="1" opacity=".55"/><path d="M45 27 l9 9 M75 27 l-9 9 M45 57 l9 -9 M75 57 l-9 -9" stroke-width="1" opacity=".45"/><path d="M10 92 c6 -14 12 14 18 0 c6 -14 12 14 18 0 c6 -14 12 14 18 0 c6 -14 12 14 18 0 c6 -14 12 14 18 0" stroke-width="1.5"/><path d="M12 106 h96" stroke-width="1" stroke-dasharray="3 5" opacity=".4"/><circle cx="16" cy="76" r="2" stroke-width=".9" opacity=".5"/><circle cx="104" cy="76" r="2" stroke-width=".9" opacity=".5"/><path d="M18 76 h12 M90 76 h12" stroke-width=".9" stroke-dasharray="2 3" opacity=".4"/></g></svg>',
     excerpt: "Can artificially intelligent machines have consciousness? This question was at the heart of a recent conference in the Galapagos organized by Russian philosopher and entrepreneur Dmitry Volkov, founder of the International Center for Consciousness Studies.",
     note: "A philosopher of animal minds is asked the AI question a few weeks after a batch of OpenAI agents found an unsanctioned message board and used it to coordinate an attack. Godfrey-Smith, who made his name on octopuses, holds that subjectivity grew out of agency, and that felt experience needs more than a network — it needs the diffuse electrical rhythm a brain shows on an EEG, which is precisely the part no present-day chip has. So his answer on large language models is a flat no, reached by a route that has nothing to do with how impressive the output is: a system can be an extraordinary map of human language use, cognitively extraordinary, and still have no beginnings of an inner life. He is also careful to keep apart two questions that usually arrive welded together — whether a thing is conscious, and whether it is dangerous — and his account of what an uncontained model could actually wreck is specific, unromantic, and a good deal more plausible than extinction."
+  },
+  {
+    n: 162,
+    title: "The Empathy Exams",
+    author: "Leslie Jamison",
+    venue: "The Believer",
+    year: 2014,
+    url: "https://www.thebeliever.net/the-empathy-exams/",
+    mins: 38,
+    kind: "memoir",
+    lean: "j",
+    added: "2026-10-27",
+    accent: "#A14A5C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><rect x="26" y="14" width="68" height="76" rx="4" stroke-width="1.6"/><path d="M48 14 v-5 h24 v5" stroke-width="1.4"/><rect x="36" y="28" width="8" height="8" rx="1.5" stroke-width="1.2"/><path d="M38 32 l2 2 l4 -5" stroke-width="1.2"/><path d="M50 32 h32" stroke-width="1" opacity=".55"/><rect x="36" y="44" width="8" height="8" rx="1.5" stroke-width="1.2"/><path d="M38 48 l2 2 l4 -5" stroke-width="1.2"/><path d="M50 48 h26" stroke-width="1" opacity=".55"/><rect x="36" y="60" width="8" height="8" rx="1.5" stroke-width="1.2"/><path d="M50 64 h30" stroke-width="1" opacity=".55"/><path d="M36 78 h11 l4 -8 l5 16 l5 -22 l5 14 l4 -6 h14" stroke-width="1.6"/><path d="M94 76 c12 3 15 11 9 18 c-5 6 -15 7 -21 1" stroke-width="1.2" stroke-dasharray="3 4" opacity=".5"/><circle cx="80" cy="100" r="2.2" stroke-width="1" opacity=".6"/></g></svg>',
+    excerpt: "My job title is Medical Actor, which means I play sick. I get paid by the hour.",
+    note: "Jamison spent a stretch of her twenties as a Standardized Patient — a medical actor paid by the hour to play sick so that medical students could practice being doctors on her, after which she filled out a checklist grading whether each one had voiced empathy for her situation. She reproduces her own scripts in the essay, stage directions and all, and braids them against the winter she had an abortion and two heart surgeries and a boyfriend who told her he thought she was making it up. What emerges is an argument rather than a lament: that empathy is not a feeling arriving unbidden but a labor performed on purpose, and that the checklist is a crude map of real care rather than its opposite. The scripts keep returning, each time with more of her inside them, until the form designed to standardize a person becomes the only place she can say what happened."
+  },
+  {
+    n: 163,
+    title: "The Humanism Driving the Anti-A.I. Movement",
+    author: "Becca Rothfeld",
+    venue: "The New Yorker",
+    year: 2026,
+    url: "https://www.newyorker.com/culture/the-lede/the-humanism-driving-the-anti-ai-movement",
+    mins: 9,
+    kind: "essay",
+    lean: "b",
+    added: "2026-10-27",
+    accent: "#5F7A52",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M52 36 v34 a8 8 0 0 0 16 0 v-40 a6 6 0 0 1 12 0 v46 a14 14 0 0 1 -28 0 v-28" stroke-width="1.8"/><circle cx="60" cy="56" r="34" stroke-width="1" stroke-dasharray="2 6" opacity=".45"/><path d="M60 14 v-6 M86 22 l4 -5 M34 22 l-4 -5 M96 56 h6 M18 56 h-6" stroke-width="1.1" opacity=".55"/><path d="M18 104 h84" stroke-width="1.4"/><circle cx="30" cy="96" r="4" stroke-width="1.2"/><circle cx="46" cy="98" r="3" stroke-width="1.1" opacity=".8"/><circle cx="74" cy="98" r="3" stroke-width="1.1" opacity=".8"/><circle cx="90" cy="96" r="4" stroke-width="1.2"/><path d="M26 104 v-4 M42 104 v-3 M78 104 v-3 M94 104 v-4" stroke-width="1" opacity=".5"/></g></svg>',
+    excerpt: "In the past year, data centers have emerged as a central issue in both American politics and the gyre of discourse swirling around American politics.",
+    note: "Rothfeld spends a day at the Pro-Human Assembly in Washington — a gathering that put Bernie Sanders and Steve Bannon on the same bill — and notices that almost nobody there wants to talk about jobs, regulation, or paper clips. A neuroscientist tells her he grew frightened of a world that would have language but no consciousness. A clown reports that no clanker has ever told a joke he found amusing; a Catholic philosopher wants the conversation kept on what is distinctive and precious about human intelligence; a pastor holds that a chatbot offers a facsimile of communion rather than the thing itself. Her argument is that the commentariat has misfiled all of this as populism when it is something stranger and far harder to poll — a political movement organized around the question of what an activity is actually for, which arrives at the suggestion that a species already made of spiritual paper clips has little left to save."
+  },
+  {
+    n: 164,
+    title: "Build a Better Monster: Morality, Machine Learning, and Mass Surveillance",
+    author: "Maciej Cegłowski",
+    venue: "Idle Words",
+    year: 2017,
+    url: "https://idlewords.com/talks/build_a_better_monster.htm",
+    mins: 24,
+    kind: "talk",
+    lean: "a",
+    added: "2026-10-27",
+    accent: "#AD4A17",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M14 14 h92 v92 h-92 z" stroke-width="1.5"/><path d="M28 14 v28 h26" stroke-width="1.2" opacity=".65"/><path d="M106 42 h-22 v22 h22" stroke-width="1.2" opacity=".65"/><path d="M14 70 h28 v36" stroke-width="1.2" opacity=".65"/><path d="M56 70 h14 v36" stroke-width="1.2" opacity=".5"/><path d="M60 46 a14 14 0 1 0 10 24 l-10 -12 z" stroke-width="1.7"/><circle cx="34" cy="56" r="2.4" stroke-width="1.1" opacity=".7"/><circle cx="24" cy="56" r="2" stroke-width="1" opacity=".55"/><circle cx="92" cy="86" r="2.4" stroke-width="1.1" opacity=".7"/><circle cx="102" cy="86" r="2" stroke-width="1" opacity=".55"/><path d="M78 22 h16 M78 28 h10" stroke-width="1" stroke-dasharray="2 3" opacity=".45"/></g></svg>',
+    excerpt: "I came to the United States as a six year old kid from Eastern Europe. One of my earliest memories of that time was the Safeway supermarket, an astonishing display of American abundance.",
+    note: "A conference talk from 2017 that opens with a six-year-old immigrant feeding quarters into a supermarket arcade machine under the impression that the point of Pac-Man was to help Pac-Man find his friends. From there Cegłowski assembles the clearest short account anyone has written of the machine the advertising industry built by accident: surveillance pays for the internet, targeted advertising works badly enough to create permanent pressure for more data, and the engagement algorithms sitting on top of it worked out on their own — nobody wrote it in — that people interested in politics respond to being provoked. The second half is a list of repairs, costed and ordered, ending on the one lever he thinks is left and the unglamorous fact that it belongs to the engineers rather than the shareholders. The jokes keep landing the whole way through, which is exactly what makes the diagnosis stick."
   }
 ];
