@@ -2612,5 +2612,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round"><path d="M14 14 h92 v92 h-92 z" stroke-width="1.5"/><path d="M28 14 v28 h26" stroke-width="1.2" opacity=".65"/><path d="M106 42 h-22 v22 h22" stroke-width="1.2" opacity=".65"/><path d="M14 70 h28 v36" stroke-width="1.2" opacity=".65"/><path d="M56 70 h14 v36" stroke-width="1.2" opacity=".5"/><path d="M60 46 a14 14 0 1 0 10 24 l-10 -12 z" stroke-width="1.7"/><circle cx="34" cy="56" r="2.4" stroke-width="1.1" opacity=".7"/><circle cx="24" cy="56" r="2" stroke-width="1" opacity=".55"/><circle cx="92" cy="86" r="2.4" stroke-width="1.1" opacity=".7"/><circle cx="102" cy="86" r="2" stroke-width="1" opacity=".55"/><path d="M78 22 h16 M78 28 h10" stroke-width="1" stroke-dasharray="2 3" opacity=".45"/></g></svg>',
     excerpt: "I came to the United States as a six year old kid from Eastern Europe. One of my earliest memories of that time was the Safeway supermarket, an astonishing display of American abundance.",
     note: "A conference talk from 2017 that opens with a six-year-old immigrant feeding quarters into a supermarket arcade machine under the impression that the point of Pac-Man was to help Pac-Man find his friends. From there Cegłowski assembles the clearest short account anyone has written of the machine the advertising industry built by accident: surveillance pays for the internet, targeted advertising works badly enough to create permanent pressure for more data, and the engagement algorithms sitting on top of it worked out on their own — nobody wrote it in — that people interested in politics respond to being provoked. The second half is a list of repairs, costed and ordered, ending on the one lever he thinks is left and the unglamorous fact that it belongs to the engineers rather than the shareholders. The jokes keep landing the whole way through, which is exactly what makes the diagnosis stick."
+  },
+  {
+    n: 165,
+    title: "This Can’t Go On",
+    author: "Holden Karnofsky",
+    venue: "Cold Takes",
+    year: 2021,
+    url: "https://www.cold-takes.com/this-cant-go-on/",
+    mins: 9,
+    kind: "scenario",
+    lean: "a",
+    added: "2026-11-05",
+    accent: "#C9A227",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round"><path d="M14 104 h92" stroke-width="1.2" opacity=".35"/><path d="M14 104 V14" stroke-width="1.2" opacity=".35"/><path d="M16 102 C48 101 64 96 72 76 C78 60 80 40 81 22" stroke-width="2.5"/><path d="M81 22 L104 18" stroke-width="1.8" stroke-dasharray="4 4" opacity=".7"/><path d="M81 22 L86 6" stroke-width="1.8" stroke-dasharray="4 4" opacity=".7"/><path d="M81 22 L100 46" stroke-width="1.8" stroke-dasharray="4 4" opacity=".7"/></g></svg>',
+    excerpt: "For as long as any of us can remember, the world economy has grown a few percent per year, on average.",
+    note: "Two charts of the same economic data, one starting in 1950 and one in 5000 BC, and the second looks nothing like the first. The argument from there is almost rude in its simplicity: a few percent growth a year, sustained for another 8,200 years, would mean running multiple present-day world economies per atom in the galaxy — so the regime everyone treats as normal is barely two centuries old and cannot hold. What comes next is stagnation, explosion or collapse, and Karnofsky pointedly declines to say which. The closing image of passengers roaring down a runway while arguing about how best to arrange a seatbelt is the clearest short case anyone has made for why forecasting is worth doing at all."
+  },
+  {
+    n: 166,
+    title: "A Report to an Academy",
+    author: "Franz Kafka",
+    venue: "Der Jude",
+    year: 1917,
+    url: "https://wordswithoutborders.org/read/article/2006-03/a-report-to-an-academy/",
+    mins: 19,
+    kind: "fiction",
+    lean: "j",
+    added: "2026-11-05",
+    accent: "#7A1F2B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round"><path d="M14 18 h92" stroke-width="1.4" opacity=".4"/><path d="M14 102 h92" stroke-width="1.4" opacity=".4"/><path d="M18 18 V102" stroke-width="2.2"/><path d="M36 18 V102" stroke-width="2.2"/><path d="M54 18 V102" stroke-width="2.2"/><path d="M72 18 V102" stroke-width="2.2" opacity=".75"/><path d="M90 18 C90 46 102 58 102 102" stroke-width="2.2" opacity=".5"/><circle cx="81" cy="60" r="3.5" stroke-width="2"/></g></svg>',
+    excerpt: "Esteemed Gentlemen of the Academy! I feel honored by your invitation to present the academy with a report on my former life as an ape.",
+    note: "An ape called Red Peter, captured on the Gold Coast and shot twice in the taking, stands before a scientific academy to account for his former life as an ape — and politely declines to do the thing he was asked to do. What he delivers instead is the most unsettling report ever written by a creature that acquired a culture because the alternative was a crate, and who is careful to insist he never wanted freedom, only a way out. Kafka published it in 1917; it reads now like the transcript of a hearing nobody has scheduled yet. Philip Boehm’s translation keeps the deadpan courtesy of the original, which is exactly where the horror is kept."
+  },
+  {
+    n: 167,
+    title: "After the Sublime",
+    author: "Jonathan Kay",
+    venue: "The Point",
+    year: 2026,
+    url: "https://thepointmag.com/criticism/after-the-sublime/",
+    mins: 15,
+    kind: "essay",
+    lean: "b",
+    added: "2026-11-05",
+    accent: "#3D4A8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linejoin="round" fill="none"><path d="M10 10 h100 v100 h-100 z" stroke-width="2"/><path d="M26 26 h68 v68 h-68 z" stroke-width="1.7" opacity=".8"/><path d="M40 40 h40 v40 h-40 z" stroke-width="1.5" opacity=".6"/><path d="M51 51 h18 v18 h-18 z" stroke-width="1.3" opacity=".4"/><path d="M10 10 L40 40" stroke-width="1" opacity=".3"/><path d="M110 10 L80 40" stroke-width="1" opacity=".3"/><path d="M10 110 L40 80" stroke-width="1" opacity=".3"/><path d="M110 110 L80 80" stroke-width="1" opacity=".3"/><path d="M69 69 L98 57" stroke-width="2" opacity=".9"/></g></svg>',
+    excerpt: "Ancient Egyptians believed that the sun was a golden barge piloted by the god Ra.",
+    note: "A 4chan post from 2019 described noclipping out of reality into six hundred million square miles of empty yellow hallways; seven years later it is a film that has grossed four hundred million dollars, and this essay is a precise account of why the film is worse than the post. Kay runs the question through Burke and Kant on the sublime and then through Lovecraft, who grasped before anyone that the horror is the failure of comprehension and that explaining a thing is the surest way to shrink it. The sharpest turn comes almost in passing: the real Backrooms are the office parks and parking garages of the 1980s, spaces built without intention, “the mindless secretion of an economy growing too rapidly to keep track of its own creations.”"
   }
 ];
