@@ -2660,5 +2660,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linejoin="round" fill="none"><path d="M10 10 h100 v100 h-100 z" stroke-width="2"/><path d="M26 26 h68 v68 h-68 z" stroke-width="1.7" opacity=".8"/><path d="M40 40 h40 v40 h-40 z" stroke-width="1.5" opacity=".6"/><path d="M51 51 h18 v18 h-18 z" stroke-width="1.3" opacity=".4"/><path d="M10 10 L40 40" stroke-width="1" opacity=".3"/><path d="M110 10 L80 40" stroke-width="1" opacity=".3"/><path d="M10 110 L40 80" stroke-width="1" opacity=".3"/><path d="M110 110 L80 80" stroke-width="1" opacity=".3"/><path d="M69 69 L98 57" stroke-width="2" opacity=".9"/></g></svg>',
     excerpt: "Ancient Egyptians believed that the sun was a golden barge piloted by the god Ra.",
     note: "A 4chan post from 2019 described noclipping out of reality into six hundred million square miles of empty yellow hallways; seven years later it is a film that has grossed four hundred million dollars, and this essay is a precise account of why the film is worse than the post. Kay runs the question through Burke and Kant on the sublime and then through Lovecraft, who grasped before anyone that the horror is the failure of comprehension and that explaining a thing is the surest way to shrink it. The sharpest turn comes almost in passing: the real Backrooms are the office parks and parking garages of the 1980s, spaces built without intention, “the mindless secretion of an economy growing too rapidly to keep track of its own creations.”"
+  },
+  {
+    n: 168,
+    title: "Are We Really on the Path to AGI?",
+    author: "Yuval Levin",
+    venue: "The New Atlantis",
+    year: 2026,
+    url: "https://www.thenewatlantis.com/publications/are-we-really-on-the-path-to-agi",
+    mins: 27,
+    kind: "essay",
+    lean: "a",
+    added: "2026-11-07",
+    accent: "#4A6572",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" fill="none"><path d="M12 100 H108" stroke-width="2"/><path d="M12 100 C40 92 76 60 108 14" stroke-width="1.3" stroke-dasharray="4 5" opacity=".45"/><path d="M22 100 V86" stroke-width="2.4" opacity=".8"/><path d="M34 100 V72" stroke-width="2.4" opacity=".8"/><path d="M46 100 V90" stroke-width="2.4" opacity=".8"/><path d="M58 100 V12" stroke-width="3"/><path d="M70 100 V84" stroke-width="2.4" opacity=".8"/><path d="M82 100 V94" stroke-width="2.4" opacity=".6"/><path d="M94 100 V78" stroke-width="2.4" opacity=".7"/><path d="M50 22 L58 12 L66 22" stroke-width="2"/></g></svg>',
+    excerpt: "Sometimes, a curious amateur’s eye can discern tensions in the work of professionals that the intensity of their focused labor keeps them from seeing clearly themselves.",
+    note: "A political scientist who studies the health of American institutions spent a year reading the AI literature as what he calls a curious amateur, and came away convinced that the field’s central article of faith — that more capable will mean more general — is a proposition nobody has actually argued for. His case rests on a clean distinction between two kinds of learning: the absorptive phase, which swallowed the entire digitized record of human expression and broke the language barrier between people and computers, and the recursive phase now replacing it, which can only improve where some verifier exists to say whether an answer is right. The conclusion he draws is the inverse of the usual one — that the frontier is narrowing rather than broadening, racing ahead in code and mathematics while the tacit, unverifiable parts of human practice sit untouched. It turns, almost in passing, into an argument about apprenticeship: what a profession loses when it replaces the novices who could still learn the things nobody has written down."
+  },
+  {
+    n: 169,
+    title: "Moral Saints",
+    author: "Susan Wolf",
+    venue: "The Journal of Philosophy",
+    year: 1982,
+    url: "https://r.jordan.im/download/philosophy/wolf1982.pdf",
+    mins: 38,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-11-07",
+    accent: "#6D4C9F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" fill="none"><circle cx="60" cy="60" r="16" stroke-width="2.4"/><circle cx="60" cy="60" r="30" stroke-width="1.5" opacity=".7"/><circle cx="60" cy="60" r="44" stroke-width="1.1" stroke-dasharray="3 6" opacity=".4"/><path d="M60 16 V44" stroke-width="2"/><path d="M60 76 V104" stroke-width="2"/><path d="M16 60 H44" stroke-width="2"/><path d="M76 60 H104" stroke-width="2"/><path d="M29 29 L48 48" stroke-width="1.4" opacity=".55"/><path d="M91 29 L72 48" stroke-width="1.4" opacity=".55"/><path d="M29 91 L48 72" stroke-width="1.4" opacity=".55"/><path d="M91 91 L72 72" stroke-width="1.4" opacity=".55"/><circle cx="60" cy="60" r="4" stroke-width="2"/></g></svg>',
+    excerpt: "",
+    note: "A paper that asks whether we actually want to be morally perfect and answers, with great care, no. Wolf builds the moral saint — a person whose every impulse is maximally directed at the good — and then catalogues what such a person could not possibly have: no interest in gourmet cooking, no idle afternoon with a trashy novel, no aptitude for the sarcastic aside, nothing much resembling a personality at all. The argument that follows is harder to shake off than it first appears, since it concludes that a life organized wholly around a single value is a diminished life, and therefore that morality cannot be the thing we want to be perfected in. Forty years on it is among the most quoted papers in analytic ethics, and it reads like a specification problem written long before anyone needed one."
+  },
+  {
+    n: 170,
+    title: "I Am the Manager of the Private Equity Firm That Just Acquired the House in Your Neighborhood That Hands Out Full-Size Candy Bars on Halloween",
+    author: "Alan Johnson",
+    venue: "McSweeney’s Internet Tendency",
+    year: 2026,
+    url: "https://www.mcsweeneys.net/articles/i-am-the-manager-of-the-private-equity-firm-that-just-acquired-the-house-in-your-neighborhood-that-hands-out-full-size-candy-bars-on-halloween",
+    mins: 3,
+    kind: "humor",
+    lean: "j",
+    added: "2026-11-07",
+    accent: "#8E2F5C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linejoin="round" stroke-linecap="round" fill="none"><path d="M24 58 L60 28 L96 58" stroke-width="2.4"/><path d="M34 54 V98 H86 V54" stroke-width="2.2"/><path d="M54 98 V74 H66 V98" stroke-width="1.6" opacity=".7"/><path d="M44 66 H48" stroke-width="2" opacity=".8"/><path d="M72 66 H76" stroke-width="2" opacity=".8"/><path d="M14 16 H44 V29 H14 Z" stroke-width="1.8" opacity=".85"/><path d="M78 18 H96 V27 H78 Z" stroke-width="1.5" opacity=".55"/><path d="M103 35 H110 V41 H103 Z" stroke-width="1.3" opacity=".35"/><path d="M60 10 V22" stroke-width="1.2" stroke-dasharray="3 4" opacity=".45"/></g></svg>',
+    excerpt: "Hello, neighbors. My name is Grant Sharma, and I’m a managing partner at Haverford Ridge Capital.",
+    note: "A managing partner at Haverford Ridge Capital writes to introduce himself to the neighborhood: his firm has just bought, at forty percent above asking, the house that gives out full-size candy bars. Nothing is changing. What follows is a pitch-perfect memo in the dialect of the thing it is skewering — the full-size wrappers are retained with fun-size bars inside them, ‘take two’ has been sunsetted for sending the wrong message about scarcity, Barb’s role on the front steps is now filled by a laminated sign performing her core functions at a fraction of the labor cost, and the inflatable ghost has been sold to a separate entity and leased back, so it is technically haunting the house on a five-year term. The dividend recapitalization in the last paragraph is the kind of joke that works because it is just a description."
   }
 ];
