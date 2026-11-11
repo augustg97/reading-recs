@@ -2708,5 +2708,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linejoin="round" stroke-linecap="round" fill="none"><path d="M24 58 L60 28 L96 58" stroke-width="2.4"/><path d="M34 54 V98 H86 V54" stroke-width="2.2"/><path d="M54 98 V74 H66 V98" stroke-width="1.6" opacity=".7"/><path d="M44 66 H48" stroke-width="2" opacity=".8"/><path d="M72 66 H76" stroke-width="2" opacity=".8"/><path d="M14 16 H44 V29 H14 Z" stroke-width="1.8" opacity=".85"/><path d="M78 18 H96 V27 H78 Z" stroke-width="1.5" opacity=".55"/><path d="M103 35 H110 V41 H103 Z" stroke-width="1.3" opacity=".35"/><path d="M60 10 V22" stroke-width="1.2" stroke-dasharray="3 4" opacity=".45"/></g></svg>',
     excerpt: "Hello, neighbors. My name is Grant Sharma, and I’m a managing partner at Haverford Ridge Capital.",
     note: "A managing partner at Haverford Ridge Capital writes to introduce himself to the neighborhood: his firm has just bought, at forty percent above asking, the house that gives out full-size candy bars. Nothing is changing. What follows is a pitch-perfect memo in the dialect of the thing it is skewering — the full-size wrappers are retained with fun-size bars inside them, ‘take two’ has been sunsetted for sending the wrong message about scarcity, Barb’s role on the front steps is now filled by a laminated sign performing her core functions at a fraction of the labor cost, and the inflatable ghost has been sold to a separate entity and leased back, so it is technically haunting the house on a five-year term. The dividend recapitalization in the last paragraph is the kind of joke that works because it is just a description."
+  },
+  {
+    n: 171,
+    title: "Maintenance Futures",
+    author: "Christopher Butler",
+    venue: "chrbutler.com",
+    year: 2026,
+    url: "https://www.chrbutler.com/maintenance-future",
+    mins: 12,
+    kind: "essay",
+    lean: "a",
+    added: "2026-11-11",
+    accent: "#2F7D6B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" fill="none"><path d="M14 60 H106" stroke-width="2"/><path d="M60 14 V106" stroke-width="2"/><circle cx="60" cy="60" r="9" stroke-width="2.6"/><circle cx="60" cy="60" r="19" stroke-width="1" stroke-dasharray="3 6" opacity=".45"/><rect x="26" y="26" width="7" height="7" stroke-width="1.6" opacity=".75"/><rect x="36" y="34" width="7" height="7" stroke-width="1.6" opacity=".55"/><rect x="87" y="26" width="7" height="7" stroke-width="1.6" opacity=".75"/><rect x="77" y="34" width="7" height="7" stroke-width="1.6" opacity=".55"/><rect x="26" y="87" width="7" height="7" stroke-width="1.6" opacity=".75"/><rect x="36" y="79" width="7" height="7" stroke-width="1.6" opacity=".55"/><rect x="87" y="87" width="7" height="7" stroke-width="1.6" opacity=".75"/><rect x="77" y="79" width="7" height="7" stroke-width="1.6" opacity=".55"/></g></svg>',
+    excerpt: "For the last thirteen years, I have lived in a little house. Even as my family grew, it has remained more than enough space for us all.",
+    note: "A designer begins by describing his own basement — shelves like library stacks, two freezers, a year of food kept in rotation — and arrives at the diagram most futurism is missing. Stories about what comes next sort into more and less long before they sort into hope and dread, he argues, and crossing that axis with utopia and dystopia leaves all four corners occupied; maintenance is not a fifth box but the zero point, where the first axis goes quiet and the second stays live. The best stretches test the idea against real cases: Mierle Laderman Ukeles asking who picks up the garbage on the Monday after the revolution, a Shinto shrine rebuilt from its own cypress forest every twenty years for thirteen centuries, and the beloved story of oak beams planted five hundred years in advance, which the author believed for sixteen years and now reports is almost certainly false. The distinction he lands on is the sharp one: maintenance chosen is a practice, maintenance imposed is a lid."
+  },
+  {
+    n: 172,
+    title: "Pinot Noir: Inside the Criminal Gangs Making Fake Wine",
+    author: "William Ralston",
+    venue: "1843 Magazine",
+    year: 2026,
+    url: "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+    mins: 23,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-11-11",
+    accent: "#8E5A1E",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linejoin="round" stroke-linecap="round" fill="none"><path d="M34 15 H44 V40 Q52 48 52 60 V104 H26 V60 Q26 48 34 40 Z" stroke-width="2.2"/><path d="M26 70 H52" stroke-width="1.6" opacity=".7"/><path d="M76 15 H86 V40 Q94 48 94 60 V104 H68 V60 Q68 48 76 40 Z" stroke-width="2.2" stroke-dasharray="5 4" opacity=".6"/><path d="M68 70 H94" stroke-width="1.5" stroke-dasharray="4 3" opacity=".45"/><circle cx="81" cy="78" r="15" stroke-width="2"/><path d="M92 89 L104 101" stroke-width="2.6"/></g></svg>',
+    excerpt: "Fraudsters have long counterfeited high-end wine. Now they are coming for the bottles on your supermarket shelves",
+    note: "A reporter follows one counterfeiter — arrested in a Burgundy hotel sting with a Romanée-Conti in the boot of his car and several passports under different names, convicted in 2017, released, and allegedly back at it with far better fakes — and uses him to show how wine fraud turned industrial. What runs alongside the chase is quietly devastating about how little holds the market up: bottles carry no unique identifiers, provenance paperwork is optional, auction houses have no duty to verify, and the authenticators everyone leans on need no training or certificate and charge up to eighty-five hundred dollars a day. The sharpest scene is a morning in a Manhattan skyscraper’s wine cellar, where three of those detectives photograph glass, measure necks under UV, log a hundred and twenty data points per bottle into a blockchain registry, and still turn up five fakes worth more than two hundred thousand pounds in the first seventy bottles. It closes in a Paris wine bar with the fraudster himself, charming and only partly repentant, asking what exactly is so wrong with faking wine when there are no bodies."
+  },
+  {
+    n: 173,
+    title: "An infinite plane of utterly meaningless nonsense",
+    author: "Zach Rabiroff",
+    venue: "Flaming Hydra",
+    year: 2026,
+    url: "https://flaminghydra.com/issue-662/",
+    mins: 14,
+    kind: "interview",
+    lean: "b",
+    added: "2026-11-11",
+    accent: "#1F3A5F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" fill="none"><path d="M6 97 H114" stroke-width="1.2" opacity=".5"/><path d="M15 85 H105" stroke-width="1.2" opacity=".4"/><path d="M23 74 H97" stroke-width="1.2" opacity=".32"/><path d="M31 64 H89" stroke-width="1.2" opacity=".24"/><path d="M37 56 H83" stroke-width="1.2" opacity=".18"/><path d="M6 97 L44 56" stroke-width="1.2" opacity=".4"/><path d="M114 97 L76 56" stroke-width="1.2" opacity=".4"/><path d="M40 97 L52 56" stroke-width="1.2" opacity=".28"/><path d="M80 97 L68 56" stroke-width="1.2" opacity=".28"/><path d="M22 37 C42 11 60 47 78 23 C86 11 94 17 99 27" stroke-width="2.8"/><circle cx="22" cy="37" r="3.2" stroke-width="2"/></g></svg>',
+    excerpt: "Dave McKean and Zach Rabiroff on the gathering storm in AI, art, and ethics",
+    note: "The artist behind Sandman’s mixed-media covers made a graphic novel in 2022 illustrated entirely by an image generator, and then spent the next four years travelling from curiosity to flat opposition. He is unusually precise about why. What he found when he looked into the machinery was sophisticated prediction of the likeliest next pixel, with no understanding and no motive anywhere inside it, and using it made him feel physically unwell — a reaction he reports as a fact about himself rather than an argument. The conversation keeps declining the easy version of the case: he opens by refusing to treat AI as one thing, grants that an algorithm hunting new cures is worth having, and observes in the same breath that whatever can find a cure can design a disease. It reads as a working artist’s ethics arrived at through use rather than a position taken on principle."
   }
 ];
