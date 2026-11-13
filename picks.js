@@ -2756,5 +2756,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" fill="none"><path d="M6 97 H114" stroke-width="1.2" opacity=".5"/><path d="M15 85 H105" stroke-width="1.2" opacity=".4"/><path d="M23 74 H97" stroke-width="1.2" opacity=".32"/><path d="M31 64 H89" stroke-width="1.2" opacity=".24"/><path d="M37 56 H83" stroke-width="1.2" opacity=".18"/><path d="M6 97 L44 56" stroke-width="1.2" opacity=".4"/><path d="M114 97 L76 56" stroke-width="1.2" opacity=".4"/><path d="M40 97 L52 56" stroke-width="1.2" opacity=".28"/><path d="M80 97 L68 56" stroke-width="1.2" opacity=".28"/><path d="M22 37 C42 11 60 47 78 23 C86 11 94 17 99 27" stroke-width="2.8"/><circle cx="22" cy="37" r="3.2" stroke-width="2"/></g></svg>',
     excerpt: "Dave McKean and Zach Rabiroff on the gathering storm in AI, art, and ethics",
     note: "The artist behind Sandman’s mixed-media covers made a graphic novel in 2022 illustrated entirely by an image generator, and then spent the next four years travelling from curiosity to flat opposition. He is unusually precise about why. What he found when he looked into the machinery was sophisticated prediction of the likeliest next pixel, with no understanding and no motive anywhere inside it, and using it made him feel physically unwell — a reaction he reports as a fact about himself rather than an argument. The conversation keeps declining the easy version of the case: he opens by refusing to treat AI as one thing, grants that an algorithm hunting new cures is worth having, and observes in the same breath that whatever can find a cure can design a disease. It reads as a working artist’s ethics arrived at through use rather than a position taken on principle."
+  },
+  {
+    n: 174,
+    title: "The New Age of Reading",
+    author: "Nathan Heller",
+    venue: "The New Yorker",
+    year: 2026,
+    url: "https://www.newyorker.com/magazine/2026/10/26/james-daunt-profile",
+    mins: 40,
+    kind: "profile",
+    lean: "j",
+    added: "2026-11-13",
+    accent: "#5C7A3A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M12 98 H108" stroke-width="2.4"/><rect x="16" y="56" width="10" height="42" stroke-width="2"/><rect x="29" y="48" width="10" height="50" stroke-width="2" opacity=".6"/><rect x="42" y="60" width="10" height="38" stroke-width="2"/><path d="M57 98 L66 52 L76 55 L67 98 Z" stroke-width="2"/><rect x="82" y="50" width="10" height="48" stroke-width="2" opacity=".6"/><rect x="95" y="58" width="10" height="40" stroke-width="2"/><path d="M26 30 C40 20 54 24 60 32 C66 24 80 20 94 30" stroke-width="2.6"/><path d="M60 32 V18" stroke-width="1.6" opacity=".45"/></g></svg>',
+    excerpt: "It was the Friday before Labor Day, a lowering sun, when James Daunt, the most important man in bookselling, spilled off a train and turned to work.",
+    note: "Alarm about the death of reading is a permanent genre, and this profile goes looking for the man quietly making it look premature: James Daunt, sixty-three, founder of a beloved London bookshop and now chief executive of both Barnes & Noble and Waterstones, presiding over a thousand stores, twenty thousand employees and four billion dollars a year. His method was to gut the head office and hand buying decisions back to individual store managers — a bet that taste is local and cannot be centralized, which is a strange thing to be winning with in an age of recommendation engines. What makes it more than a turnaround story is the counter-evidence it keeps gathering: the literacy numbers really are bad, the attention span really is shortening, and the shops are nonetheless full. One bookseller's explanation is the line that lingers — that choosing friction now feels close to revolutionary."
+  },
+  {
+    n: 175,
+    title: "On Keeping a Notebook",
+    author: "Joan Didion",
+    venue: "Slouching Towards Bethlehem",
+    year: 1966,
+    url: "https://www.newberry.org/uploads/files/OnKeepingaNotebook.pdf",
+    mins: 11,
+    kind: "memoir",
+    lean: "b",
+    added: "2026-11-13",
+    accent: "#7E6A4F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" fill="none"><rect x="26" y="14" width="76" height="92" stroke-width="2.2"/><circle cx="26" cy="28" r="4" stroke-width="1.8"/><circle cx="26" cy="46" r="4" stroke-width="1.8"/><circle cx="26" cy="64" r="4" stroke-width="1.8"/><circle cx="26" cy="82" r="4" stroke-width="1.8"/><path d="M40 34 H92" stroke-width="1.4" opacity=".55"/><path d="M40 48 H92" stroke-width="1.4" opacity=".45"/><path d="M40 62 H92" stroke-width="1.4" opacity=".35"/><path d="M40 76 C56 76 60 92 74 94 C86 96 94 88 96 78" stroke-width="2.6"/><path d="M40 90 H60" stroke-width="1.4" opacity=".25"/></g></svg>',
+    excerpt: "Since the note is in my notebook, it presumably has some meaning to me. I study it for a long while.",
+    note: "It begins with a line she cannot decode — a note about a woman named Estelle and a marriage ending — and the admission that she has no idea what she was doing in that Wilmington hotel bar, or even what year it was. From there it becomes the finest account anyone has written of why a record of your own life is not a record of anything: the entries are opaque, the vivid details are often invented, and what is actually being preserved is how something felt rather than what occurred. The unnerving part is the figure underneath every entry, the implacable first person, and the people she used to be, who return unannounced and demand an accounting if the line goes dead. A 1966 essay on staying on nodding terms with your former selves, it now reads like a warning about any archive kept in the first person."
+  },
+  {
+    n: 176,
+    title: "STET",
+    author: "Sarah Gailey",
+    venue: "Fireside Magazine",
+    year: 2018,
+    url: "https://firesidefiction.com/stet",
+    mins: 6,
+    kind: "fiction",
+    lean: "a",
+    added: "2026-11-13",
+    accent: "#C0392B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M16 24 H98" stroke-width="1.4" opacity=".38"/><path d="M16 38 H90" stroke-width="1.4" opacity=".38"/><path d="M16 52 H98" stroke-width="1.4" opacity=".38"/><path d="M16 66 H80" stroke-width="1.4" opacity=".38"/><path d="M12 52 H102" stroke-width="2.8"/><path d="M48 78 L56 70 L64 78" stroke-width="2.2"/><path d="M22 96 C34 86 54 88 60 96 C66 104 56 110 48 104 C40 98 46 90 60 96 L76 88" stroke-width="2.4"/></g></svg>',
+    excerpt: "Section 5.4 — Autonomous Conscience and Automotive Casualty",
+    note: "A short story disguised as section 5.4 of a textbook on autonomous-vehicle ethics, and then disguised again as the copyediting argument between its author and her editor. The body text is dry academic prose about how self-driving cars learn to rank the value of a life; the footnotes drift, and then stop drifting, into the fact that one of those cars swerved to spare an endangered woodpecker and killed the author's three-year-old daughter. Every marginal note from the editor asks her to strike something, and every reply is the proofreader's mark meaning leave it exactly as it stands. In fifteen hundred words it demonstrates that a weighted decision matrix is also a bereavement, and the form does all of the work."
   }
 ];
