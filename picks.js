@@ -2804,5 +2804,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M16 24 H98" stroke-width="1.4" opacity=".38"/><path d="M16 38 H90" stroke-width="1.4" opacity=".38"/><path d="M16 52 H98" stroke-width="1.4" opacity=".38"/><path d="M16 66 H80" stroke-width="1.4" opacity=".38"/><path d="M12 52 H102" stroke-width="2.8"/><path d="M48 78 L56 70 L64 78" stroke-width="2.2"/><path d="M22 96 C34 86 54 88 60 96 C66 104 56 110 48 104 C40 98 46 90 60 96 L76 88" stroke-width="2.4"/></g></svg>',
     excerpt: "Section 5.4 — Autonomous Conscience and Automotive Casualty",
     note: "A short story disguised as section 5.4 of a textbook on autonomous-vehicle ethics, and then disguised again as the copyediting argument between its author and her editor. The body text is dry academic prose about how self-driving cars learn to rank the value of a life; the footnotes drift, and then stop drifting, into the fact that one of those cars swerved to spare an endangered woodpecker and killed the author's three-year-old daughter. Every marginal note from the editor asks her to strike something, and every reply is the proofreader's mark meaning leave it exactly as it stands. In fifteen hundred words it demonstrates that a weighted decision matrix is also a bereavement, and the form does all of the work."
+  },
+  {
+    n: 177,
+    title: "Cargo Cult Science",
+    author: "Richard P. Feynman",
+    venue: "Engineering and Science",
+    year: 1974,
+    url: "https://calteches.library.caltech.edu/51/2/CargoCult.htm",
+    mins: 15,
+    kind: "talk",
+    lean: "a",
+    added: "2026-11-15",
+    accent: "#B9922A",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M10 110 L50 48" stroke-width="2.4"/><path d="M110 110 L70 48" stroke-width="2.4"/><path d="M60 102 V94" stroke-width="1.6" opacity=".55"/><path d="M60 86 V78" stroke-width="1.6" opacity=".45"/><path d="M60 70 V64" stroke-width="1.6" opacity=".3"/><path d="M32 48 H88" stroke-width="1.2" opacity=".3"/><path d="M78 34 V16" stroke-width="2"/><path d="M70 20 H88" stroke-width="1.8"/><circle cx="70" cy="30" r="4" stroke-width="1.6"/><circle cx="86" cy="30" r="4" stroke-width="1.6"/><path d="M70 30 C74 21 82 21 86 30" stroke-width="1.4" opacity=".6"/><path d="M14 30 C24 18 36 16 46 22" stroke-width="1.6" opacity=".3"/></g></svg>',
+    excerpt: "During the Middle Ages there were all kinds of crazy ideas, such as that a piece of rhinoceros horn would increase potency.",
+    note: "Feynman gave this address to Caltech's graduating class in 1974 and spent it on a single question: how do you keep from fooling yourself? The title comes from the Pacific islanders who built wooden runways and bamboo control towers after the war and then waited for the planes to come back — every form exact, nothing landing. He works through rat-maze studies nobody bothered to replicate, oil-drop measurements nobody wanted to contradict, and ESP experiments that got better results the less carefully they were run, and what emerges is less a theory of method than a description of integrity as something practiced rather than professed. Delivered to twenty-two-year-olds in rented hats, it still reads as the cleanest available test for any field that has started to resemble its own instruments."
+  },
+  {
+    n: 178,
+    title: "The 75-Year-Old Screenagers",
+    author: "Jessica Lucas",
+    venue: "New York Magazine",
+    year: 2026,
+    url: "https://nymag.com/intelligencer/article/boomer-parents-screen-time-problem.html",
+    mins: 18,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-11-15",
+    accent: "#3F5FA8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="34" y="10" width="54" height="100" rx="7" stroke-width="2.2"/><path d="M53 18 H69" stroke-width="1.6" opacity=".5"/><rect x="41" y="28" width="40" height="18" stroke-width="1.6" opacity=".5"/><rect x="41" y="52" width="40" height="18" stroke-width="1.6" opacity=".55"/><rect x="41" y="76" width="40" height="18" stroke-width="1.6" opacity=".3"/><path d="M50 56 L61 66" stroke-width="2.2"/><path d="M61 56 L50 66" stroke-width="2.2"/><path d="M6 104 C14 92 24 84 34 80" stroke-width="2.4"/><path d="M26 75 L34 80 L28 87" stroke-width="2" opacity=".8"/></g></svg>',
+    excerpt: "Once a week, Jim sits down with his phone, logs in to his mother’s Facebook account, and scrolls through her feed.",
+    note: "Once a week a forty-eight-year-old graphic designer in Portland logs into his eighty-year-old mother's Facebook account and spends an hour liking cat videos and stamping scam posts NOT INTERESTED, gardening her algorithm on her behalf. Lucas reports out a role that has quietly become a family obligation: adult children as unpaid content moderators for parents whose feeds have filled with AI-generated men addressing \"the older woman holding this phone.\" The generational script of the screen-time panic is exactly inverted, and the piece is better for refusing to make the parents ridiculous — the retirees in it are funny, lucid, and genuinely attached to what the feed gives them. What lingers is how much invisible labor it now takes to keep one person's information environment habitable."
+  },
+  {
+    n: 179,
+    title: "Superhuman Moral Standing",
+    author: "Eric Schwitzgebel",
+    venue: "The Splintered Mind",
+    year: 2026,
+    url: "https://schwitzsplinters.blogspot.com/2026/05/superhuman-moral-standing.html",
+    mins: 5,
+    kind: "philosophy",
+    lean: "b",
+    added: "2026-11-15",
+    accent: "#7B4BB8",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M60 100 V58" stroke-width="2.2"/><path d="M44 110 L60 100 L76 110" stroke-width="2.2"/><path d="M28 58 H92" stroke-width="2.4"/><path d="M34 58 V70" stroke-width="1.6"/><path d="M84 58 V66" stroke-width="1.6"/><circle cx="34" cy="78" r="8" stroke-width="2"/><circle cx="78" cy="76" r="8" stroke-width="2" opacity=".85"/><circle cx="88" cy="81" r="8" stroke-width="2" opacity=".55"/><circle cx="82" cy="89" r="8" stroke-width="2" opacity=".35"/><path d="M10 34 C30 10 90 10 110 34" stroke-width="1.6" opacity=".35"/><path d="M26 22 C44 6 76 6 94 22" stroke-width="1.4" opacity=".2"/></g></svg>',
+    excerpt: "Human beings matter morally. We have moral standing.",
+    note: "Eleven hundred words on a question most moral philosophy quietly assumes away: could anything have higher moral standing than a human being? Schwitzgebel lays out three routes to it — an entity with vastly more of whatever grounds standing in the first place, an entity whose morally relevant capacities stand to ours as ours do to a sea turtle's, and the stranger case of minds that split, merge and copy until there is no stable number of subjects left to weigh at all. He is careful to offer these as possibilities rather than conclusions, which is what makes the piece unsettling instead of polemical. It is the rare short post that leaves a load-bearing assumption visibly wobbling."
   }
 ];
