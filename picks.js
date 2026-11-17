@@ -2852,5 +2852,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M60 100 V58" stroke-width="2.2"/><path d="M44 110 L60 100 L76 110" stroke-width="2.2"/><path d="M28 58 H92" stroke-width="2.4"/><path d="M34 58 V70" stroke-width="1.6"/><path d="M84 58 V66" stroke-width="1.6"/><circle cx="34" cy="78" r="8" stroke-width="2"/><circle cx="78" cy="76" r="8" stroke-width="2" opacity=".85"/><circle cx="88" cy="81" r="8" stroke-width="2" opacity=".55"/><circle cx="82" cy="89" r="8" stroke-width="2" opacity=".35"/><path d="M10 34 C30 10 90 10 110 34" stroke-width="1.6" opacity=".35"/><path d="M26 22 C44 6 76 6 94 22" stroke-width="1.4" opacity=".2"/></g></svg>',
     excerpt: "Human beings matter morally. We have moral standing.",
     note: "Eleven hundred words on a question most moral philosophy quietly assumes away: could anything have higher moral standing than a human being? Schwitzgebel lays out three routes to it — an entity with vastly more of whatever grounds standing in the first place, an entity whose morally relevant capacities stand to ours as ours do to a sea turtle's, and the stranger case of minds that split, merge and copy until there is no stable number of subjects left to weigh at all. He is careful to offer these as possibilities rather than conclusions, which is what makes the piece unsettling instead of polemical. It is the rare short post that leaves a load-bearing assumption visibly wobbling."
+  },
+  {
+    n: 180,
+    title: "The Coming Technological Singularity: How to Survive in the Post-Human Era",
+    author: "Vernor Vinge",
+    venue: "VISION-21 Symposium",
+    year: 1993,
+    url: "https://edoras.sdsu.edu/~vinge/misc/singularity.html",
+    mins: 27,
+    kind: "scenario",
+    lean: "b",
+    added: "2026-11-17",
+    accent: "#0F7A80",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M10 104 C44 102 66 94 78 72 C86 56 88 36 88 10" stroke-width="2.6"/><path d="M8 62 H112" stroke-width="1.6" opacity=".5"/><path d="M96 48 C102 40 106 30 108 18" stroke-width="1.6" opacity=".3"/><path d="M104 56 C110 50 114 42 116 34" stroke-width="1.4" opacity=".2"/><circle cx="88" cy="62" r="5" stroke-width="2"/><path d="M10 104 H112" stroke-width="1.4" opacity=".35"/><path d="M26 96 V104" stroke-width="1.2" opacity=".3"/><path d="M46 96 V104" stroke-width="1.2" opacity=".3"/><path d="M66 96 V104" stroke-width="1.2" opacity=".3"/></g></svg>',
+    excerpt: "The acceleration of technological progress has been the central feature of this century.",
+    note: "A mathematician and science-fiction novelist stood up at a NASA symposium in 1993 and told the room that within thirty years there would be the means to create superhuman intelligence, and that shortly after, the human era would end. What holds up is not the forecast but the argument around it: a mind greater than ours is not a faster version of ours, and the moment such a thing exists our models lose the ability to see past it, which is why the name he gave it is the one physics uses for the point where the equations give out. He lays out four routes there, takes the objections seriously one at a time, and spends the back half on the path he thinks likeliest and least discussed, amplifying human intelligence rather than replacing it. Every scenario essay written since is downstream of this one, and almost none are as candid about the limits of the exercise."
+  },
+  {
+    n: 181,
+    title: "I was a fake chatbot in San Francisco",
+    author: "Joel Schechter",
+    venue: "48 Hills",
+    year: 2026,
+    url: "https://48hills.org/2026/07/i-was-a-fake-chatbot-in-san-francisco/",
+    mins: 3,
+    kind: "humor",
+    lean: "j",
+    added: "2026-11-17",
+    accent: "#7E9B22",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="16" y="20" width="88" height="58" rx="8" stroke-width="2.2"/><path d="M38 78 L34 94 L52 78" stroke-width="2.2"/><circle cx="60" cy="44" r="13" stroke-width="2"/><path d="M44 66 C48 56 72 56 76 66" stroke-width="2"/><path d="M30 28 V34" stroke-width="1.4" opacity=".4"/><path d="M90 28 V34" stroke-width="1.4" opacity=".4"/><rect x="22" y="92" width="18" height="18" rx="3" stroke-width="1.8" opacity=".6"/><path d="M26 101 L31 106 L38 95" stroke-width="2.2"/><path d="M50 98 H100" stroke-width="1.4" opacity=".4"/><path d="M50 108 H84" stroke-width="1.4" opacity=".25"/></g></svg>',
+    excerpt: "The author of this article assures us that he is not a robot; but the person he interviews here claims to have impersonated an A.I. chatbot for six months.",
+    note: "Six hundred words in the form of an interview with a man who signs his work Chatterbot George and who spent half a year being paid to write the output of a San Francisco start-up's chatbot while its customers were told a machine was doing it. The hardest part of the job, he reports, was the little online tests asking him to prove he was not a robot. He is unemployed now, because a rival AI firm bought the company and shut it down. The joke has an exact shape — the human impersonating the software, then displaced by it — and the piece is over before it can spoil the shape by explaining it."
+  },
+  {
+    n: 182,
+    title: "How AI Could Benefit Workers, Even If It Displaces Most Jobs",
+    author: "Benjamin Jones",
+    venue: "AI Frontiers",
+    year: 2026,
+    url: "https://ai-frontiers.org/articles/how-ai-could-benefit-the-workers-it-displaces",
+    mins: 11,
+    kind: "essay",
+    lean: "a",
+    added: "2026-11-17",
+    accent: "#B03A5B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M14 14 H106" stroke-width="2.2"/><path d="M14 14 L54 58 V86" stroke-width="2.4"/><path d="M106 14 L66 58 V86" stroke-width="2.4"/><path d="M54 86 C54 100 66 100 66 86" stroke-width="2.2"/><path d="M26 26 V38" stroke-width="2" opacity=".65"/><path d="M42 26 V34" stroke-width="2" opacity=".5"/><path d="M60 26 V31" stroke-width="2" opacity=".38"/><path d="M78 26 V30" stroke-width="2" opacity=".28"/><path d="M94 26 V29" stroke-width="2" opacity=".2"/><circle cx="60" cy="70" r="4" stroke-width="2"/><path d="M60 104 V112" stroke-width="1.6" opacity=".5"/><path d="M44 112 H76" stroke-width="1.8" opacity=".6"/></g></svg>',
+    excerpt: "Last week, Jack Dorsey, a co-founder of Twitter, announced that his company Block is cutting its head count from 10,000 to fewer than 6,000 because AI tools mean it needs fewer workers.",
+    note: "The argument here runs against the intuition almost everyone brings to automation: labor may fare better if AI becomes vastly superhuman than if it stays merely somewhat better than us. The mechanism is price. Whatever machines do well becomes cheap, so the value in any process migrates toward whatever stays stubbornly hard to automate, and whoever holds those bottleneck tasks captures a larger share of the whole — which makes the middling case, where AI is good enough to replace workers but not good enough to collapse costs, the one that actually hurts. Jones is an economist at Northwestern and is scrupulous about the conditions under which his own case fails: displacement faster than reallocation, gains that concentrate instead of spreading, and the political institutions that would have to respond and might not."
   }
 ];
