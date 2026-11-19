@@ -2900,5 +2900,53 @@ const PICKS = [
     art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M14 14 H106" stroke-width="2.2"/><path d="M14 14 L54 58 V86" stroke-width="2.4"/><path d="M106 14 L66 58 V86" stroke-width="2.4"/><path d="M54 86 C54 100 66 100 66 86" stroke-width="2.2"/><path d="M26 26 V38" stroke-width="2" opacity=".65"/><path d="M42 26 V34" stroke-width="2" opacity=".5"/><path d="M60 26 V31" stroke-width="2" opacity=".38"/><path d="M78 26 V30" stroke-width="2" opacity=".28"/><path d="M94 26 V29" stroke-width="2" opacity=".2"/><circle cx="60" cy="70" r="4" stroke-width="2"/><path d="M60 104 V112" stroke-width="1.6" opacity=".5"/><path d="M44 112 H76" stroke-width="1.8" opacity=".6"/></g></svg>',
     excerpt: "Last week, Jack Dorsey, a co-founder of Twitter, announced that his company Block is cutting its head count from 10,000 to fewer than 6,000 because AI tools mean it needs fewer workers.",
     note: "The argument here runs against the intuition almost everyone brings to automation: labor may fare better if AI becomes vastly superhuman than if it stays merely somewhat better than us. The mechanism is price. Whatever machines do well becomes cheap, so the value in any process migrates toward whatever stays stubbornly hard to automate, and whoever holds those bottleneck tasks captures a larger share of the whole — which makes the middling case, where AI is good enough to replace workers but not good enough to collapse costs, the one that actually hurts. Jones is an economist at Northwestern and is scrupulous about the conditions under which his own case fails: displacement faster than reallocation, gains that concentrate instead of spreading, and the political institutions that would have to respond and might not."
+  },
+  {
+    n: 183,
+    title: "One Woman's Fight to Free Herself From a Mental Hospital",
+    author: "Mimi Swartz",
+    venue: "Texas Monthly",
+    year: 2026,
+    url: "https://www.texasmonthly.com/news-politics/menninger-clinic-nightmare/",
+    mins: 31,
+    kind: "journalism",
+    lean: "j",
+    added: "2026-11-19",
+    accent: "#5F7E8C",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M26 102 V44 C26 26 42 14 60 14 C78 14 94 26 94 44 V102" stroke-width="2.4"/><path d="M18 102 H102" stroke-width="2.2"/><path d="M42 102 V34" stroke-width="1.8" opacity=".75"/><path d="M60 102 V22" stroke-width="1.8" opacity=".75"/><path d="M78 102 V34" stroke-width="1.8" opacity=".75"/><path d="M78 70 C92 66 102 58 106 46" stroke-width="2.4"/><circle cx="110" cy="40" r="4" stroke-width="2"/><path d="M26 58 H94" stroke-width="1.2" opacity=".35"/><path d="M26 80 H94" stroke-width="1.2" opacity=".35"/></g></svg>',
+    excerpt: "John Kerr thought he was doing right by his only daughter when he put in a call to the Menninger Clinic",
+    note: "A woman arrives at the Menninger Clinic — for decades rated among the best psychiatric hospitals in the country — after cancer, a breakup and a breakdown land on her more or less at once, and her father makes the call believing he is doing right by her. What follows is a fight to get out, which turns out to be a different problem from the one she went in with, because the authority to decide when a committed patient is well enough to leave sits with the institution holding her. Swartz reports it as a single case at close range and lets the structural argument surface from the particulars, which is the harder and more convincing way to do it. The dread is procedural rather than clinical, and it accumulates."
+  },
+  {
+    n: 184,
+    title: "The Nine Billion Names of God",
+    author: "Arthur C. Clarke",
+    venue: "Star Science Fiction Stories No. 1",
+    year: 1953,
+    url: "https://andrewmbailey.com/papers/Clarke.pdf",
+    mins: 13,
+    kind: "fiction",
+    lean: "a",
+    added: "2026-11-19",
+    accent: "#52386B",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="22" y="62" width="76" height="40" rx="4" stroke-width="2.4"/><path d="M32 74 H66" stroke-width="1.8" opacity=".8"/><path d="M32 84 H58" stroke-width="1.8" opacity=".6"/><path d="M32 93 H74" stroke-width="1.8" opacity=".45"/><circle cx="60" cy="34" r="18" stroke-width="2.2"/><path d="M60 16 V52" stroke-width="1.4" opacity=".5"/><path d="M42 34 H78" stroke-width="1.4" opacity=".5"/><path d="M47 21 L73 47" stroke-width="1.2" opacity=".3"/><path d="M73 21 L47 47" stroke-width="1.2" opacity=".3"/><circle cx="14" cy="18" r="2.4" stroke-width="2"/><circle cx="104" cy="14" r="2.4" stroke-width="2" opacity=".55"/><circle cx="112" cy="30" r="2.4" stroke-width="2" opacity=".25"/></g></svg>',
+    excerpt: "“This is a slightly unusual request,” said Dr. Wagner, with what he hoped was commendable restraint.",
+    note: "Two engineers install a Mark V automatic sequence computer in a Tibetan lamasery, rewired to print letters instead of numbers, because the order has spent three centuries hand-copying every permutation of nine characters that could spell the name of God, on the understanding that the universe is only running until the list is done. Fifteen thousand years of copying becomes about a thousand days of machine time, and the engineers take the contract the way engineers take any contract, as a tractable problem with an eccentric client. The story works because nobody in it disbelieves anything; the monks and the technicians simply hold incompatible views about what a completed computation means, and only one party has thought about what happens on the last day. The closing sentence is nine words long and is among the most famous in science fiction."
+  },
+  {
+    n: 185,
+    title: "What a Picture of a Dog Has to Do with Reason and Logic",
+    author: "Kristen French",
+    venue: "Nautilus",
+    year: 2026,
+    url: "https://nautil.us/what-a-picture-of-a-dog-has-to-do-with-reason-and-logic-1282727",
+    mins: 8,
+    kind: "interview",
+    lean: "b",
+    added: "2026-11-19",
+    accent: "#C9772F",
+    art: '<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke="var(--accent)" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="12" y="26" width="44" height="44" rx="4" stroke-width="2.4"/><path d="M20 62 L30 46 L38 56 L46 40 L48 62" stroke-width="2.2"/><rect x="64" y="26" width="44" height="44" rx="4" stroke-width="2.4" stroke-dasharray="5 5" opacity=".7"/><path d="M34 82 V96" stroke-width="1.6" opacity=".55"/><path d="M86 82 V96" stroke-width="1.6" opacity=".55"/><path d="M24 104 C24 96 44 96 44 104" stroke-width="2"/><path d="M76 104 C76 96 96 96 96 104" stroke-width="2" opacity=".6"/><path d="M56 48 H64" stroke-width="1.4" opacity=".4"/></g></svg>',
+    excerpt: "If someone asked you to think about the idea of a dog, you’d likely conjure a specific image in your mind",
+    note: "Hume held that to think about a dog at all you must first summon a picture of one, and that abstraction is only a picture used loosely. Uku Tooming, who co-wrote the paper this conversation is built around, points out that people with aphantasia form no mental images whatsoever and handle abstract concepts perfectly well — tending, if anything, toward strengths in logic and mathematics. What makes the exchange worth the eight minutes is how carefully he declines to overclaim: the finding embarrasses one empiricist rather than empiricism, since perception can start thinking without pictures doing the abstracting. It leaves open the stranger possibility that abstract thought runs on different machinery in different heads."
   }
 ];
